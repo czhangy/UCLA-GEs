@@ -10,7 +10,7 @@
 | Subcategory | Course | Term | Grade | 
 |:---|:---:|:---:|:---:|
 | Social Analysis | ANTHRO 4 | Winter '21 | IP |
-| Historical Analysis | ??? | ??? | ??? |
+| Historical Analysis | ARCH&UD 10B | Spring '21 | PL |
 
 ## Foundations of Scientific Inquiry
 | Subcategory | Course | Term | Grade | 
