@@ -4,6 +4,7 @@
 ## Overall: A+ | Raw Percentage: 97.5%
 
 ## Grading
+
 | Category | Percentage |
 |:---:|:---:|
 | Participation | 1% |
@@ -12,6 +13,7 @@
 | Project | 15% |
 
 ## Grades
+
 | Deliverable | Score |
 |:---:|:---:|
 | Midterm 1 | 42/43 |
