@@ -4,6 +4,7 @@
 ## Overall: A | Raw Percentage: 92.6%
 
 ## Grading
+
 | Category | Percentage |
 |:---:|:---:|
 | Participation | 15% |
@@ -14,6 +15,7 @@
 | Final Paper | 30% |
 
 ## Discussion Posts
+
 | # | Score |
 |:---:|:---:|
 | 1 | 9/10 |
@@ -26,6 +28,7 @@
 | 8 | 10/10 |
 
 ## Papers
+
 | Topic | Score |
 |:---|:---:|
 | Shot Analysis | 90/100 |

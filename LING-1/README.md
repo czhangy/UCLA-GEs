@@ -4,6 +4,7 @@
 ## Overall: A | Raw Percentage: 94.7%
 
 ## Grading
+
 | Category | Percentage |
 |:---:|:---:|
 | Participation | 10% |
@@ -14,6 +15,7 @@
 | Final | 23% |
 
 ## Homeworks
+
 | # | Score |
 |:---:|:---:|
 | 1 | 14/15 |
@@ -24,12 +26,14 @@
 | 6 | 13.87/16 |
 
 ## Papers
+
 | # | Score |
 |:---:|:---:|
 | 1 | 86/100 |
 | 2 | 100/100 |
 
 ## Exams
+
 | Exam | Score |
 |:---:|:---:|
 | Midterm | 47/50 |
