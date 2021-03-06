@@ -1,4 +1,5 @@
 # LING 1 - Introduction to Study of Language
+
 # Silvestri - Fall '20
 
 ## Overall: A | Raw Percentage: 94.7%

@@ -1,4 +1,5 @@
 # PHILOS 3 - Historical Introduction to Philosophy
+
 # DeWitt - Fall '19
 
 ## Overall: A- | Raw Percentage: 90.1%

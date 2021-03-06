@@ -1,4 +1,5 @@
 # PSYCH 85 - Introduction to Cognitive Science
+
 # McAuliffe - Summer '20
 
 ## Overall: A+ | Raw Percentage: 97.5%

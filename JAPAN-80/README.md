@@ -1,4 +1,5 @@
-# JAPAN 80 - Action and Moving Image in Modern japan
+# JAPAN 80 - Action and Moving Image in Modern Japan
+
 # Yamazaki - Winter '20
 
 ## Overall: A | Raw Percentage: 92.6%
