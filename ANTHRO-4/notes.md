@@ -962,7 +962,7 @@
   - In Ancient Greek pathos literally meant “what happens to a person”
     - Good or bad experience
     - From that it came to also mean emotion/passion
-  - English is the translation of the German Einfuhlung
+  - English is the translation of the German Einfühlung
     - Describes our capacity to experience what someone else is experiencing
   - Infants are distressed by the distress of others and may cry
   - Some animals are also distressed by the suffering of other animals
@@ -1178,3 +1178,70 @@
   - Does it make a difference if you know the identities of the speakers and the context of the interaction?
     - What do we learn about narratives?
     - What do we learn from analyzing narratives
+
+## 3/8: **Habitus**
+
+- Warning:
+  - Some of the concepts for this week are very complex and the language used to describe them is often difficult to understand
+  - Bourdieu's writing style doesn't help make it easier
+  - The phenomena that Bourdieu is trying to capture in both the world and about the world should become clearer with some examples
+- Today:
+  - Introduction to the notion of "habitus"
+    - Relation between "habitus" and practice
+  - What we call "structure" is the result of a "doing"
+    - Knowledge is not a thing but a process, hence mutable, variable, reshaped in unfolding everyday actions or, better, interactions
+  - On Wednesday, the question will be: can habitus be changed?
+- Bourdieu (1977)
+  - Bourdieu borrows from the phenomenological literature to uncover how the object of social science and the regularities captured by statistical methods are the product of practices, which are taken for granted
+  - Both Subject and Object are acknowledged and, most importantly, their ongoing dialectics
+  - Habitus substitutes consciousness, motivation, knowledge, etc.
+- Why "habitus"?
+  - Bourdieu wants to overcome the separation in science between the (acting/investigating) Subject (often hidden in the analysis) and the Object (the result of the analysis)
+  - He criticizes objectivism
+    - We think we're separate from what we're studying
+    - What appears objective is the product of a modus operandi (way of doing things) of which the Agent is not conscious
+- Dialectic relation
+  - The subject studying the object has subjective motivations
+  - The object (social reality, institutions)
+  - Habitus <--> structures
+  - Ex) school system as a structure/institution is the outcome of a dialectics of individuals' dispositions and institutional requirements/goals realized through practices (ways of being and doing)
+    - Are our goals?
+    - We project ourselves into a future defined by our experiences
+- The "commonsense world"
+  - The habitus produces a "commonsense world" that appears as a reality separate from the Subject (or Agent)
+  - Bourdieu is skeptical of the individual's intentions as separate from the habitus ("the harmony of ethos and taste") as dispositions that are acquired, practiced, and reproduced within a group
+- Different attitudes toward our "world"
+  - "the natural attitude" - the unmarked, default way of being in the world, including a practical engagement
+  - Examples of other attitudes:
+    - "theoretical attitude"
+    - "aesthetic attitude"
+    - "the arithmetic attitude"
+- Thesis: the "natural" is "cultural"
+  - How do we go about uncovering the "cultural" side of looking at the world and being in the world?
+  - 2 concept tools to think with: habitus and aspect
+- Habitus = "condition, state, dress, demeanor, character, etc."
+  - In using language
+  - In using tools
+  - Ways of seeing, hearing, feeling, etc.
+  - Being with others
+- Latin habitus
+  - From the verb habeo 'to have'
+- Bourdieu's use of Greek notion of hexis
+  - Speaks directly to motor function
+  - "in all societies, children are particularly attentive to the gestures and postures which, in their eyes, express everything that goes to make an accomplished adult"
+    - Children are looking at you all the time, absorbing information
+    - Imitation leads to success
+    - The knowledge of how to do things physically is embodied within you
+
+- Habitus implies:
+  - Constraints (how, where, with whom to do X, etc.)
+  - Structure (does it produce/support a "structure", a pattern, a predictable activity, e.g., a ritual, an institution?)
+  - History (have these people done it before, how do we know?)
+  - Competence (do they show they have a "feel for the game")
+  - Are they following a rule? Improvising?
+- Improvisation and corporeality
+  - "a theory of habitus is incomplete without a notion of structure that makes room for the organized improvisation of agents. to understand this 'social art' of improvisation consists of, we need to turn to Bourdieu's social ontology"
+
+## **3/10 blah**
+
+- 
