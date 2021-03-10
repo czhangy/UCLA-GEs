@@ -1,6 +1,10 @@
 # JAPAN 80 - Winter '20 - Yamazaki
 
-## **1/10: Discussion 1**
+
+
+[TOC]
+
+## **Discussion 1: Gunning, Davidson, and Wittgenstein**
 
 - Reading Points: Tom Gunning
   - "Making Sense of Film"
@@ -28,7 +32,7 @@
     - Relationship between inner life and external behavior is more complicated than "action reveals intentional movement," or "external behavior exemplifies internal character"
   - Action is not just intentional movement, but something more complex
 
-## **1/14: Animation and Cinema**
+## **Lecture 1: Animation and Cinema**
 
 - Agent, symptom, and reflexive critique
   - Not film as a reflection of society
@@ -54,12 +58,12 @@
   - Animation provides "a forum for achieving something like an intuitive or sensory understanding of the ‘effectiveness' of moving images and their uncanny metamorphoses" (Williamson on Eisenstein)
 - Revealing life vs. giving life
 
-## **1/17: Discussion 2**
+## **Discussion 2: Paprika**
 
 - Things to consider:
   - Cinematography
   - Editing
-  - Mise-en-scene
+  - Mise en scène
   - Sound
     - Diegetic (sounds the characters can hear/with a source onscreen)
     - Non-Diegetic
@@ -101,13 +105,13 @@
     - Same space contrasts (reversal of roles)
     - Multitude of selves, actions across multiple levels of consciousness
 
-## **1/21: Narrative and Attractions**
+## **Lecture 2: Narrative and Attractions**
 
 - Story (presumed and inferred events) combine with plot (added non-diegetic material), both presented by explicitly presented events
 - Narrative defined by space, time, cause and effect, and situation
 - Personhood and the constitution of self
 
-## **1/23: "Cinema of Attractions"**
+## **Lecture 3: Cinema of Attractions**
 
 - Tom Gunning
   - 1906/1908
@@ -133,7 +137,7 @@
   - Sensory experience of perception
     - Touch, smell, hearing, etc.
 
-## **1/24: Discussion 3**
+## **Discussion 3: Dead or Alive**
 
 - Reading Points: Gunning
   - Early Cinema (pre-1906): "cinema of attractions"
@@ -177,7 +181,7 @@
     - Attraction v. repulsion
     - Sequel?
 
-## **1/31: Discussion 4**
+## **Discussion 4: Lastra**
 
 - Shot Analysis Assignment
   - Provide Content
@@ -210,7 +214,7 @@
   - Noise in daily life - desensitization to noise
     - Requires continual increase of shock value
 
-## **2/4: Realism and Cinematic Violence of Jidaigeki**
+## **Lecture 4: Realism and Cinematic Violence of Jidaigeki**
 
 - Jidaigeki:
   - Early age: small production, with smaller budget without capitalization of film
@@ -237,7 +241,7 @@
   - Shinpa - set in post-Meiji Restoration
   - Gendaigeki - the ever-changing present from the mid-1920s onwards
 
-## **2/14: Discussion 5**
+## **Discussion 5: Lady Snowblood**
 
 - Linda Williams: "Film Bodies"
   - Form, function, and system of seemingly gratuitous excess
@@ -290,7 +294,7 @@
     - Ryu sacrifices self
     - Ryu connected to both Yuki and his father
 
-## **2/21: Discussion 6**
+## **Discussion 6: The Emperor's Naked Army**
 
 - The Emperor's Naked Army
   - What is a documentary?
@@ -313,7 +317,7 @@
       - Show the good and bad
       - Coherence?
 
-## **2/28: Discussion 7**
+## **Discussion 7: Mackinnon, Stoljar, and Allison**
 
 - Mackinnon: "Women, Self-Possession, and Sport"
   - Liberal Feminism

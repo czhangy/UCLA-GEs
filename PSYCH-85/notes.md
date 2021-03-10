@@ -1,6 +1,10 @@
 # PSYCH 85 - Summer '20 - McAuliffe
 
-## **8/3: Introduction/Philosophical Approach**
+
+
+[TOC]
+
+## **Lecture 1: Introduction/Philosophical Approach**
 
 - Thinking about the mind - think in a continuum rather than yes/no
   - Dog (survival, basic commands) → chimpanzee (more complex problem solving, language-ish) → humans (self-awareness, a sense of individualism, language)
@@ -62,7 +66,7 @@
         - Brain is the structure, mind is the function
         - A mind is something that functions as a mind
 
-## **8/5: Philosophical Approach/Psychological Approach**
+## **Lecture 2: Philosophical Approach/Psychological Approach**
 
 - Schools of thought
   - Nativism - Much knowledge is innate - Plato
@@ -256,7 +260,7 @@
     - Analytic treatments not appropriate for many disorders
     - Unscientific and unpredictable
 
-## **8/10: Psychological Approach/Cognitive Approach**
+## **Lecture 3: Psychological Approach/Cognitive Approach**
 
 - Behaviorism
   - Ignore the black box of the mind
@@ -388,7 +392,7 @@
     - Central executive - controls processes
   - Visual working memory - remember 4 items, working memory holds 4 items, not attributes
 
-## **8/12: Cognitive Approach**
+## **Lecture 4: Cognitive Approach**
 
 - F-task: verbal is easier
 - Sentence task: visuospatial is easier
@@ -430,7 +434,7 @@
       - Free will requires the brain to take on a quality that goes beyond physics
       - We're tricked into having free will
 
-## **8/17: Judgement and Problem Solving**
+## **Lecture 5: Judgement and Problem Solving**
 
 - Mismatch between physiology and modern technology
 - Heuristic judgement:
@@ -472,7 +476,7 @@
     - Schemas: experience with similar situations in the past can be used to guide new searches
   - Insight problems: involve a sudden change in the mental representation of the problem
 
-## **8/24: Linguistic Approach/Evolutionary Approach**
+## **Lecture 6: Linguistic Approach/Evolutionary Approach**
 
 - Language characteristics
   - Communication
@@ -554,7 +558,7 @@
     - Infertile time - long-term partners
     - Moderated by partner symmetry
 
-## **8/26: Signal Detection Theory/Cognitive Neuroscience**
+## **Lecture 7: Signal Detection Theory/Cognitive Neuroscience**
 
 - Question: Is "it" there?
 - Testing for the existence of something cannot be described by a simple percentage
@@ -607,7 +611,7 @@
       - Good temporal resolution, bad spatial resolution
     - Imaging issues: may find correlative response that isn't necessary for task
 
-## **8/31: Neuroscience Approach/Network Approach**
+## **Lecture 8: Neuroscience Approach/Network Approach**
 
 - Vision
   - Photoreceptor cells
@@ -719,7 +723,7 @@
   - Supervised networks - where is the teacher?
   - Biological plausibility of teacher
 
-## **9/2: Network Approach/Artificial Intelligence**
+## **Lecture 9: Network Approach/Artificial Intelligence**
 
 - Turing Test objections
   - The judge has to be competent

@@ -1,6 +1,10 @@
 # LING 1 - Fall '20 - Silvestri
 
-## **10/2: Introduction**
+
+
+[TOC]
+
+## **Lecture 1: Introduction**
 
 - Linguistics is the scientific study of language
   - We make observations about what people say
@@ -72,9 +76,9 @@
   - Prescriptive grammar - rules of grammar used by teachers, for example
     - What the speaker's rules should be
     - Can you understand people when they break these rules?
-    - Ex. Double negatives in English, stranded/dangling prepositions
+    - Ex) Double negatives in English, stranded/dangling prepositions
 
-## **10/7: Intro to Linguistics**
+## **Lecture 2: Intro to Linguistics**
 
 - The language instinct
   - We humans, all of us, are all capable of intuitions about language
@@ -98,7 +102,7 @@
 - Why study language?
   - The questions that we try to ask and answer when we study language contribute to answer the ultimate questions about human beings
 
-## **10/12: Language and Dialect**
+## **Lecture 3: Language and Dialect**
 
 - Language variations/dialect differences
   - Is the way that any one person or group of people speak better than anyone else's?
@@ -208,7 +212,7 @@
       - 5 basic parameters: shape of the hand, place of articulation, movement, palm orientation, facial expression
     - Each signed language has a restricted set of hand shapes that can be used
 
-## **10/14: Variation in Language**
+## **Lecture 4: Variation in Language**
 
 - About Languages
   - We all have high-level grammatical insights without even being aware of it
@@ -266,7 +270,7 @@
     - Two-handed vs. One-handed variants of the ASL cow based on southern region vs. other regions of the US
   - Change in time in BSL
 
-## **10/15: Discussion 2**
+## **Discussion 1: Dialects**
 
 - Linguistic Variation
   - People speak differently from each other
@@ -293,7 +297,7 @@
   - We have seen these negative attitudes have no linguistic basis
   - Native speakers may be unaware of the grammar rules of non-standard speech
 
-## **10/17: The Brain and Language**
+## **Lecture 5: The Brain and Language**
 
 - Where is language processed in the brain?
   - Are all aspects of language processed in the same part of the brain?
@@ -394,12 +398,12 @@
     - High level of vocabulary and grammar
     - Better than average facial recognition
     - Often love music
-    - Result of deletion of one copy of approx. 20 contiguous genes on chromosome 7
+    - Result of deletion of one copy of approximately 20 contiguous genes on chromosome 7
   - Linguistic savants
     - People who have low general intelligence, but very high language intelligence
     - Another case of dissociation between language ability and IQ
 
-## **10/21: Biological Linguistics**
+## **Lecture 6: Biological Linguistics**
 
 - How do we know that language is a biologically-determined ability?
 - Language development and age/time
@@ -485,7 +489,7 @@
     - Languages learned only in a formal context
       - Use of L2 mostly in a formal context → lack of socio-pragmatic competence
 
-## **10/22: Discussion 3**
+## **Discussion 2: The Brain**
 
 - Brain and Language
   - Localization of language in the brain
@@ -532,7 +536,7 @@
       - Very specific types of difficult with language, omission of function or grammatical words
       - Fall in the typical IQ range, normal ability in all other areas like speech comprehension and hearing
     - Williams Syndrome
-      - Avg. IQ: 55
+      - Average IQ: 55
       - Limited spatial and motor skills
       - Extremely social and friendly
       - Typically have strong affinity for music
@@ -549,7 +553,7 @@
     - Language suggests associations not entailed by experience
   - Formulations
 
-## **10/24: Phonetics**
+## **Lecture 7: Phonetics**
 
 - Phonetics is how speech sounds are produced, transmitted, and perceived
   - We're going to focus on their production
@@ -601,7 +605,7 @@
           - Cap vs. Gap
           - Voiceless vs. Voiced
             - Voiceless - vocal folds/cords are apart, air flows freely through the glottis - `[s]`
-            - Voiced - vocal folds.cords are together, air forces through, causing vibrations - `[z]`
+            - Voiced - vocal folds/cords are together, air forces through, causing vibrations - `[z]`
         - Manner of articulation - how is the consonant produced?
           - Stops - there is a complete obstruction of airflow somewhere in the vocal tract
             - Oral stops
@@ -708,7 +712,7 @@
         - Movement
         - Palm orientation
 
-## **10/28: Linguistic Change**
+## **Lecture 8: Linguistic Change**
 
 - Case of Martha's Vineyard
   - Island in the US East coast
@@ -746,7 +750,7 @@
         - Age: 31-45
         - Origin: Yankees, only by a little
         - Occupation: Fisherman mostly, less in people working in tourism
-        - Location: Up Island residents, esp. around Chilmark
+        - Location: Up Island residents, especially around Chilmark
   - Explanation:
     - Centralizing tendency was actually diminishing in the 1930s
     - Remained in dialect of middle-aged rural fisherman
@@ -757,7 +761,7 @@
   - Urban accents were thought to be too adverse and to heterogenous to study
   - Labov's conclusion: social factors were in fact the most significant and important
 
-## **10/29: Discussion 4**
+## **Discussion 3: Consonants and Vowels**
 
 - Consonants
   - Place of articulation: where is the constant produced
@@ -787,7 +791,7 @@
   - Tongue height - high, mid, low
   - Roundness - rounded, unrounded
 
-## **11/2: Morphology**
+## **Lecture 9: Morphology**
 
 - Morphology is the study of words - their structure, function, and distribution
   - Goal is to understand how words are represented in the mind of the speaker
@@ -898,7 +902,7 @@
         - Reduplicating once - to do something a little bit
         - Replicating twice - continuous action
 
-## **11/4: Morphological and Syntactic Variation**
+## **Lecture 10: Morphological and Syntactic Variation**
 
 - Reduplication in Italo-Romance
   - The case of the formation of superlatives
@@ -919,7 +923,7 @@
     - Phonetics, morphology, syntax, lexis
     - LAmSp weak pronouns can be reduplicated
 
-## **11/5: Discussion 5**
+## **Discussion 4: Morphemes**
 
 - Types of morphemes
   - Free: lexical and functional
@@ -933,7 +937,7 @@
     - Derivational - can changes the syntactic category of the word they attach to
     - Inflectional morphemes never change the category of the root word
 
-## **11/12: Syntax**
+## **Lecture 11: Syntax**
 
 - Syntax is the study of how phases and sentences are constructed
 - There are a lot of similarities between word construction and sentence construction
@@ -1007,14 +1011,14 @@
     - `PP → Prep (NP)`
       - Prepositional phrases have a mandatory preposition and an optional noun phrase
 - Phrase structure trees
-  - Syntactic trees allow us to see.encode the constituency of a sentence directly
+  - Syntactic trees allow us to see/encode the constituency of a sentence directly
   - When we use trees, we must do 2 things:
     - Accurately represent word order
     - Identify constituents
   - Are like blueprints for a sentence
     - Show us how sentences are built
     - How they can be broken down into pieces
-  - Where do these trees.constituent structures come from?
+  - Where do these trees/constituent structures come from?
   - How do speakers correctly structure their utterances?
   - Leading hypothesis: speakers appeal to unconscious/internalized phrase structure rules
   - Part of knowledge of native language - you know phrase structure rules that enable you to make hierarchy constituent structures effortlessly
@@ -1047,7 +1051,7 @@
     - Conditional inversion - if...then clauses
     - Varies based on the English dialect → use in different contexts
 
-## **11/12: Language Acquisition**
+## **Lecture 12: Language Acquisition**
 
 - How do children acquire their first language?
   - Who's the teacher?
@@ -1138,7 +1142,7 @@
   - 11+ years - aphasic symptoms persist
   - Lateralization tied to the critical period
 
-## **11/22: Language Contact**
+## **Lecture 13: Language Contact**
 
 - Language contact occurs when 2 or more languages or dialects come into extended contact with each other
 - Languages and speakers do not exist in isolation, but in social settings
@@ -1275,7 +1279,7 @@
       - Speakers must have access to electronic technology
         - Allows speakers of minority languages to be in contact with each other
 
-## **12/1: Language Change Over Time**
+## **Lecture 14: Language Change Over Time**
 
 - Why are languages diverse?
   - Divine intervention - Tower of Babylon

@@ -1,6 +1,10 @@
 # ANTHRO 4 - Winter '21 - Duranti
 
-## **1/4: Introduction**
+
+
+[TOC]
+
+## **Lecture 1: Introduction**
 
 - Study languages to gain an understanding of their speakers’ way of thinking, feeling, and acting
   - Assumes that languages in general/particular uses of a specific language reveal information about their speakers’ way of thinking, feeling, and acting
@@ -8,7 +12,7 @@
 - Linguistic anthropology was born in the US/Canada with the study of Native American languages
   - Focus on spoken language, less emphasis on written languages
 
-## **1/6: Boas’ Methods and Transcription**
+## **Lecture 2: Boas’ Methods and Transcription**
 
 - Related but distinct fields interested in language documentation
   - Linguistic anthropology, linguistics, sociolinguistics
@@ -43,7 +47,7 @@
     - Awareness of difference of elicited talk between native → non-native and native → native
   - From limited data, learn about nouns, syllables, sounds, stress, word order, ellipsis, morphology, etc.
 
-## **1/7: Boas - Introduction**
+## **Reading 1: Boas Introduction**
 
 - Focus on discussion of articulate speech
 - Character of Phonetics
@@ -136,7 +140,7 @@
   - In a discussion of the characteristics of various languages, different fundamental categories will be found
   - Giving each language a proper place requires the comparison of both phonetic and grammatical characteristics
 
-## **1/7: Malinowski - The Problem of Meaning in Primitive Languages**
+## **Reading 2: The Problem of Meaning in Primitive Languages**
 
 - Language is an instrument of thought and of the communication of thought
   - The study of language aims to properly use this instrument
@@ -163,7 +167,7 @@
   - The means of linguistic action and expression can be brought under certain rules and classified according to certain categories
   - As language and thought develop, the constant action of metaphor, generalization, analogy, and abstraction build links between categories and cross boundary lines
 
-## **1/7: Chomsky - Aspects of the Theory of Syntax**
+## **Reading 3: Aspects of the Theory of Syntax**
 
 - Linguistic theory is concerned with an ideal speaker-listener
   - To study actual linguistic performance, we must consider the interaction of a variety of factors
@@ -189,7 +193,7 @@
   - Attempts to specify what the speaker actually knows, not what he reports he knows
   - Not a model for speaker or hearer, attempts to characterize the knowledge of the language in the most neutral terms possible
 
-## **1/11: Phonetic Descriptions**
+## **Lecture 3: Phonetic Descriptions**
 
 - Boas and Malinowski share an interest in culture
   - Language is an important instrument to getting into culture
@@ -252,7 +256,7 @@
   - Ethnographers of speaking studied speech events
   - Some sociologists started to study conversation
 
-## **1/11: Boas - On Alternating Sounds**
+## **Reading 4: On Alternating Sounds**
 
 - “Sound blindness” - people cannot distinguish differences in key and timber of sounds that are normally easily discernible
   - Name comes from similarity to color-blindness
@@ -281,7 +285,7 @@
   - Test that people that speak a primitive language hear our own language as consisting of alternating sounds
 - Sound blindness and alternating sounds really result of alternating perceptions
 
-## **1/11: Whorf - Science and Linguistics**
+## **Reading 5: Science and Linguistics**
 
 - Talking and its connection to thinking
   - Speech habits automatic → notions tend to be intolerant of opposition
@@ -323,7 +327,7 @@
 - Grand generalizations are not essential to the construction of a consistent picture of the universe
   - Hopi doesn’t have a concept of time
 
-## **1/11: Malinowski - Coral Gardens and Their Magic**
+## **Reading 6: Coral Gardens and Their Magic**
 
 - Ethnographers have to see/hear their subject, witness the rites, ceremonies, and activities, collect opinions on them
   - Active, personal, and visual side are main concern
@@ -360,7 +364,7 @@
 - Words do not exist in isolation
 - Arguing that the theoretical uses of words in modern philosophic and scientific writing are detached from pragmatic sources is an error
 
-## **1/11: Duranti - Linguistic Anthropology: Language as a Non-Neutral Medium**
+## **Reading 7: Linguistic Anthropology: Language as a Non-Neutral Medium**
 
 - Ontological commitments
   - Means the programmatic interest to pursue topics and questions that are generate or justified by a particular ontology of language
@@ -473,7 +477,7 @@
   - Continuity - represented by ontological commitment to language as a non-neutral medium
   - Discontinuity - represented by different concepts of language
 
-## **1/13: Linguistic Diversity and Relativity**
+## **Lecture 4: Linguistic Diversity and Relativity**
 
 - Malinowski
   - Language is an instrument of thinking and of the communication of thinking → civilized perspective → 1st attempt
@@ -503,7 +507,7 @@
   - Different in other languages, analysis characterized by English bias
 - Reflexivity, language socialization as a never-ending process, we can become aware of our limits
 
-## **1/15: Austin - How to Do Things with Words**
+## **Reading 8: How to Do Things with Words**
 
 - It’s been assumed that the point of a statement is to describe some state of affairs or fact
   - Regularly pointed out by grammarians that not all sentences are used to make statements
@@ -526,7 +530,7 @@
   - When such intention is absent → false promise
   - Utterance is misleading, implies a falsehood or misstatement → false is not used in statements only
 
-## **1/15: Duranti - Theoretical Concerns in Contemporary Linguistic Anthropology**
+## **Reading 9: Theoretical Concerns in Contemporary Linguistic Anthropology**
 
 - 3 major areas: performance, indexicality, and participation
 - Participation
@@ -573,7 +577,7 @@
     - Does not assume a equally shared knowledge or control of such resources
   - Meaning is often constructed by the juxtaposition of different voices
 
-## **1/15: Duranti - A Focus on Performance**
+## **Reading 10: A Focus on Performance**
 
 - Chomsky
   - Performance - perception and production
@@ -645,7 +649,7 @@
   - Contemporary linguistic anthropology uses a variety of analytical tools and concepts to examine the power of language in a wide range of social situations
   - Race, gender, class, etc. are treated as interdependent factors
 
-## **1/26: From Words to Acts**
+## **Lecture 5: From Words to Acts**
 
 - Greetings
   - Greetings change over time
@@ -734,7 +738,7 @@
   - Implicit establishment of a spatio-temporal unit of interaction
   - Identification of the interlocutor as a party worth recognition
 
-## **1/28: Formal Speech Events**
+## **Lecture 6: Formal Speech Events**
 
 - Overall goal: to understand some features of public events and their language
 - An anthropological technique
@@ -780,7 +784,7 @@
   - Creative, unknown, unpredictable, informal, improvised → formulaic, known, predictable, formal, planned
 - How much room do formal events have for variation and improvisation?
 
-## 2/1: **Indexicality**
+## **Lecture 7: Indexicality**
 
 - The Problem of Context
   - Malinowski said we need to pay attention to the “context of situation”, but how do we know what the “context” is?
@@ -817,7 +821,7 @@
   - Can 2 or all 3 signs be combined?
   - Can something be iconic, indexing, and symbolic?
 
-## 2/3: **Recognition and Code Switching**
+## **Lecture 8: Recognition and Code Switching**
 
 - What do greetings do?
   - For Malinowski, they establish/maintain contact (Phatic communion) but are not for expressing ideas/reflections
@@ -851,7 +855,7 @@
   - Intersentential - between sentences
   - Intrasentential - within the same sentence
 
-## **2/8: Ethnographic Methods**
+## **Lecture 9: Ethnographic Methods**
 
 - Ethnography
   - Writing down (fixing, inscribing) culture, e.g., in “fieldnotes”, transcripts, images, film/videos
@@ -903,7 +907,7 @@
     - Age, gender, personal prestige, etc.
   - “Egalitarian” refers to societies where there are no distinctions of status or rank except for age, gender, and personal prestige
 
-## **2/10: Death Penalty in the US**
+## **Lecture 10: Death Penalty in the US**
 
 - Ethics in research
   - The Observer’s Paradox cannot be easily avoided
@@ -952,7 +956,7 @@
     - Interviews → open-ended questions
     - Analyzed jurors’ narrative, statements, descriptions of their feelings
 
-## **2/15: Empathy and Personal Reference**
+## **Lecture 11: Empathy and Personal Reference**
 
 - Why is it difficult to look at certain photos or at certain scenes of a movie?
   - Violent, graphic, visceral, etc. describe the object of our reaction
@@ -997,7 +1001,7 @@
     - Language can be used for this
   - Does communication have a role in evoking empathy, identification vs. emotional distance?
 
-## **2/22: Agency, Intentionality, Responsibility**
+## **Lecture 12: Agency, Intentionality, Responsibility**
 
 - Objectivity
   - Is objectivity possible? What is it?
@@ -1032,7 +1036,7 @@
     - Are evaluated from a practical, aesthetic, and moral point of view for what they do and how they do it
       - The moral point of view implies responsibility
 
-## **2/24: Narrating the Self**
+## **Lecture 13: Narrating the Self**
 
 - What makes humans different?
   - Social organization?
@@ -1067,7 +1071,7 @@
   - Present progressive
   - Past progressive
 
-## **3/1: Language Socialization**
+## **Lecture 14: Language Socialization**
 
 - Goal: to understand language acquisition from an ethnographic and cross-cultural perspective
 - Themes and Concepts
@@ -1137,7 +1141,7 @@
   - Each method uncovers different aspects of a child’s world and different properties of language
   - Language socialization sees talk as part of a larger set of strategies
 
-## **3/3: Family Narratives**
+## **Lecture 15: Family Narratives**
 
 - Topics:
   - The concepts of "narrative"
@@ -1179,7 +1183,7 @@
     - What do we learn about narratives?
     - What do we learn from analyzing narratives
 
-## 3/8: **Habitus**
+## **Lecture 16: Habitus**
 
 - Warning:
   - Some of the concepts for this week are very complex and the language used to describe them is often difficult to understand
@@ -1242,6 +1246,6 @@
 - Improvisation and corporeality
   - "a theory of habitus is incomplete without a notion of structure that makes room for the organized improvisation of agents. to understand this 'social art' of improvisation consists of, we need to turn to Bourdieu's social ontology"
 
-## **3/10 blah**
+## **Lecture 17: blah**
 
 - 

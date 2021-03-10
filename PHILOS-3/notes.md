@@ -1,6 +1,10 @@
 # PHILOS 3 - Fall '19 - DeWitt
 
-## **9/27: Introduction to Morality**
+
+
+[TOC]
+
+## **Lecture 1: Introduction to Morality**
 
 - Science as an extension of the 5 senses
   - Ex) can’t witness morality
@@ -9,12 +13,13 @@
 - Ethical theories of Kant and Aristotle, then philosophy of mind
 - Question existence, purpose, reality
 
-## **9/30: Practical Rationality**
+## **Lecture 2: Practical Rationality**
 
 - Kant/Aristotle rely on practical rationality, difference in theories of it
 - Practical Rationality: dependency on current situation, society’s values, ingrained values
   - Most actions’ pros and cons are directed toward the self, still hold regard for others
-  - Can hold higher values than our own good, ex) directed toward nation/family/friends
+  - Can hold higher values than our own good
+    - Ex) directed toward nation/family/friends
   - Not always rational, can be practically irrational or arational
   - Wallet scenario
   - Looks upon self as one of many equals, build others into consideration
@@ -39,7 +44,7 @@
   - Should produce a healthy society that is more productive, more positive than negative, therefore should align with self-interests with minor differences
 - Eudaimonia - human flourishing, the good life, used by Kant to describe Plato/Aristotle
 
-## **10/1: Arguments in Philosophy**
+## **Discussion 1: Arguments in Philosophy**
 
 - In general, what is a good argument in philosophy?
   - A good argument is one that deals with a question that is not definite/has no correct answer
@@ -63,7 +68,7 @@
   - sophia - wisdom
   - Using logic to arrive at a conclusion
 
-## **10/2: Nicomachean Ethics Book I**
+## **Lecture 3: Nicomachean Ethics Book I**
 
 - Chapter 1
 - "Every skill and every inquiry, and similarly every action and rational choice, is thought to aim at some good; and so the good has been aptly described as that at which everything aims" - Aristotle’s view on practical rationality
@@ -81,7 +86,7 @@
   - If desires led to nothing, then they would be meaningless
     - Ultimate goal gives desires meaning
 
-## **10/4: Nicomachean Ethics Book I**
+## **Lecture 4: Nicomachean Ethics Book I**
 
 - Is there a single universal good or is there multiple goods that are completely distinct?
 - Aristotle thinks all goods fall under the category of a more general good, and will eventually end up as "the good"
@@ -105,7 +110,7 @@
 - End of all action determined to be happiness
 - Eudaimonia = human flourishing "the good life"
 
-## **10/7: Nicomachean Ethics Book I**
+## **Lecture 5: Nicomachean Ethics Book I**
 
 - Chapter 5
   - Possibilities for happiness:
@@ -134,7 +139,7 @@
       - That for the sake of all other ends are chosen
       - Chosen for its own sake vs. chosen only for its own sake
 
-## **10/8: Aristotle 1**
+## **Discussion 2: Aristotle 1**
 
 - Is the following a validly deductive argument?
   - If "experts" could always be trusted to make the right moral decision, then public participation would not be necessary -- but they cannot be, and so it is. - Carl Sagan
@@ -159,7 +164,7 @@
 - Invalid: If A, not B → Not A → Therefore, B
 - COUNTERARGUMENT
 
-## **10/9: Nicomachean Ethics Book I**
+## **Lecture 6: Nicomachean Ethics Book I**
 
 - Chapter 7
   - Self-sufficient- when you have it, you are not lacking anything
@@ -172,7 +177,7 @@
 - Function argument:
   - The good relates to the characteristic function or activity of an object
 
-## **10/11: Nicomachean Ethics Book I**
+## **Lecture 7: Nicomachean Ethics Book I**
 
 - Chapter 7
   - Qua = as
@@ -205,7 +210,7 @@
     - Reason - mind, non-rational 1: heart, non-rational 2: stomach (not literal)
     - The virtues are the standards of excellence, when we reason well, we have virtue
 
-## **10/14: Nicomachean Ethics Book I**
+## **Lecture 8: Nicomachean Ethics Book I**
 
 - Chapter 7
   - The function of a thing is the same as the function of the excellent version of that thing
@@ -228,7 +233,7 @@
       - Allows you to guide and govern your possession of other goods
       - Enjoyment required for virtue, end in itself, not a means to an end
 
-## **10/15: Aristotle 2**
+## **Discussion 3: Aristotle 2**
 
 - What is the difference between "complete" and "choice-worthy" in the end of all ends? Is completeness necessary for choice-worthiness? Is choice-worthiness necessary for completeness?
   - Completeness is necessary for choice-worthiness, as a choice-worthy goal is the most complete goal. However, a good does not have to be choice-worthy to be complete. Something that is choice-worthy is done for the sake of itself and itself alone, while a complete good can be done for an end
@@ -246,7 +251,7 @@
 - Dualism is the view that the mind (or soul) is separate from the body. So there are at least 2 substances in the world for the dualist: physical stuff (the body) and non-physical stuff (the soul). It is generally agreed that Aristotle is not a dualist, that is to say, the mind/soul and body are made out of the same physical substance. Do you agree with the dualist or with Aristotle?
   - If the mind and body are separate, then either one could exist without the other. However, when the mind dies, the body does too, and vice versa, therefore they must be connected
 
-## **10/16: Nicomachean Ethics Book I + Book II**
+## **Lecture 9: Nicomachean Ethics Book I + Book II**
 
 - Chapter 8
   - Someone is not just/generous if they don’t enjoy doing just/generous things
@@ -279,7 +284,7 @@
       - You learn what’s good about an action by doing it
       - Tension found in burning building example, doesn’t make life better for yourself
 
-## **10/18: Nicomachean Ethics Book II**
+## **Lecture 10: Nicomachean Ethics Book II**
 
 - Chapter 1
   - Habituation allows us to make it easier to develop the right habits, performing an activity over and over creates a disposition towards performing that activity
@@ -298,7 +303,7 @@
         - Relative to the individual and the situation
     - Virtuous actions are self-reinforcing, virtuous acts promote and preserve virtue
 
-## **10/21: Nicomachean Ethics Book II**
+## **Lecture 11: Nicomachean Ethics Book II**
 
 - Fear relates to courage, anger relates to justice
 - Practical reasoning- reasoning about action
@@ -306,7 +311,7 @@
   - Either conscious or unconscious (instinct)
   - About the present, past, or future
 
-## **10/22: Writing a Philosophy Paper**
+## **Discussion 4: Writing a Philosophy Paper**
 
 - 3 goals: writing clearly and concisely, analytical/critical thinking, understanding of Philosophy 3 concepts
 - Pre-Writing:
@@ -379,7 +384,7 @@
   - Make sure you have followed the guidelines from this lecture
   - Think about the feedback given to you
 
-## **10/23: Nicomachean Ethics Book II**
+## **Lecture 12: Nicomachean Ethics Book II**
 
 - Reason how it is best to act in a specific circumstance
 - Evolution drives perception and reaction together, one is useless without the other
@@ -393,7 +398,7 @@
     - At the right time
       - Missing one = vicious act, must hit mean
 
-## **10/25: Nicomachean Ethics Book II**
+## **Lecture 13: Nicomachean Ethics Book II**
 
 - Emotion is a state where we can analyze our situation, directs our attention to valuable factors
 - Pleasure is related to desire, which is related to emotion
@@ -410,7 +415,7 @@
 - Aim to get as close to the mean, knowing we will often miss it
 - The virtues are basic elements needed to make our lives go well → virtue leads to good life
 
-## **10/29: Aristotle 3**
+## **Discussion 5: Aristotle 3**
 
 - What is character according to Aristotle?
   - Character is formed through habituation towards a certain action, it requires practice to develop, much like a skill
@@ -424,7 +429,7 @@
 - Would, or could, Aristotle describe Malala’s actions as courageous? If so, how? Discuss.
 - Character - formed through habituation to certain actions, involves a strong or proper structure of the soul, development through practice
 
-## **10/30: Kant**
+## **Lecture 14: Kant**
 
 - Empirical/a posteriori ethics vs. a priori (Kant)
 - Empirical requires observation while a priori involves interactions within the mind
@@ -440,7 +445,7 @@
 - Correct/right/good in relation to values
   - If known, you can right form correctness/for moral law
 
-## **11/1: Kant**
+## **Lecture 15: Kant**
 
 - Unconditionally good - there is no situation where it is not good, good without limitation categorically, absolutely, exceptionless, and conditionless
   - Necessary rather than contingent
@@ -449,7 +454,7 @@
     - Pursuit of and consequences can be bad
     - Everything is conditionally good, the condition is the good will (unconditionally good)
 
-## **11/4: Kant**
+## **Lecture 16: Kant**
 
 - The only unconditionally good thing is the good will
   - It is a will that knows what the right/correct thing to do is
@@ -467,7 +472,7 @@
 - Reason can make you aware of what you don’t have and what’s wrong
 - The closer we exist to our natural state (don’t use reason to realize what you don’t have/don’t need), the happier we are
 
-## **11/5: Kant 1**
+## **Discussion 6: Kant 1**
 
 - Define and give an example of a priori and a posteriori
   - A priori focuses on theoretical interactions within the mind, while a posteriori relies on empirical thought and physical observation. An example of a posteriori thought is that I can see a red car, therefore I know the car is red, while an example of a priori is that I am taller than Adam, Adam is taller than John, therefore I am taller than John.
@@ -478,7 +483,7 @@
 - Which approach to a moral theory do you think is more tenable, a deontological or consequential approach?
   - I think a consequential approach is the more tenable route, as the effect you have on the world has to be considered for a moral outcome. Every part of what you do should be considered in addressing the morality of your action.
 
-## **11/8: Kant**
+## **Lecture 17: Kant**
 
 - Suppress natural emotions, focus on pure reason, hyper-rationality —> not the full picture
   - Can you still act if all desires are stripped away? If yes, then there is something other than our inclinations driving us
@@ -501,7 +506,7 @@
   - 1) Objective principles - hold for all rational beings (not ones we act in directly)
   - 2) Subjective principles - principles of the subject - the ones we actually act on
 
-## **11/13: Kant**
+## **Lecture 18: Kant**
 
 - A maxim is all factors need to understand an action
 - Kant has 2 intents - morality and happiness
@@ -522,7 +527,7 @@
 - The naturally beneficent man is motivated by happiness, he enjoys helping others
   - Acting on sympathy or compassion can lead people astray, therefore acting on purely duty is the optimal way forward
 
-## **11/15: Kant**
+## **Lecture 19: Kant**
 
 - 2 sources/types of motivation
   - From self-interest/self-love/happiness
@@ -553,7 +558,7 @@
       - Governs our higher nature (morality) vs. lower nature (happiness/a posteriori)
       - Is universal and necessary
 
-## **11/18: Kant**
+## **Lecture 20: Kant**
 
 - Goal of the text is to find the moral law, to judge whether actions are moral or immoral
   - It must be a categorical imperative
@@ -570,7 +575,7 @@
 - Common challenge: Nazi Germany, hiding Jews, when asked, telling the truth is immoral
   - Kant often treated as a moral absolutist
 
-## **11/19: Kant 2**
+## **Discussion 7: Kant 2**
 
 - What is a good will?
   - Governed by the moral law and motivated by duty
@@ -625,7 +630,7 @@
   - Maxims are subjective principles, the particular actions we act on
   - There’s also going to be an objective principle, the moral law, but we will make this our own so it will become subjective as well
 
-## **11/20: Kant**
+## **Lecture 21: Kant**
 
 - Type B - general policies like "never help anyone"
   - Contradiction in willing - if you need help or you will die, you must will for help and therefore contradict your policy
@@ -648,8 +653,8 @@
       - Must be a universal end, something that every rational being wills
         - Cannot be empirical, subjective, material
 
-## **11/22: Kant**
-  
+## **Lecture 22: Kant**
+
 - A regular maxim cannot be set as a universal law, because the ends are not ideal for everyone
   - Therefore cannot be the good will - requires that the end is a universal end
 - What does a good will will?
@@ -689,7 +694,7 @@
 - Positive duties are secondary to negative duties
   - If the only way to follow a positive duty is to be immoral, it is not necessary
 
-## **11/25: Aquinas**
+## **Lecture 23: Aquinas**
 
 - Initial question
   - Usually answered with a yes or no
@@ -728,7 +733,7 @@
   - Form and matter:
     - A statue is made of marble and has a certain shape
 
-## **11/26: Kant 3**
+## **Discussion 8: Kant 3**
 
 - What is a hypothetical imperative?
   - This is the standard of correctness willing for self-love or happiness
@@ -779,7 +784,7 @@
   - Thesis:
   - Mention perfect/imperfect duties duty to help, duty to not lie
 
-## **12/2: Aquinas**
+## **Lecture 24: Aquinas**
 
 - Substance - 2 types, composite and simple
   - Composite substances are those composed of form and matter (physical substances)
@@ -807,7 +812,7 @@
     - It may be a principle of life, but not the first principle
   - Soul - the first principle of life, the act of the body
 
-## **12/3: Discussion**
+## **Discussion 9: Aquinas 1**
 
 - Pre-writing:
   - I did not wait until the last minute to start this paper
@@ -860,7 +865,7 @@
 - What is Materialism of the mind?
   - Everything is physical
 
-## **12/4: Aquinas**
+## **Lecture 25: Aquinas**
 
 - Lots of principles of life
   - Ex) the eye is a principle of life because it’s a principle of vision
@@ -920,7 +925,7 @@
 - The soul is the form of our body
 - When we die, the soul ceases to be the principle of life
 
-## **12/6: Descartes**
+## **Lecture 26: Descartes**
 
 - Father of modern philosophy
 - Substance-interactive dualism of the mind
