@@ -22,7 +22,7 @@
   - Present view that you should study each language on its own, don’t impose your own ways of thinking/categorizing/etc.
   - Fascinated by the differences between American Indian languages and European languages
     - Distinctions made, qualified, challenged (primitive vs. civilized)
-      - Simply based on different worldviews
+      - Simply based on different world views
   - Worked w/ the Kwakiutl people of the Pacific Northwest
     - Recorded customs, rituals, myths, and artifacts → wrote a grammar for their language
   - Methods
@@ -1238,7 +1238,7 @@
     - The knowledge of how to do things physically is embodied within you
 
 - Habitus implies:
-  - Constraints (how, where, with whom to do X, etc.)
+  - Constraints (how, where, with whom to do `X`, etc.)
   - Structure (does it produce/support a "structure", a pattern, a predictable activity, e.g., a ritual, an institution?)
   - History (have these people done it before, how do we know?)
   - Competence (do they show they have a "feel for the game")
@@ -1246,6 +1246,74 @@
 - Improvisation and corporeality
   - "a theory of habitus is incomplete without a notion of structure that makes room for the organized improvisation of agents. to understand this 'social art' of improvisation consists of, we need to turn to Bourdieu's social ontology"
 
-## **Lecture 17: blah**
+## **Lecture 17: Aspect Seeing and Professional Vision**
 
-- 
+- Today:
+  - "Seeing as" - aspect seeing
+  - Filling in the missing information
+    - Doing it right and doing it wrong
+  - Socializing an audience to see in a professional way
+
+- Mind, Body, Umwelt
+  - The notion of habitus brings up the question of the habitual ways we know things, places, people
+  - How do we know, or how do we get to know?
+    - Through an interplay of the sense, our memory, our cultural understanding/interpretation (schemata, concepts, language)
+- "Seeing as"
+  - We don't just see, we see as
+- L. Wittgenstein, Philosophical Investigations
+  - The word see has 2 uses:
+    - What do you see there? - I see this
+    - I see a likeness between these 2 faces
+  - "I contemplate a face, and then suddenly notice its likeness to another. I see that it has not changed, and yet I see it differently. I call this experience 'noticing an aspect'"
+  - "So we interpret it, and see it as we interpret it"
+  - Duck-rabbit
+    - "I must distinguish between the continuous seeing of an aspect and the dawning of an aspect"
+  - "We become conscious of the aspect only when it changes. As when someone is conscious only of a change of note, but doesn't have absolute pitch"
+  - "If there were no change of aspect then there would only be a way of taking, and no such thing as seeing this or that"
+  - "If there were only one substance, there would be no use for the word substance ... The concept 'substance' presupposes the concept 'difference in substance'"
+- Filling in
+  - Expectations guide our perception
+  - Our everyday of being in the world requires us to fill in the missing parts, to have imagination
+  - We add what is not "there" - the phantom - (what we don't see or don't hear but "should be there" or what someone else = or us at a different time/place - would see)
+- "Seeing as" = constituting
+  - The audience sees Betty's actions as "being funny". Dunaway sees him as "being impossible"
+  - Faye Dunaway sees the card as the "Best Picture" Card, i.e., sees the wrong card as the right card
+- Can Habitus be changed?
+  - Primary and secondary socialization (schooling)
+  - Acquiring a professional way of:
+    - Seeing
+    - Hearing/Listening
+    - Feeling (by touch, by emotion)
+    - Tasting
+    - Smelling
+- "Seeing as" in a court case
+  - Charles Goodwin's analysis of the first trial of 4 police officers accused of use of excessive force against motorist Rodney King
+  - Main piece of evidence = video recording made amateur video photographer
+    - Graphic violence is shown
+    - Conviction was expected
+    - The tape was seen as "objective"
+  - Seeing as excessive use of force vs. proper response
+    - To develop a "professional vision" means to be able to see as an archaeologist or ... as a policeman
+    - The video tape as evidence of?
+      - Hitting Rodney King seen as police brutality, violence vs. seen as legitimate, appropriate response
+    - Through a coding scheme (de-escalation) to King's actions (escalation)
+  - A "coding scheme"
+    - "the tools that Sergeant Koon had available to him on March 3rd ... a metal baton ... is a tool ... to protect yourself"
+  - Seeing aggression vs. cooperation
+    - Body movements of King visible on the video tape are coded as either "cooperative" or "aggressive"
+    - Small moments are situated within a prospective horizon, using present progressive, e.g., "starting to"
+    - Control of the perceptual field
+  - Showing aggression visually
+    - From video tape to blown up, still images
+    - Use of highlighting to enhance objects, people, details
+      - To stretch, slow down time
+    - The officer who was shown pressing his knee on George Floyd's neck for 8:46 has been charged for second-degree manslaughter
+      - The video of this act is the main evidence - taken as a "fact" and "objective"
+      - But, there will be interpretations, there will be seeing as, and there will be context added
+    - Truth is mediated by language and actions, and what is known or shared cannot be taken for granted
+- Culture and communication mediate truth
+  - That does not mean that "truth" does not exist, but that it is part of a process, a negotiation of perspectives, a coming together, or staying apart
+  - Truth is never obvious
+    - It takes work to uncover, check, understand
+    - It's a test for individuals and community
+
