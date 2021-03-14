@@ -1316,4 +1316,3 @@
   - Truth is never obvious
     - It takes work to uncover, check, understand
     - It's a test for individuals and community
-
