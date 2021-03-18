@@ -24,7 +24,7 @@
   - Wallet scenario
   - Looks upon self as one of many equals, build others into consideration
   - Changes based on the theorist
-  - Practical- activity, good/bad, Rationality- reason
+  - Practical - activity, good/bad, Rationality - reason
   - What are pros/cons defined by?
   - Why be moral at all?
     - Must first determine what is rational to do
@@ -35,7 +35,7 @@
         - More robust notions: we can reason about both the means and end, we desire an end because it is objectively good
           - Objectivity: can also be mind-dependent
           - Recognition of the end generates a desire for it, setting your own ends
-        - X is good because we desire it vs. We desire x because it is good -> means-end vs. more robust
+        - X is good because we desire it vs. We desire X because it is good -> means-end vs. more robust
 - Moral Rationality - subset of practical or same as practical, theoretical
   - 3 parts of a decision: intention, nature of the action, consequence
   - Intention- needs to be driven solely by the idea that it’s the right thing to do, absent of selfishness
