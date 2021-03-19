@@ -491,8 +491,8 @@
   - Tells us types of duties
   - Suggests a 2nd motive independent of inclinations is possible
   - Why that 2nd source of motivation is valuable as a moral motive
-    - a) Inclinations are contingently good
-    - b) Inclinations are sporadic
+    - Inclinations are contingently good
+    - Inclinations are sporadic
 - Duty is then the 2nd source of motivation
   - = The moral motive
   - = A source of motivation, a variable available only to rational beings that can "act on principle"
