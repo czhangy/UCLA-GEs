@@ -50,7 +50,7 @@
     - Experience of cinema models "modernization without modernity"
     - Not tradition vs. modernity but inescapable condition of life
 - Animation and Cinema - Colin Williamson
-  - Cinema **is** Animation
+  - Cinema *is* Animation
     - Creation of sequential motion; the illusion of motion
     - Animation of pictures
   - Animation bestows animate-ness on an inanimate entity, "modern magic"
