@@ -18,7 +18,7 @@
   - Linguistic anthropology, linguistics, sociolinguistics
 - Franz Boas - German Jew
   - Came to the US as a geographer
-  - Came back to study society and languages, supported by the US gov’t
+  - Came back to study society and languages, supported by the US government
   - Present view that you should study each language on its own, don’t impose your own ways of thinking/categorizing/etc.
   - Fascinated by the differences between American Indian languages and European languages
     - Distinctions made, qualified, challenged (primitive vs. civilized)
