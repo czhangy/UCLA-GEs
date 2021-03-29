@@ -1,4 +1,4 @@
-# Charles Zhang - GPA: 3.90 - Computer Science
+# Charles Zhang - GPA: 3.92 - Computer Science
 
 ## Foundations of the Arts and Humanities
 
@@ -18,5 +18,5 @@
 | Subcategory         |   Course    |    Term    | Grade |
 | :------------------ | :---------: | :--------: | :---: |
 | Social Analysis     |  ANTHRO 4   | Winter '21 |   A   |
-| Historical Analysis | ARCH&UD 10B | Spring '21 |  PL   |
+| Historical Analysis | ARCH&UD 10B | Spring '21 |  IP   |
 
