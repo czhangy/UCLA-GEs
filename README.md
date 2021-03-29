@@ -17,6 +17,6 @@
 
 | Subcategory         |   Course    |    Term    | Grade |
 | :------------------ | :---------: | :--------: | :---: |
-| Social Analysis     |  ANTHRO 4   | Winter '21 |  IP   |
+| Social Analysis     |  ANTHRO 4   | Winter '21 |   A   |
 | Historical Analysis | ARCH&UD 10B | Spring '21 |  PL   |
 
