@@ -2,7 +2,7 @@
 
 # Duranti - Winter '20
 
-## Overall: IP | Raw Percentage: 94.5%
+## Overall: A | Raw Percentage: 94.5%
 
 ## Grading
 
