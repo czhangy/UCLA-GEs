@@ -130,22 +130,21 @@
         |       P p       |      Π π       |      Pi      |      П п      |       Pe        |
         |      (Q q)      |      Ϙ ϙ       |    Koppa     |    **N/A**    |     **N/A**     |
         |       R r       |      Ρ ρ       |     Rho      |      P p      |       Er        |
-    |       S s       |     Σ σ/ς      |    Sigma     |      C c      |       Es        |
+        |       S s       |     Σ σ/ς      |    Sigma     |      C c      |       Es        |
         |       T t       |      Τ τ       |     Tau      |    Т т/T m    |       Te        |
-    | U u/V v/W w/Y y | Υ υ/(O Y/o υ), |   Upsilon    | У у/(O y/o y) |        U        |
+        | U u/V v/W w/Y y | Υ υ/(O Y/o υ), |   Upsilon    | У у/(O y/o y) |        U        |
         |      (F f)      |      Φ φ       |     Phi      |      Ф ф      |       Ef        |
-      |       X x       |      Χ χ       |     Chi      |      Хх       |       Kha       |
+        |       X x       |      Χ χ       |     Chi      |      Хх       |       Kha       |
         |     **N/A**     |    **N/A**     |   **N/A**    |      Ц ц      |       Tse       |
-      |     **N/A**     |    **N/A**     |   **N/A**    |      Ч ч      |       Che       |
+        |     **N/A**     |    **N/A**     |   **N/A**    |      Ч ч      |       Che       |
         |     **N/A**     |     (Ψ ψ)      |     Psi      |      Ш ш      |       Sha       |
-      |     **N/A**     |    **N/A**     |   **N/A**    |      Щ щ      |      Shta       |
+        |     **N/A**     |    **N/A**     |   **N/A**    |      Щ щ      |      Shta       |
         |     **N/A**     |    **N/A**     |   **N/A**    |       Ъ       |       Yer       |
-      |     **N/A**     |    **N/A**     |   **N/A**    |       Ы       |      Yery       |
+        |     **N/A**     |    **N/A**     |   **N/A**    |       Ы       |      Yery       |
         |     **N/A**     |    **N/A**     |   **N/A**    |       Ь       |      Yeri       |
         |     **N/A**     |    **N/A**     |   **N/A**    |      Э э      |        E        |
         |     **N/A**     |    **N/A**     |   **N/A**    |      Ю ю      |       Yu        |
         |     **N/A**     |    **N/A**     |   **N/A**    |      Я я      |       Ya        |
-        
 
   - Saints Cyril (Constantine) and Methodius (9th century) - inventors of the Old Church Slavonic language
 
