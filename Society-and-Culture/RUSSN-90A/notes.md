@@ -267,6 +267,31 @@
 
 ## Lecture 2: Russian Geography
 
+- Review: Slavic Nations and Languages
+
+  - Slavic Languages and Nations
+    - East Slavic: former Soviet Unon
+      - Russian, Belorussian, Ukranian
+    - West Slavic: Poland and ex-Czechoslovakia
+      - Polish, Czech, Slovak
+    - South Slavic
+      - Western South: most of former Yugoslavia
+        - Slovenian, Serbian/Croatian/Bosnian/Montenegrin
+      - Eastern South: Bulgaria
+        - Bulgarian and Macedonian, Old Church Slavonic
+  - The Cyrillic Script
+    - 3 alphabets
+      - Glagolitic, invented by St. Cyril
+        - Invented to translate the Bible
+        - Many elements still present in the Russian language
+      - Early Cyrillic (late 9th century)/Old Church Slavonic, graphic form influenced by Greek
+      - Contemporary Russian (1708, rev. 1918), secular, graphic form influenced by Latin (Bodoni typeface)
+    - Peter the Great's reform of alphabet (1708): secularization, Westernization
+
+- Patronymic: -ov and -ich
+
+  - -ich: originally used by princes, now used to differentiate between patronymic and last name
+
 - You will need to know:
 
   - Russia's contemporary borders
@@ -279,11 +304,17 @@
   - Divided by the Ural Mountains
   - The only other county situated both in Europe and Asia is Turkey
 
-- What countries used to be under the Russian rule and when?
+- 3 empires surrounded the Black Sea
+
+  - Russian, Ottoman, Persian
+
+- Which countries used to be under the Russian rule and when?
 
   - Finland (early 20th century to 1917)
+    - Until Russian Revolution
   - A part of Poland (late 19th century to 1918)
-  - A part of the US (mid 17th century to 1867)
+    - Until Russian Revolution
+  - A part of the US - Alaska (mid 17th century to 1867)
   - Until 1991 (collapse of the Soviet Union)
     - Estonia, Latvia, Lithuania (Baltic)
     - Belarus, Ukraine, Moldova (Southwest)
@@ -293,9 +324,30 @@
 - Alaska as Part of Russian Geographic Space
 
   - Mid 17th century - discovered by Russian expeditions; more expeditions sent in 18th century
+    - Became part of the Russian Empire
   - Russian Orthodox Church - missions
   - In early 19th century run by the Russian-American Company
   - 1867 - purchased by the US for $7,000,000 under President Andrew Johnson
+
+- Expansion of Russia
+
+  - 1300 - Rising medieval state changed by Mongol Invasion
+  - End of 15th century - Russia encompasses all of European Russia
+  - End of 17th century - Siberian lands conquered by Russia
+    - Unique - Russia built colonies very close to its own borders, occasionally had to conquer territory already within its borders
+  - 1991 - Collapse of the Soviet Union causes Baltic, East Asian countries to become independent
+
+- Geographic Subdivisions
+
+  - Central - origin of Russia's expansion
+  - Northwest
+  - Volga
+  - Southern
+  - North Caucasus
+  - Urals
+  - Siberian
+  - Far East
+    - Southern part acquired from China and Japan
 
 - Russian Seas and Lakes
 
@@ -340,6 +392,23 @@
   - Today, it connects the Baltic and Black Seas through canals
   - Songs about the Volga
   - Non-Russian population of the Volga Basin
+  - Flows into the Caspian Sea
+
+- Medieval Russia
+
+  - First state-like formations emerged around Novgorod and Kiev in the 9th century
+  - Dominated by Mongols
+    - Under rule, princes were allowed rule over their regions, forced to pay taxes
+  - After Mongols, Moscow was center of Russia
+  - Rus established a state in Northern Russia in the early 9th century
+  - Furs, slaves, wax traded
+
+- Kievan Rus
+
+  - Rich culture and trade with Byzantine made Rus dominant
+  - Varangians came to rule the Slavs, ended up mixing with them
+  - 862, Varangian named Rurik established the Rurik dynasty
+  - Highlight of Kievan power under Yugoslav
 
 
 
