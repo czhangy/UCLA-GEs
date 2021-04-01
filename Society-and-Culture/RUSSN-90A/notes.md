@@ -263,3 +263,87 @@
     - Ukraine, Belarus, Siberia, part of the Baltic area, Caucuses, and Central Asia
   - By the time of the breakup of the USSR, Russians were barely the majority in the Russian state
 
+
+
+## Lecture 2: Russian Geography
+
+- You will need to know:
+
+  - Russia's contemporary borders
+  - Which countries used to be part of the Russian Empire and the Soviet Union
+  - Main rivers and seas and their significance
+
+- Is Russia in Europe or in Asia?
+
+  - Europe + Asia = Eurasia
+  - Divided by the Ural Mountains
+  - The only other county situated both in Europe and Asia is Turkey
+
+- What countries used to be under the Russian rule and when?
+
+  - Finland (early 20th century to 1917)
+  - A part of Poland (late 19th century to 1918)
+  - A part of the US (mid 17th century to 1867)
+  - Until 1991 (collapse of the Soviet Union)
+    - Estonia, Latvia, Lithuania (Baltic)
+    - Belarus, Ukraine, Moldova (Southwest)
+    - Georgia, Armenia, Azerbaijan (The South Caucasus = Transcaucasia)
+    - Kazakhstan, Kyrgyzstan, Turkmenistan, Uzbekistan, Tajikistan (Central Asia)
+
+- Alaska as Part of Russian Geographic Space
+
+  - Mid 17th century - discovered by Russian expeditions; more expeditions sent in 18th century
+  - Russian Orthodox Church - missions
+  - In early 19th century run by the Russian-American Company
+  - 1867 - purchased by the US for $7,000,000 under President Andrew Johnson
+
+- Russian Seas and Lakes
+
+  - The White Sea - 12th century (North)
+  - The Caspian Sea - 16th century (South)
+  - The Baltic Sea - 17th century (Northwest)
+  - The Black and Azov Seas - 18th century (Southwest)
+  - Lake Baikal - 16-17th centuries (Eastern Siberia)
+
+- Russia's Longest Rivers
+
+  - Siberian Rivers:
+
+    - |  Name  | Length (km) |
+      | :----: | :---------: |
+      |  Lena  |    4400     |
+      |  Ob'   |    3650     |
+      | Enisey |    3487     |
+      |  Amur  |    2824     |
+      | Kolyma |    2129     |
+      |  Ural  |    2422     |
+
+  - Southwest/Ukraine:
+
+    - |  Name   | Length (km) |
+      | :-----: | :---------: |
+      | Dnieper |    2201     |
+      |   Don   |    1870     |
+
+  - Volga - 3531km - European Russia
+
+- 2 smaller, but important rivers
+
+  - Moscow River - the city of Moscow
+  - Neva - the city of St. Petersburg
+
+- The Volga
+
+  - The longest river in Europe
+  - A symbol of Russia: Mother-Volga River
+  - From 13th century - a trade route
+  - Today, it connects the Baltic and Black Seas through canals
+  - Songs about the Volga
+  - Non-Russian population of the Volga Basin
+
+
+
+## Reading 2:
+
+- 
+
