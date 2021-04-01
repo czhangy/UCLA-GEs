@@ -161,3 +161,105 @@
       - Influenced by Latin
       - Initiated and approved by Peter the Great
 
+
+
+## Reading 1: Land and Peoples: From Ancient Times to the Present
+
+- The Land: Physical Features, Climate, and Resources
+  - Controlled territory varies throughout history, but the vast amount of land made it hard to establish centralized rule
+  - Ural mountains considered the dividing line between European and Asiatic Russia
+    - European Russia + Siberia is primarily just a large plain
+    - Caucasus Mountains separate Russia and the Caspian + Black Seas
+  - Has many large lakes and rivers
+    - Longest 3 rivers: Lena, Irtysh, and Ob (all Siberian)
+    - European rivers (Dnieper and Volga) more substantial for Russian history
+    - Russia often cut off from seas - desire to get access to the Baltic and Black Seas for maritime influence becomes important to Russian history
+      - Arctic and Pacific Ocean coastlines relatively insignificant to history => growing in important in modern day
+    - Greatest lake in terms of water volume is Siberia's Lake Baikal
+    - Caspian Sea is the world's large lake by surface area
+  - Russia has an extreme North
+    - Long winters with temperatures down to -60ºF and short summers
+    - South and West are less extreme, but still have long winters and short summers
+  - Unideal rainfall pattern
+    - Higher in northwest, decreases as you move southeast
+    - Rainfall not plentiful in spring/early summer when it would most help crops
+      - Most common during late summer
+    - Adversely affects Russia's agriculture
+      - In turn, adversely affects diet, population density, and state revenues
+      - Possibly caused the extended use of Russia's autocracy and serfdom
+  - Can be divided into 4 main vegetation zones: tundra, taiga, mixed forest, steppe
+    - Tundra: treeless region, ground beneath the surface is frozen year-round
+    - Taiga: permafrost extends from the tundra, coniferous trees
+    - Mixed forest: smaller mixed forest belt of coniferous and leaf-bearing trees
+      - Much more densely populated, contains Moscow
+      - Taken in combination with the taiga, makes up 1/4 of the world's total forest
+    - Steppe: Contains few trees 
+      - Most fertile soils lie in a black-earth belt that is found between the mixed forest and steppe
+        - This area receives rain at the most appropriate times => most productive agricultural area
+        - Further north, area is less favorable but was still heavily farmed throughout Russian history
+          - Early peasants used the "slash-and-burn" technique
+  - Forest and products surrounded most Russians
+    - Products used throughout their lifetimes
+    - Provided protection
+    - Most Russians were ambivalent towards the forest
+  - Also ambivalent towards the steppes
+    - Fertile, but dangerous due to invasions at the border
+    - Rus would collapse when the Mongols invaded
+  - Had unequivocal love for the rivers
+    - Provided fish, water, and water for crops
+    - Best highways in the country => arteries to facilitate trade between villages
+    - Only animosity comes from early perceptions of water spirits
+  - Nature can be generous to Russia
+    - Abundant lumber supply
+    - Abundant wildlife => valuable furs
+    - Abundant mineral/mineral fuel resources
+      - Aluminum is just about the only major mineral resource that Russia lacks
+      - Large quantities of these minerals are in locations that are not part of the Russian state/are dangerous to extract from
+- Geography's Impact on Colonization and National Identity
+  - Russia's geographical conditions helped stimulate expansion and colonization
+    - Expanded to acquire better agricultural lands, Siberian furs, and access to warm-water ports
+    - Also encouraged by vast network of rivers and poorly defined frontiers
+      - These also contributed to a lot of military goals throughout Russia's history
+  - Colonization leads to the absorption of many non-Russians => multinational culture
+    - Affected both domestic and foreign policies
+      - Helped lead to the collapse of the USSR
+  - Eurasian Russia also geographically had an impact on history and culture
+    - Debate over whether Russia was culturally European => leads to founding of Eurasianism
+    - Still debating in the modern time about national identity
+- The Peoples: From Ancient Times to the Present
+  - Succession of nomadic warriors dominated the southern steppes of modern-day European Russia and Ukraine
+    - Near the western end of the vast steppe area stretching from Manchuria to Hungary
+  - From 1000 BC to 200 BC, Cimmerians and Scythians controlled the grassy area north of the Black Sea
+    - Sarmatians defeated the Scythians and dominated the steppes until they were defeated by the Germanic Goths
+    - Germanic Goths were displaced by the Asiatic Huns
+    - Later succeeded by the Avars, Turks, Bulgars, and Khazars
+  - Before and after the establishment of Rus, the nomadic peoples of the steppe displayed similar characteristics
+    - Generally loose tribal federations
+    - Survived by breeding horses and animals, moving to prevent overgrazing
+    - Sought to enrich their lives by raiding or trading with sedentary people
+    - Horses were most valuable as trading assets or cavalry
+    - Some became semi-nomadic, becoming involved in more sedentary occupations
+      - Pure nomadic lifestyles became a privilege available to the elite
+  - Pre-Rus history, the Turkic Khazars gathered tributes from surrounding peoples
+    - Included East Slavic tribes, who paid it in furs
+    - Forged an important commercial state called Itil, at the mouth of the Volga River
+    - Many converted to Judaism, but were tolerant of other religions
+  - Rus, Russians, and others competed for steppe land, paid/collected tribute, warred/allied with people of the steppe
+  - Closeness of Slavic languages has lead to theorization of common homeland of all Slavs
+    - Split into south, west, and east groups by 7th century
+      - South: Bulgaria, Croatia, Serbia, Slovenia
+      - West: Poland, Czech Republic, Slovakia, Moravia
+      - East: Russia, Ukraine, Belarus
+      - Not yet distinct in the Rus era => state they formed was known as Rus
+        - Divided by tribes only (about a dozen)
+        - Overwhelmingly a farming people
+  - Prior to Slavic colonization, area was settled by Finno-Ugric and Baltic peoples
+    - By the 9th century, Scandinavian Vikings were present in Rus territories
+    - Were raiders and traders
+    - Played an important role in organizing the multiethnic trading and tribute-gathering elite that characterized the Rus state
+  - By the time of the collapse of the Rus state, a Great Russian ethnic type was emerging from the East Slavic intermingling with the Finnish
+    - Some Finnish maintained separate identities
+  - As the Russian state expanded, other ethnicities were introduced
+    - Ukraine, Belarus, Siberia, part of the Baltic area, Caucuses, and Central Asia
+  - By the time of the breakup of the USSR, Russians were barely the majority in the Russian state
+
