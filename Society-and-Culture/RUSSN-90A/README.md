@@ -2,7 +2,7 @@
 
 # Pilshchikov - Spring '21
 
-## Overall: IP | Raw Percentage: IP
+## Dropped
 
 ## Grading
 
