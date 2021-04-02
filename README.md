@@ -15,8 +15,8 @@
 
 ## Foundations of Society and Culture
 
-| Subcategory         |  Course   |    Term    | Grade |
-| :------------------ | :-------: | :--------: | :---: |
-| Social Analysis     | ANTHRO 4  | Winter '21 |   A   |
-| Historical Analysis | RUSSN 90A | Spring '21 |  IP   |
+| Subcategory         |  Course  |    Term    | Grade |
+| :------------------ | :------: | :--------: | :---: |
+| Social Analysis     | ANTHRO 4 | Winter '21 |   A   |
+| Historical Analysis |   ???    |    ???     |  ???  |
 
