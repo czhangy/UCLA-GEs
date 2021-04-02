@@ -412,7 +412,70 @@
 
 
 
-## Reading 2:
+## Discussion 1: Orientation
 
-- 
+- Course particulars
+  - Final: Monday, June 7 (11:30-2:30)
+  - Term paper due June 9th
+  - Readings/PPTs indispensable for success on the final
+- Language
+  - Proto-Indo-European => Balto-Slavic => Proto-Slavic => East Slavic => Classical Russian => Modern Russian
+  - Influenced by Greek/Latin, Turkic, German/French, English
+- Alphabet
+  - Who did it?
+    - Methodius - was a bishop
+    - Cyril-Constatine - was a monk
+    - Brothers from Thessaloniki - Greek and Slav parent
+  - Why did they do it?
+    - To share the Gospel and Liturgy with Slavic people
+    - Challenging the Latin clergy and advocating scripture and liturgy in the vernacular 700 years before M. Luther and 1100 years before Vatican II
+    - Slavic becomes the 4th Lingua Sacra in the Byzantine Empire (after Hebrew, Greek, and Latin)
+    - Canonized as saints, "Teachers of the Slavs", and "Equals to the Apostles"
+    - Ironically, St. Cyril is buried in Rome
+      - Today serves as a memory of the one-unified Church (Roman Catholic and Byzantine Orthodox)
+- Alphabet: The Script
+  - Glagolitic vs. Cyrillic
+    - Cyril created the Glagolitic script - still used by some in Croatia
+    - Cyrillic aka Old Church Slavic developed by Methodius' disciples
+      - Originally 43+ letters:
+        - Greek-based: 75%
+        - Hebrew borrowings
+        - Compound/Slavic
+      - Russianized as Church Slavic
+      - Reformed/modernized by Peter I (1708) - 37 letters
+      - Simplified by Lenin (1918 - today) - 33 letters
+- Russian Names
+  - What are patronymics?
+    - Ivan => Ivanovich/Ivanovna => Ivanov/Ivanova
+    - Pyotr => Petrovich/Petrovna => Petrov/Petrova
+    - Used like the last names of today - very old
+- Geography of Russia
+  - Russia of todaybis divided into republics and couties
+  - Important bordering countries and former republic
+  - Main cities, oceans, seas (Black, Baltic, Caspian, Azov, Bering)
+  - Rivers (Volga, Dnepr, Don, Lena, Moskva, Neva), Lake Baikal
+  - Mountains (Ural, Caucasus); peninuslas (Kamchatka, Crimea)
+  - Population, demographics, ethnic, and religious stats
+- Rus' vs. Russian Empire vs. USSR vs Russia
+  - Russian Empire was the biggest
+  - Areas formerly under Russian Empire
+    - Forts in CA (Ft. Ross) and Hawaii (Ft. Elizaveta, Kauai) (- mid 1800s)
+    - Alaska (- 1867)
+    - Finland + Helsinki (early 19th c. to 1917)
+    - Parts of Poland + Warsaw (late 18th c. to 1918)
+    - Crimea (until 1954)
+- Historical Periods
+  - Scythians, Sarmatians, the Amazons
+  - Slavic trabes + Varangians
+  - Rus'
+    - Novgorodian Rus' (Rurik and Rurikid dynasties)
+    - Kievan Rus'
+    - Vladimir, Suzdal, Novgorod
+    - Moscovite Rus'
+  - Russian Tsardom
+  - Russian Empire
+  - USSR/CCCP
+  - Russian Federation
+- Kievan Rus
+  - Rurik => Oleg => Olga => Vladimir => Boris and Gleb => Yaroslav the Wise => Vsevolod => Vladimir Monomakh => Mstislav
 
