@@ -15,8 +15,8 @@
 
 ## Foundations of Society and Culture
 
-| Subcategory         |  Course  |    Term    | Grade |
-| :------------------ | :------: | :--------: | :---: |
-| Social Analysis     | ANTHRO 4 | Winter '21 |   A   |
-| Historical Analysis |   ???    |    ???     |  ???  |
+| Subcategory         |   Course   |    Term    | Grade |
+| :------------------ | :--------: | :--------: | :---: |
+| Social Analysis     |  ANTHRO 4  | Winter '21 |   A   |
+| Historical Analysis | CLASSIC 10 |  Fall '21  |  IP   |
 
