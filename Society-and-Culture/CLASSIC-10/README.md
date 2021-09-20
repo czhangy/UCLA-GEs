@@ -5,3 +5,25 @@
 ## Overall: IP | Raw Percentage: IP
 
 ## Grading
+
+|   Category    | Percentage |
+| :-----------: | :--------: |
+| Participation |    15%     |
+|  Mini-Essay   |    15%     |
+|    Midterm    |    25%     |
+|     Essay     |    20%     |
+|     Final     |    25%     |
+
+## Papers
+
+|   Paper    | Score |
+| :--------: | :---: |
+| Mini-Essay |  ???  |
+|   Essay    |  ???  |
+
+## Exams
+
+|  Exam   | Score |
+| :-----: | :---: |
+| Midterm |  ???  |
+|  Final  |  ???  |
