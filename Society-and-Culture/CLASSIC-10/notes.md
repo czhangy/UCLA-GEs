@@ -10,7 +10,67 @@
 
 ## Reading 1: Why Study the Greeks?
 
-- 
+- Cultures in Dialogue
+  - Modern thinking pulls democracy, medicine, architecture, astronomy, ethics, poetry, dance, mathematics, etc. from the Greeks
+    - Atomic theory of Demokritos and Leukippos
+    - Mathematical theorems of Euclid
+    - Democracy - **demos** (people) + **kratos** (rule)
+    - Concepts of truth and beauty
+- Truth and Beauty
+  - Beauty in poetry and sculpting
+    - Homer's Iliad
+    - Sculpting of limestone and marble as learned from the Egyptians
+      - Took the Egyptians' work and revolutionized it with a form of naturalism
+  - Plato's *Symposium* describes how "the seeker of truth will hunt for the beauty to be found in all things"
+    - The seeker will find beauty in bodies and also in laws and civil institutions
+  - View culture in contrast to modern day pop culture
+    - Shows us a battle between thoughtful, ethical engagement with the world and bland superficiality
+      - Significance vs. triviality
+    - Knowing the Greeks better = knowing ourselves better
+  - **kore** - statue of a young woman
+  - Ancient works compel us to ask questions of a strange, yet recognizable society
+  - Greeks stand at the head of Western culture
+    - Greeks are a model of perfection
+    - We have a real and tangible connection to them, but it must be scrutinized
+- Democracy, Ancient and Modern
+  - In our world, democracy takes two forms: parliamentary and presidential
+    - Franchise extends to both men and women 18+, citizens elect governments to represent them, and governments are answerable to the people
+  - Greek democracy has its differences
+    - No women
+    - Foreigners given little chance to participate
+    - Structure founded on slaves giving citizens the opportunity to participate
+    - Male citizens voted in the **Ekklesia**, an Athenian assembly that voted on matters such as public contracts, taxes, and declarations of war
+      - Direct democracy
+      - Members of the **Boule** were elected representatives of their tribe at random, served for 1 year, and then couldn't serve again for 10
+    - Athenians were the government
+      - Government was not separate from the people
+    - Denounced in that it favored the poor, not the higher class members of Greek society
+  - Free societies are capable of the highest aspirations, but must confront their own shortcomings
+    - Experience the tension between altruistic aspirations and conspicuous failures
+    - Failure leads to the unveiling of social tension
+      - The plague in Ancient Greece vs. Hurricane Katrina today
+- Greek Architecture and Philosophy
+  - Hard to imagine the Western world finding its expressions for power and national identity without the model of the Greeks
+  - Orders of Greek architecture: Ionic, Doric, and Corinthian
+  - Architectural vocabulary is derived from the styles and forms of the Greeks
+  - Emphasizes the motifs of similarity and difference in our relationship with the Greeks
+  - Western philosophy builds off of the work of the Greeks
+    - Works are however outdated
+      - Plato and Aristotle's work on slavery
+      - Modern societies have to work with the elitist thinking of the Greeks when it comes to topics such as slavery and women's rights
+- East versus West?
+  - The championing of the Greeks results in the mindset that Western civilization is superior
+    - The post-WWI state of the Middle East acts as a footnote in Western history, but is vastly significant to those in the Middle East (9/11)
+  - We take on an obligation to understand the origin of our own societies before we continue to repeat mistakes of the past
+    - Greeks vs. Persia
+  - The defeat of Leonidas at Thermopylae is an example of the victors romanticizing the war, altering historical perspective
+  - We have inherited the Western stereotype of "the Eastern other" from the Greeks
+- Paideia
+  - All study of history feeds historical consciousness and helps us better understand our societies
+    - The Greeks are a direct view into our past, unlike China or the Maya
+  - We return to the Greeks' ideals of exploring ethics honestly, debating policy vigorously, valuing beauty deeply, and acting in a spirit of generosity and civility
+    - This is the Greek paideia
+  - The Greeks act as a model for who we aim to be and a reminder that flawed societies can still distinguish themselves
 
 
 
