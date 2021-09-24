@@ -8,6 +8,25 @@
 
 
 
+## Discussion 1: Homer and Stesichorus
+
+- Focus on the oral nature of the works in this course
+- Discussion on the imagery of the poppy
+  - Beauty in the face of death
+  - Shows the huge range of spheres used by Homer
+    - Introduction of the epic simile as a vehicle for discussion of the rest of the world outside of war
+    - "The greatest works in literature are those in which nothing is not talked about in some way"
+  - Grace, speed, economy of narrative
+  - Blurring of the lines between good and evil
+    - Completely different sense of morality
+    - No obvious villain in the Iliad
+    - An evocation of sympathy for both sides
+- Chorus/choral poetry => epic
+  - Epic - an orally performed genre of poetry in which heroic subjects are treated 
+- Die and destroy are related in the language of the Ancient Greeks
+
+
+
 ## Reading 1: Why Study the Greeks?
 
 - Cultures in Dialogue
