@@ -2,7 +2,88 @@
 
 [TOC]
 
-## Lecture 1: The Big Bang: The Case of the Minoans
+## Lecture 1: Introduction
+
+- Why Discover the Greeks? Three Proposals
+  - In discovering the Greeks, the Greeks discover us
+    - We are accustomed to seeing Greek influence all around us
+      - Greek life
+      - Mathematics
+      - Our language
+        - Syllabus comes from the Greek word sittuba ("label")
+        - Idea comes from idein ("to see")
+        - Biology comes from bios ("life") + logos ("study")
+        - Pharmacy comes from pharmakon ("potions"/"drugs")
+        - Democracy means "the people's power"
+        - Zoe means "life"
+        - Sophia means "wisdom"
+        - etc.
+      - Architecture
+        - Washington D.C.
+    - Discovery leads to self-reflection => the Greeks discovering us
+    - We discover the Greeks asking questions, and in turn the Greeks discover us in the midst of our own questions
+      - What is justice, and who determines it? (see *Iliad*)
+      - What is the meaning of home? Is there such thing as a noble lie? (see *Odyssey*)
+      - What is beauty, and is it merely a nicety or is it *essential* to life? (see Minoan and Mycenaean art)
+      - What is the purpose of education (see Aristophances' *Clouds*)
+      - What defines citizenship? Who gets to be a citizen (see Sophocles' *Antigone*)
+      - What defines a nation or people? (see Herodotus' *Histories*)
+      - Does religion make us sane or crazy? (see Euripides' *Bacchae*)
+      - What is the good life? (see Plato's *Apology*, or really any of the course's texts)
+    - A philosophy of buildings - Mausolus and Diogenes
+  - No one has ever discovered the Greeks the way *you* will
+    - Individual perspectives lead to individual conclusions
+    - Diversity, Equity, and Inclusion
+  - The Greeks are curious
+    - For all the ways in which the Greeks are similar to us, there are many ways in which they are different
+    - Polypragmon
+      - Poly ("much"/"many") + pragma ("matter"/"thing"/"issue")
+      - The Greeks are interested in many matters
+      - Super busy
+      - "Restless" (applied by comic playwrights to the Athenians)
+      - "All up in your business" (applied to Socrates)
+      - "Overly curious" (applied to Herodotus)
+- Pragmatics
+  - BCE and CE = BC and AD
+  - Hellenic/Hellas = Greek/Greece
+  - One challenge of evidence: often not contemporaneous (ex: Homer writing poems around 800 - 700 BCE, but referring to events that happened around 500 years prior)
+    - Text originates from one time, but talk about another
+  - Perspective of the evidence (elite, male, not only reflective of the world, but actively shaping it)
+  - Spelling
+
+
+
+## Lecture 2: The Big Bang: The Case of the Minoans
+
+- 
+
+
+
+## Lecture 3: The Mycenaeans
+
+- 
+
+
+
+## Lecture 4: Homer + Mycenaeans: Facts and Fictions 
+
+- 
+
+
+
+## Lecture 5: Homer as the Internet
+
+- 
+
+
+
+## Lecture 6: The Iron Age
+
+- 
+
+
+
+## Lecture 7: The (Strange?) Case of Sparta 
 
 - 
 
