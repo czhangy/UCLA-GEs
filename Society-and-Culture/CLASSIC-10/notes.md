@@ -174,6 +174,140 @@
 
 
 
+## Reading 2: Early Greece and the Minoans: The Labyrinth and the Minotaur
+
+- Greece in the Neolithic: The Origins of Complex Societies
+  - Early hominins reached Crete by sea no later than 130,000 years ago
+  - Beginning from the Franchthi Cave, evidence of human occupation spreads outwards to the nearby coastal waters
+    - Same thing occurs at the Alepotrypa Cave and Dikili Tash
+  - Connectedness and the Beginnings of Pottery
+    - These societies were able to trade over long distances
+    - Sesklo marks the introduction of pottery to the Greek world
+    - Communities of Sesklo and Dimini were agro-pastoral
+      - People lived by farming and herding, with some parts of their diet supplemented by hunting and gathering
+      - Expanding complexity when compared with earlier communities at Franchthi and Deros
+      - Existence of walls and a central building called a **megaron** reveal central planning
+        - Possible emergence of class distinctions that would later characterize Minoan society
+- The Third Millenium: The Bronze Age
+  - Growing complexity continues with the adoption of bronze in the 3rd millennium BC + the connectivity of the Aegean world
+  - Evidence from the Tsepi cemetery shows the refining process of cupellation and the smelting of lead and silver
+  - Impressive construction at Lerna show evidence of labor and centralized authority
+    - Existence of a **tumulus** (earthen mound) may be intended to commemorate a powerful chief
+  - Evidence of a centrally organized community comes from excavations at Phylokopi, Poliochni, Myrina, Koukonisi, Skarkos
+    - Complex buildings and drainage systems in Skarkos + Myrina
+  - Keros-Syros culture
+    - Used to describe a number of sites in the Cyclades that share the same type of pottery and building design
+    - The homogeneity wasn't achieved by peace, possible assertion of power on smaller settlements by larger ones
+  - Cycladic figurines
+    - Can be dated, function is difficult to identify
+    - Most are schematic representations of the female body
+    - Dolls? Suggesting of a cult of female fertility? Representative of deities or spirits? Used as part of a ceremony?
+  - As the cities grew in size, they grew more stratified
+    - The degree of connectivity between them shows a unique connectedness of these cities due to the proximity to water
+      - This water encouraged communication of goods/people/ideas
+- Minoan Crete
+  - Crete's discovery demonstrates there was material that could be connected with the world of Homeric poems
+    - Discovered by Heinrich Schliemann
+    - Home of the legendary King Minos and the Minotaur
+    - Discovery of a civilization that only existed in myth until then
+  - Cretan Bronze Age
+    - The broadest categories of Minoan chronology concern the development, acme, destruction, and rebuilding of its palaces
+      - Similarity between Syrian and Cretan palace design is evidence of Cretan culture participatin gin a wider world of complex, hierarchically organized states
+      - The complex displays a theocratic character, leading scholars to suggest that the palaces were ceremonial and ritual centers
+      - Similar ground plan of Knossos to other major sites suggest a homogeneous Cretan culture
+      - Rooms give impression of a sophisticated and refined elite living in comfort
+  - Bull-leaping
+    - Performance that acted as a re-enactment of an astronomical story explaining the movement of the stars
+    - Bull cult has immense importance
+    - Also present in Avaris in Egypt, showing that Cretans participated in a much broader range of cultural relations beyond the Greek mainland/nearby islands
+      - In exchange for bringing gifts to the Egyptian pharaoh, it's possible Egyptian-built fleets were used to help Cretans project their power beyond their homeland
+    - Bulls were likely sacrificed and venerated
+    - Rituals in combination with various features of Cretan palaces are evidence that Minoan society took on an elaborate hieratic character
+  - Minoan Religion
+    - Despite connections with other areas, Crete was different from the rest of the eastern Mediterranean
+      - Do not appear to have been temples to gods
+      - Gold rings depicting figures hovering in the air may be suggestive of a moment of epiphany/arrival of divine spirit
+      - Speculation that Minoan religion involves rites and practices that result in altered consciousness/spiritual possession
+        - Minoan iconography is also suggestive of this - crown of opiates
+    - The reality is, we know very little about the beliefs and practices of these people
+    - Feasting
+      - Significant as a crucial social institution
+      - The community is most vividly on display
+      - Opportunity for elites to advertise their power
+      - Encourages social bonding and can be identified by distinctive ceramic assemblages
+      - Carried out as part of funerary rites and religious festivals
+      - Gives expression to a rich and complicated social structure
+  - Minoan Literature
+    - Minoans didn't record liturgical texts, legal documents, or historical chronicles in any semi-permanent forms
+    - Did develop a writing system known as Linear A
+      - Syllabic and ideographic system employed by scribes
+      - Little survives, cannot be translated effectively
+      - Second writing system called Linear B
+        - Has been successfully translated
+        - Disappointing from the view of poetry and literature
+        - Useful in understanding the palatial economy
+          - The palace was a center of a redistributive economy
+    - Minoan Economy
+      - Redistributive economy - a complex economic system based on the regular accumulation of surpluses of staple goods
+        - Surplus used to support specialized craftsmen and to support farmers in times of crop failure and food shortage
+        - Depends on a delicate balance of relations between palace elites and laborers
+      - Staple items - oil, grain, wine, etc.
+      - Luxury items - precious metals and perfume
+      - Manufactured items show that palaces were centers of production and manufacturing
+        - Centers of both religion and the economic system
+      - Relies on control of the population by the palace
+        - Not necessarily exploitative, cooperation leads to success for both sides
+        - Receiving from the palace's surplus allows for survival in times of need
+        - Giving labor and produce to the palace may have served as a form of devotion to the gods due to the perception of the palace as "home of a god-king"
+- Beyond the Palaces
+  - No suggestion that palaces controlled all local religious practices
+    - Mountain peaks and caves show evidence of sacrifices and dedications pre-dating palaces
+  - Settlements popped up without an identifiable center, showing evidence of growth over time, consistent with occupation over multiple generations
+    - Remind us that there is a great deal to be learned about the ordinary people
+  - Palaces reproduced at a smaller scale also appeared around the countryside, unlikely to be serving directly under the influence of a real palace
+  - Various settlements show evidence of serious maritime trade throughout the entire eastern Mediterranean
+    - Shipwrecks reveal a great deal about trade and conditions at the time
+    - Cargo reveals goods from ports all around the Mediterranean
+    - Cabotage relies on the principle that goods increase in value as they become more scarce and exotic
+      - Goods may be easy to transport by sea, but will rise in value in locations in which there is no local source of production
+- Thera: A Minoan Settlement
+  - Akrotiri (known as Thera in antiquity) was a flourishing settlement that may have been founded as a Minoan colony
+    - Overlooked the caldera of an active volcano
+    - The volcano destroyed the town when it erupted
+    - Described as a cosmopolitan merchant harbor
+  - Frescoes explore various common motifs
+    - Scholars note a possible association with the life cycle
+    - May be more than decorative, intended to be read together
+  - The Destruction of Thera
+    - Impact from the volcanic explosion may have reached Crete, maybe leading to the collapse of the Minoan culture
+      - Possibly supported by Greek myth => Atlantis
+    - Volcanic disruption may be resulted in destruction of coastal resources and ash may have caused widespread famine and social breakdown
+      - The weakened state of Crete created an opening for the Mycenaeans to take control
+      - Theory is wrong
+        - Marine-style pottery not found on Thera, although others are => suggests Marine-style pottery postdates Thera's destruction
+          - Maritime trade patterns shifted, but did not terminate
+        - Ash desposits in Pseira fall below buildings that show evidence of continuing civilization
+        - Various sources also place the eruption too early to have been the cause for Minoan society's collapse
+        - Dates may correspond to the end of the Old Palace period
+          - Impact of the eruption may have precipitated a total systems failure, breaking down the economy
+          - Elites still would've reasserted older, and a new palatial period would see the recovery of the society
+- The End of Minoan Culture
+  - General agreement that most Minoan sites, both palatial and lower down the hierarchy of size and complexity, suffered catastrophic destruction that put an end to their complex system
+    - This destruction may have spread over a period of 50 years => not a single invasion/uprising
+    - The people responded with pastoralism
+  - The destruction horizon was primarily caused by the arrival of the Mycenaeans
+    - Debate over whether there was an active process of "Mycenaeanization"
+- Interpreting the Past
+  - Our appreication of Bronze Age Crete is structured by the work of Arthur Evans
+
+
+
+## Reading 3: Mycenae: Rich in Gold
+
+- 
+
+
+
 ## Summary 1: Why Study the Greeks?
 
 - Cultures in Dialogue
@@ -212,10 +346,11 @@
   - Cretan-style bull-jumping is also evident at Avaris in Egypt
 - Thera: A Minoan Settlement
   - The richest evidence for Minoan culture and daily life in the Bronze Age comes from Thera
-  - Wall paintings reveal a vivid appreciation of nature. Some scenes may also depict naval expeditions, calling to mind Homer's poems
+  - Wall paintings reveal a vivid appreciation of nature
+  - Some scenes may also depict naval expeditions, calling to mind Homer's poems
 - The End of Minoan Culture
   - The theory that Minoan culture was destroyed by a massive volcanic eruption is assessed
-  - Gradual incursion by Mycenaean elements is also examined a possible explanation for the end of Minoan culture
+  - Gradual incursion by Mycenaean elements is also examined as a possible explanation for the end of Minoan culture
 - Interpreting the Past
   - The role of Sir Arthur Evans and the practice of restoration is examined
   - How we imagine the past plays a key role in how we interpret the past
