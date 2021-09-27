@@ -298,13 +298,128 @@
   - The destruction horizon was primarily caused by the arrival of the Mycenaeans
     - Debate over whether there was an active process of "Mycenaeanization"
 - Interpreting the Past
-  - Our appreication of Bronze Age Crete is structured by the work of Arthur Evans
+  - Our appreciation of Bronze Age Crete is structured by the work of Arthur Evans
 
 
 
 ## Reading 3: Mycenae: Rich in Gold
 
-- 
+- Schliemann and the Creation of the Bronze Age
+  - Schliemann's work at Troy and Mycenae changed the way we saw archaeology and Homer's poems
+  - Schliemann's dishonesty creates a cloud of doubt around his discovery
+    - Falsification of records, theft, manufacturing of archaeological material, etc.
+  - Discoveries at Mycenae have revolutionized the scholarly world's understanding of Homer
+    - Proof of a wealthy ruler's fortress matches Homer's description of Agamemnon's home
+    - Historians end up using the term "Mycenaean" to describe the entirety of Greek civilization in the Late Bronze Age
+    - Schliemann can be said to have given the poems of Homer a tangible materiality
+    - Aided by the fact that Mycenae had never disappeared fully from history
+    - Also supplied evidence for the place of the Mycenaeans in the larger world of the eastern Mediterranean
+- The Origins of the People of the Shaft Graves
+  - Mycenaeans were likely a society ruled by a warrior aristocracy
+  - Carved scenes resembling carvings found in Egypt connect Mycenae to a world of cultural contact, much like the Minoans
+  - Mycenaean culture is difficult to reconstruct - foreign invaders? indigenous?
+  - Mycenaean wealth in gold creates another mystery
+    - The Argolid (heartland of the Mycenaean world) was not rich in mineral wealth
+    - Crete
+      - Theory that gold was obtained from conquering the Minoans
+      - Gold vessels are more rare on Crete, and stylistically, the 2 civilizations don't share much overlap
+    - Egypt
+      - Theory that Mycenaean warriors were paid by Egyptian pharaohs for mercenary services
+        - Mycenaeans lack a naval presence and the Hyksos' control of the region between Mycenae and Egypt would have made military action difficult
+    - Romania
+      - Gold mining in Romania as a good for trade
+      - Discovery of Aegean goods in Transylvania acts as evidence of a profitable exchange network between southern Greece and the Danube basin
+        - Continued expansion into central Europe
+        - Mycenaeans were better positioned to take advantage of this trade network than the Minoans
+          - Minoan Crete to the south and east in the Mediterranean and Levant
+          - Mycenaean Greece towards the north
+          - Boundaries would change in the Late Bronze Age
+- The Mycenaean World
+  - From the middle of the second millennium BC, the Mycenaeans had developed a complex society that controlled much of southern and central Greece
+  - Life in the Mycenaean centers
+    - Region outside the citadel has revealed evidence of roads, dams ,bridges, and building complexes, demonstrating that Mycenae wasn't a lone, isolated mountain citadel, but the center of an urban environment
+    - Specialized trade and manufacturing carried on under the protection of the palace and within the walls of the citadel
+    - Discovery of Korphos-Kalamianos shows us that Mycenaean settlements were not always organized around palaces and citadels
+      - Possibly associated with the exploitation of pastoral resources in the hinterland
+    - Discovery of Pylos shows a lack of fortification walls and a center for redistribution, not unlike Cretan palaces
+  - Mycenaean Industry and Labor
+    - Major industries included perfume and textile manufacturing
+      - High scale of activity
+    - We can see that Pylos and other Mycenaean centers participated in the trade network that tied the Aegean into a larger world of commodity exchange
+    - Palaces had specialized metalworkers who made silver, gold, and copper vessels and jewelry
+      - Personnel also included potters, weavers, dyers, artists, and scribes
+    - Tablets also show evidence of the Mycenaean elite and social hierarchy
+      - Shows manufacturing as a result of slave labor
+      - Tablets show evidence of a surprisingly complex and sophisticated society
+        - Many social strata
+        - Economic activity occurs on a scale that exceeds the modest palaces and halls described by Homer
+    - Archaeological work at Lakonia reveal a palace that would have been a major Mycenaean center of considerable size and power
+      - Evidence of large-scale weapons manufacturing
+      - If Homeric mythology is to be taken into account, this palace may correspond with the palace of Menelaus and Helen
+        - Should understanding of poetry enrich our understanding of archaeology?
+  - Linear B: Solving the Riddle
+    - There were strong affinities between Mycenaean culture and that of Crete
+      - Most readily demonstrated by the presence of Minoan artifacts in Mycenaean burials and domestic settings, suggesting that the Mycenaeans favored Minoan styles
+      - Some stylistic differences do separate the two civilizations
+      - True connections cannot be answered by archaeology
+        - Mycenaeans may have descended from the Cretans or adopted Cretan styles in their society
+    - Relations between Mycenae and Crete were strongest in the Linear B tablets discovered in both civilizations
+      - Alice Kober establishes the basic syllabic structure of the language and that Linear B was inflected
+      - Michael Ventris works off of Kober's work and deciphers the language, showing it was Greek
+        - Work shows that the language of the Mycenaeans was Greek and that place names inscribed in Linear B correspond with known toponyms
+    - Translation offers no poems or literary texts
+      - Invaluable as a source of information about the economic conditions and political organization of the Mycenaean world
+        - Ex: evidence of ritual slaughter and feast, which would continue to be the backbone for Greek sacrifice and religious practice for centuries
+        - Demonstrate that communities were established between major centers of power, and would communicate with these central authorities
+          - Tablets give us a view of a highly organized state apparatus
+            - Palace acts as both the symbolic, ritual center, and as the central node in the economic network
+            - System based on a balance between the production, storage, and redistribution of staple goods and the manufacturing, trade, and consumption of luxury items
+- Mycenaean Knossos
+  - After the palaces were destroyed a second time, most palaces were not used as ceremonial or administrative centers
+    - Knossos was an exception - it returned to its role as the center of a redistributive economy
+  - Use of Linear B at Knossos implies that it was occupied by Greeks, not Cretans
+    - Cretans would have used Linear A
+    - More evidence that mainland Greeks were the cause of the destruction of the Cretan palaces, likely in an invasion
+      - Backed up by evidence of competing power between Minoans and Mycenaeans
+      - Backed up by the myth of Theseus => villainizes the Cretans and justifies an invasion of Crete
+        - Alteration of the bull cult of the Minoans
+      - Discovery of more Linear B tablets suggests an overlap with the Mycenaeans' occupation of Crete and the period of time in which they used Linear B to record economic documents on the mainland
+        - Continuity of function of writing suggests a cooperation between Mycenaean elite and their new subjects
+      - DNA evidence shows an influx of people from the Peloponnese and central Greece to the Cretan population
+  - Mycenaeans would've encountered a social apparatus far more complex and developed than their own
+    - Developed a form of state organization and control that clearly mimicked the Cretan model
+    - Mycenaeans became the kings of principalities that developed the same model of storage, manufacturing, luxury trade, and redistribution that had been the hallmark of Minoan Crete
+- Troy and Homer
+  - Bronze Age can also be reconstructed using mythology
+    - Most notably, Troy
+  - Excavation reveals Troy clearly had many phases of occupation on the same site
+    - Time period identifies Homer's Troy as Troy VI or VII
+      - Troy VI shows no evidence of collapse due to warfare, therefore most scholars identify Homer's Troy with Troy VII
+    - Korfmann claims to have discovered evidence that Troy VI and VII were 10x larger than originally thought
+      - Would make Troy one of the larger trade emporia of the Late Bronze Age
+      - Location makes it a valuable trade point between the Danubian zone and the Aegean
+    - Kolb dismisses Korfmann's interpretation
+      - Claims few luxury items from the proposed trade routes
+      - No archive has been found associated with the citadel of Troy VI or VII, unlike other great palatial centers
+      - Most scholars agree with Korfmann
+    - Hittite correspondence suggests that many elements of Homer's poems derive from the conditions at the end of the Bronze Age
+      - Question for historians is what aspects of the poems reflect historical reality and what elements are fiction?
+      - Poems initially passed down orally means there is a large gap between the events they describe and when the poems were finally written down
+        - Especially impossible to describe social institutions and abstractions accurately
+        - Governmental practices are likely to be associated with the poet's own time
+        - Specific descriptions that delighted the audience were likely to be retained
+  - Likely that Troy was sacked and, due to the upheavals of the time, the Mycenaeans were involved
+    - Would've been because of the wealth of the strategically located city
+    - The absence of the Hittites, which would've been a large power at the time of the Mycenaeans, leads to the belief that Homer's accounts of the Trojan War do not accurately describe history
+- The Collapse of Mycenaean Culture
+  - Following Homer's poems, the fall of Troy would've signified the beginning of the end of the Bronze Age
+  - Major Mycenaean sites collapsed along a horizon of destruction, similar to the earlier case of Minoan Crete
+    - Climate change creates a collapse of the Mycenaean economy
+    - Evidence of foreign invasion
+    - Changes in battle technology, leading to a shift from chariot-based combat to infantry combat, resulting in chariot-based forces of Mycenaean elites losing their grip on power
+      - All explanations may have played some role
+  - As disasters hit Mycenaean power centers, construction projects and Linear B tablets imply potential threat of siege from the sea
+    - Fear not unwarranted due to the presence of a loose coalition of tribes that exploited tensions between the great eastern Mediterranean states to plunder, known as the Sea People
 
 
 
