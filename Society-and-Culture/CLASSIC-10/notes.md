@@ -55,7 +55,129 @@
 
 ## Lecture 2: The Big Bang: The Case of the Minoans
 
-- 
+- The Greeks before "The Greeks"
+  - Neolithic Greece (7000 - 3000 BCE)
+  - Bronze Age (3000 - 1200 BCE)
+    - Focus today on Minoans
+    - Wednesday on Mycenaeans
+- A fundamental fact: there is much that we don't know
+- Greece "before the Greeks"
+  - The nature of the evidence: mostly non-textual
+  - How might we "read" that evidence?
+  - When we read Homer this week and next, how should we relate Homeric poetry to the societies of Bronze Age Greece?
+
+- Big Questions in Background
+  - What are the roles of beauty (decorative objects, paintings, etc.) in Bronze Age (i.e. Minoan and Mycenaean) culture?
+    - What did they think about them?
+    - Are we projecting what we think about them?
+  - How might we speculate about the societal structure of Bronze Age societies? Consider ideas of hierarchy, redistributive economy, and possibly gender roles
+  - What functions does religion seem to have?
+    - What does it imply about how groups of people thought about their place in the world?
+- Neolithic Greece (c. 7000 - 3000 BCE)
+  - Stone tools, pre-smelting
+  - We start to see oats, wild barley, etc. in the agricultural record
+  - Fish bones in caves tells us people were eating fish => shows degree of sophistication
+  - Towards the latter half of the era:
+    - Mud huts
+    - Domestication of crops
+    - Introduction of pottery => movement beyond stone tools to the manipulation of earth into vessels used for various purposes
+      - Terracotta figurine of woman => purpose unknown
+      - Polychrome (multi-colored) vase => shows deliberate use of time to decorate vessel, object no longer strictly utilitarian
+  - Dimini (c. 4800 - 4500 BCE)
+    - What is the purpose of the set of concentric walls that surround the site?
+      - Were they for defensive purposes?
+      - Were they used for retaining the earth?
+        - Were they both?
+    - The presence of a **megaron** (a large central building) that isn't easily accessible
+      - To what extent does this central space indicate the presence of a central authority of some kind?
+      - View the way architecture can imply social organization
+- The Bronze Age (c. 3000 - 1200 BCE)
+  - Widespread adoption of bronze metallurgy (alloy of copper and tin, and sometimes other metals)
+    - Something more complex than the tools from the Neolithic Age, signifies technological advancement
+  - Circulation of goods and people throughout the Aegean Sea and Eastern Mediterranean
+    - Port-to-port trading (cabotage)
+    - Places have become more settled
+    - Things end up in a site far away from where they were produced (movement of people)
+      - Things acquire value by being far away from their source
+  - Cycladic Figurine from Cycladic Islands (2600 - 2400 BCE)
+    - Made of marble
+    - Usually found in burial sites
+      - Hundreds of thousands of occurrances
+    - Hard to interpret
+      - Idol? Representation of someone offering themselves to the gods? Human? Deity? Meant to show beauty?
+- The "Minoans"
+  -  Minoan Culture (1900 - 1450 BCE)
+    - One of 2 major Bronze Age cultures of Ancient Greece (the other being the Mycenaeans)
+    - Primary site of inhabitation: the island of Crete
+      - Settlements at Knossos and Thera
+      - Away from the central power of Greece on the mainland
+  - Aesthetics
+    - Why did they make the objects they made?
+  - Mystery
+    - Things we can't know from inference
+  - Myth
+    - The Minotaur and the Labyrinth
+    - King Minos is brought up by Thucydides in antiquity (5th century BCE)
+      - In reference to his vast naval power (thalassocracy)
+  - Knossos
+    - Much of what we know about Knossos is shaped by Sir Arthur Evans
+      - Archaeologist determined to prove the existence of King Minos and the Minotaur
+      - Includes name of the Minoans themselves
+      - Not all of this information is historically accurate
+    - The Labyrinth is possibly the palace at Knossos
+      - Extremely complex floor layout => winding maze
+      - Exaggeration of the megarons from Neolithic Greece
+      - Architecture suggestive of centralized power
+    - The Palace at Knossos
+      - May not be a home as we understand it
+      - Other sites lead us to believe palaces were used as religious/economic centers
+    - Bull-Leaping
+      - Ritual holds a high significance in Minoan culture
+      - Bull-leaping signet ring is speculated to show a religious story of the movement of the stars
+      - Bull's Head Rhyton
+        - Used as a libations rhyton, then destroyed
+      - Leads to question of what did the Minoans think of what it meant to live a good life?
+  - Linear A
+    - System of writing used by Minoans
+    - Cannot be translated
+      - What has been translated is not particularly interesting - mostly logs
+  - Linear B
+    - Has been translated, complex relation to Linear A
+  - Redistributive Economy
+    - Surplus of staple goods used to support non-essential workers and farmers in the event food was scarce
+      - A balancing act
+      - People in charge of maintaining a surplus and people in charge of creating the surplus
+      - Attempt at societal organization
+    - Pithoi - large storage vessels
+  - Less Elite Sites
+    - Building I-O-N at Vronda
+      - Humble houses
+      - Signs of cookware, animal slaughter, etc.
+      - Perhaps more representative of common folk
+      - Expansion indicative of multiple generations
+  - Akrotiri, Thera
+    - Cosmopolitan harbor city filled with frescoes
+      - Were these religious? Celebration of wealth? Celebration of accomplishment?
+      - Saffron Gatherer
+      - Fisherman Fresco
+      - Flotilla Fresco
+      - West House Fresco
+        - Earliest representation of the story of Troy?
+    - Destroyed by eruption of a volcano
+- The Big Bang: What Destroyed Minoan Culture?
+  - Myth helpful? Destruction of Atlantis
+  - The problems of 1628 BCE and 1450 BCE
+    - Marine style pottery post-dates volcanic eruption at Akrotiri
+    - Minoans likely weren't destroyed immediately by the volcano at Akrotiri
+  - Safest conclusion: destruction of Thera disrupted trade networks and likely hurt agriculture elsewhere, but other Minoan sites persist until 1450 BCE
+- Tentative Conclusions about Minoans
+  - Architecture implies some kind of centralized authority and possibly a redistributive economy
+    - Are the heroes of the *Iliad* representative of authority figures?
+  - Frescoes especially suggest an attention to aesthetics (but to what end?)
+    - Man vs. Monkey is an example of a reminder that we can mistakenly project meaning onto the Minoans
+  - Religious objects and space indicate awareness of the fragility of life?
+    - Destruction of Thera in 1628 and other sites around 1450 BCE
+    - Things wouldn't always endure
 
 
 
@@ -83,7 +205,139 @@
 
 
 
-## Lecture 7: The (Strange?) Case of Sparta 
+## Lecture 7: The (Strange?) Case of Sparta
+
+- 
+
+
+
+## Lecture 8: Game of Thrones: Archaic Athens
+
+- 
+
+
+
+## Lecture 9: “Let’s Get This Party Started”: The Symposium
+
+- 
+
+
+
+## Lecture 10: Statues and Songs 
+
+- 
+
+
+
+## Lecture 11: The Origins of “Inquiry” and the Greco-Persian Wars
+
+- 
+
+
+
+## Lecture 12: Barbarians in Mind: The Construction of the “Other”
+
+- 
+
+
+
+## Lecture 13: Was Athens a Democracy?
+
+- 
+
+
+
+## Lecture 14: Social Death: The Lives of Slaves
+
+- 
+
+
+
+## Lecture 15: What Is (Greek) Tragedy?
+
+- 
+
+
+
+## Lecture 16: Sexuality in Ancient Athens
+
+- 
+
+
+
+## Lecture 17: Like Lawyers on Steroids: The Sophists
+
+- 
+
+
+
+## Lecture 18: Aspects of Greek Religion
+
+- 
+
+
+
+## Lecture 19: The Peloponnesian War as Tragedy
+
+- 
+
+
+
+## Lecture 20: Pericles’ Funeral Oration
+
+- 
+
+
+
+## Lecture 21: Defying Pericles: Women in Athens
+
+- 
+
+
+
+## Lecture 22: Introducing Socrates
+
+- 
+
+
+
+## Lecture 23: Women in Athens II
+
+- 
+
+
+
+## Lecture 24: The Role(s) of Metics at Athens
+
+- 
+
+
+
+## Lecture 25: Socrates II
+
+- 
+
+
+
+## Lecture 26: Aristotle
+
+- 
+
+
+
+## Lecture 27: Alexander, Student of Aristotle
+
+- 
+
+
+
+## Lecture 28: Greece “Under” Rome
+
+- 
+
+
+
+## Lecture 29: The “Coolness” of Classics
 
 - 
 
@@ -105,6 +359,12 @@
 - Chorus/choral poetry => epic
   - Epic - an orally performed genre of poetry in which heroic subjects are treated 
 - Die and destroy are related in the language of the Ancient Greeks
+
+
+
+## Discussion 2:
+
+- 
 
 
 
@@ -420,6 +680,12 @@
       - All explanations may have played some role
   - As disasters hit Mycenaean power centers, construction projects and Linear B tablets imply potential threat of siege from the sea
     - Fear not unwarranted due to the presence of a loose coalition of tribes that exploited tensions between the great eastern Mediterranean states to plunder, known as the Sea People
+
+
+
+## Reading 4:
+
+- 
 
 
 
