@@ -183,7 +183,69 @@
 
 ## Lecture 3: The Mycenaeans
 
-- 
+- Two Bronze Age societies
+  - The Minoans (1700 - 1450 BCE)
+    - Knossos
+    - Akrotiri on Thera
+  - The Mycenaeans (1500-1100 BCE)
+    - Mycenae
+    - Troy
+    - Knossos
+- The Mycenaeans: Three Things to Explore
+  - Conspicuous power (esp. expressed architecturally and in material remains)
+  - Bellicosity (in material remains and in likely takeover of Minoan sites)
+  - Homeric connections
+- Heinrich Schliemann (1822 - 1890)
+  - Schliemann is responsible for much of what we know about the Mycenaeans
+  - Determined to prove Homer, Agamemnon, etc. were real
+  - Can be credited with discovering what we now believe is Troy and the unearthing of Mycenae
+    - Was also a falsifier/exaggerator/liar, so take his discoveries with a grain of salt
+- The Fortress Site of Mycenae
+  - Highly indicative of wealth, conveying a sense of power and formidability
+    - Cyclopean walls
+    - Heroic burials
+    - Massive tombs
+  - City of Agamemnon
+  - Lion's Gate, Grave Circles, Treasury of Atreus, etc.
+  - Goods from Grave Circle A
+    - Lion Fight Dagger, Gold Death Mask
+    - Gold shows high reverence for those they buried
+    - Absence of mineral-rich terrain nearby indicates a large web of connections with other civilizations
+- What about ordinary lives?
+  - Doeroi/doerai - slaves
+    - Perfume manufacturing workers
+    - Textile workers
+  - Bronzesmiths, bow-makers, chariot-builders, shepherds
+    - Mentioned in tablets
+  - People who carded wool and weaved flax for ships' sails
+  - People who grew and harvested beets, sesame, fennel, mint, celery, etc.
+  - Geronsia (council) and damos (group of landholders)
+    - Gerousia (council of elders in Sparta)
+    - "Demos" (people)
+- Mycenaean Takeover of Knossos (c. 1450 BCE)
+  - The "smoking gun" - the replacement of Linear A (Cretan) by Linear B (early Greek) at Minoan sites
+    - Results in the conclusion that the Mycenaeans took over the Minoan sites
+  - Story of King Minos and the Minotaur and Theseus slaying the Minotaur may act as a myth in reference to the Mycenaean takeover of the Minoans
+    - Perversion of the Minoans' reverence for bulls
+- Linear B
+  - Discovered to be inflective
+  - Some translations resemble Greek
+  - Lack of literature, literature remained oral
+    - Written information were records, tax info, etc.
+  - Linear A and Linear B are both syllabaries
+    - Linear A
+      - Minoans
+      - Untranslated
+    - Linear B
+      - Mycenaeans
+      - Translated
+      - Form of Greek
+      - Presence at Minoan sites indicates Mycenaean takeover at those site
+- The "Evidence" from Homer
+  - Reading the *Iliad*
+    - Focus on the main issues in each book: conflict and consequences (Book 1); the death of Patroclus and the description of Achilles' shield (Book 18); and the destruction of Troy and the human consequences esp. Andromache's lament (Book 22)
+    - Pay attention to its aesthetics (similes, descriptive epithets for characters): why are these there and how do they generate sympathy and enhance the reading experience?
+    - What does it mean that a culture's first great work of literature focuses on the pain, rage, pathos, of an individual?
 
 
 
