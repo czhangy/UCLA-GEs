@@ -424,9 +424,19 @@
 
 
 
-## Discussion 2:
+## Discussion 2: The Mycenaeans and the *Iliad*
 
-- 
+- The Mycenaeans
+  - The assumptions of the archaeologists in reconstructing the art of the Mycenaeans
+  - The analysis of the Linear B tablets requires extrapolating data about a large period of time from simple snapshots of what are essentially reciepts
+- The *Iliad*
+  - General theme of will of the gods vs. the will of man
+  - When reading Homer, people tend to visualize characters as embodiments of different vices
+  - Ecphrasis - the detailed description of some object in poetry
+    - The language describing some piece of art becomes the piece of art
+  - Concern throughout Greek history about convincing others in argumentative ways
+    - Persuasion seems to fall flat in the *Iliad*
+  - Aristos - the best, rule of the best, who's the best
 
 
 
@@ -745,7 +755,7 @@
 
 
 
-## Reading 4:
+## Reading 4: The Iron Age
 
 - 
 
