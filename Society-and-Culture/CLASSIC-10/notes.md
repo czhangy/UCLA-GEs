@@ -249,9 +249,71 @@
 
 
 
-## Lecture 4: Homer + Mycenaeans: Facts and Fictions 
+## Lecture 4: Homer + the Mycenaeans: Facts and Fictions 
 
-- 
+- Pylos and Troy
+  - The "Palace at Pylos"
+    - Opulent
+    - Tons of Linear B palace providing administrative information
+    - The Palace of Nestor
+    - Built atop an acropolis
+      - Acropolis - high point of a city
+- Minoans and Mycenaeans
+  - After the Mycenaean takeover, we see the circulation of Minoan goods back to the Mycenaean mainland
+    - Is this just pure conquest or is there an admiration for the conquered society?
+- Homer
+  - A lot of the sense of recalling something grander
+    - "The past is better"
+  - Conclusions about Homeric Pylos
+    - There are some apparent correspondences between Homer's descriptions of such things as "Nestor's Palace" and the court-complex at Pylos
+      - Earth-shaker
+      - Capacity for long-term storage
+      - Cups made of gold
+      - Many benches
+    - Terminology for palace rule is inconsistent or vague in Homer (who's in charge, the wanax or the basileus?)
+- Was the Trojan War real?
+  - In antiquity, Greeks were thinking about the history of the Trojan War
+    - Whether or not it happened seems to have mattered to their identity
+    - Thucydides relates its existence to Greek Unity
+  - Questioning the Myth
+    - Agamemnon cited as having gained leadership in the war since he was the preeminently powerful man in Greece at the time (wealth of Mycenae)
+      - Relied on fear to assemble his expedition, not goodwill
+    - Hero Shrine of Menelaus and Helen
+      - Idea in the *Iliad* that Helen was hated by the Greeks
+      - A shrine in Lakonia with evidence that Helen was continually worshipped
+        - Archaeological evidence contradicts myth
+    - There is a layer of Troy that seems to have been destroyed by siege
+      - Fits the right timeline
+      - The preceding layer of Troy had evidence of Mycenaean pottery
+  - Hittite Correspondence (c. 1300 - 1200 BCE)
+    - Diplomatic letters mention "Wilusa" (Ilion == Troy?)
+    - Piyamaradu ~ Priam?
+    - Alaksandu ~ Alexandros == Paris?
+- Homeric Version of Events
+  - Not written down until after 750 BCE
+  - Oral formulaic poetry (to be explained Monday)
+  - Different versions of the poems based on difference performances
+  - Potential differences between the "poet's time" (which change over centuries) and the "poem's time"
+  - Complicated by the inherent nostalgia of the poems
+  - Homer as a hybrid
+    - Ex: chariots driven into battle, followed by fighting hand-to-hand => Bronze Age vs. Iron Age tech
+- Homeric Facts and Fictions about the Bronze Age
+  - Yes, Homeric poems make reference to elements of the Bronze Age world
+  - But Homer's poems represent a tradition that accrued over many decades and centuries
+    - They thus also exhibit elements from a later age, such as:
+      - Iron weapons
+      - Funeral pyres
+      - Fighting as a mobile infantry
+    - Show aspects of Homer's time, the past, and the even later past
+- The End of the Mycenaean World (c. 1200 - 1100 BCE)
+  - Why?
+  - Dispersal of peoples, palaces occupied by squatters and shepherds, etc.
+  - Slave revolt? Climate changes? Siege?
+  - Best answer: the Sea People
+    - People that exploited the weakness of various Mycenaean sites?
+      - Wall-less Pylos
+    - Their presence attests to the massive upheavals in the Mediterranean
+  - Nostalgia of Homer's poems and tendency to magnify the past come from the fact that they were written in a downturn of Greece
 
 
 
@@ -437,6 +499,12 @@
   - Concern throughout Greek history about convincing others in argumentative ways
     - Persuasion seems to fall flat in the *Iliad*
   - Aristos - the best, rule of the best, who's the best
+
+
+
+## Discussion 3:
+
+- 
 
 
 
