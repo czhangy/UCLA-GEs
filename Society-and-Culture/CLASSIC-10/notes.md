@@ -319,7 +319,65 @@
 
 ## Lecture 5: Homer as the Internet
 
-- 
+- Homer
+  - Even in antiquity, Homer's literature was highly valued
+  - There is an air of mystery surrounding Homer
+  - Much like the Internet today, Homer was the prevalent resource for learning about living, virtue, etc. in antiquity
+    - Sense of Homer having total knowledge
+    - Links different people across time and space, giving them a collective idea of their past
+    - Was "editable" - the storyteller could modify his stories to adjust for the locale/audience
+  - An oral phenomenon originally
+  - Some facts?
+    - The epic poems called the *Iliad* and *Odyssey* are long narrative poems, sung in verse or chanted, often before an audience
+    - Oral poems: for performance, for recitation, more than reading
+    - Composition of the poems as we have them now is usually dated to the mid to late 8th century or early 7th century
+      - About 400 years of recitation before the stories were written down
+    - Homer was likely the poet/the name of the editor who recorded the oral tradition and crafted two poems out of that tradition
+      - Not mutually exclusive
+      - Some claim Homer is the name of the oral tradition as a whole
+- Oral Composition and Authorship
+  - Milman Parry
+    - Made comprehensive notes on the building blocks of oral composition
+      - These building blocks are vehicles of memory
+      - Related these observations to Homeric tradition
+    - Substitution of descriptions were made in stories, keeping the main story the same
+  - Albert Lord
+- Homeric "Coding"
+  - Poetic meter: dactylic hexameter as "code"
+    - Long short short - `^ ^` (dactyl)
+    - Long long - `-` (spondee)
+    - Hard to get to work in English
+    - Based on the quantity of the vowel
+  - Epithets as Coding/Building Blocks
+    - "Resourceful Odysseus"
+    - "Helen of the lovely hair"
+    - What is the purpose of these formulae?
+      - Gives the orator the ability to stitch things together in meter
+- Glances into the Power of Homer
+  - Achilles' Great Speech
+    - Philosophizes about war, those who have nothing vs. those who have much
+    - Compares himself to a mother bird, creating contrast between the act of war and the beauty of nature
+    - The paradox of the heroic life
+      - Desire for the hero to return home involves failing to die in battle and memorializing your name
+  - The Gods
+  - The Human Cost
+    - Andromache's Lament
+- *Odyssey*
+  - Tells the story of Odysseus' ten-year homecoming after ten years of war
+  - Focus on the household with special attention to his son and wife
+  - Also on Odysseus' suffering adventures
+  - Odysseus' Mortal Choice
+    - A moment where he has to choose what kind of life he wants
+      - Calypso's island
+    - Offered the chance to become immortal, but he chooses to return home
+  - Penelope's Subjectivity
+    - A secret shared between Odysseus and Penelope
+    - Penelope's perspective
+- Homer's Hold on Us
+  - Emotional vividness
+  - Grandeur in language ("wine-blue water", "teeth's barrier") and plotting (think of the many books of delay in Odysseus' arrival)
+  - Also the tiny details: "her heart pondering much," or Andromache's thoughts on her orphaned son
+  - Sheer vitality, across many centuries
 
 
 
@@ -825,7 +883,28 @@
 
 ## Reading 4: The Iron Age
 
-- 
+- Center and Periphery in the Early Iron Age
+  - Homer's poems recast the Bronze Age into a world of heroes
+    - The world described in Homeric poems is much closer to the Early Iron Age rather than the time of Minoan Crete and the Mycenaeans
+    - An example of Homer's halls exists at Lefkandi on the island of Euboia
+      - Illustrative of how a society ruled by chieftians was emerging in the Proto-Geometric period
+      - Shortly after its construction, it was used in burial rituals, a practice resembling the Mycenaean world
+      - Has forced scholars to re-examine the Greek world after the collapse of the Mycenaeans
+        - Previously assumed that the Greek world had returned to a world dominated by poor farmers and herders
+        - Palaces did cease to function, but the aftermath was contained
+        - Recent excavations have shown a continuity of settlement from the Late Bronze Age to the Early Iron Age
+    - The people of Iron Age Greece actively created memories of their past (Trojan War) and recast those stories with heroes with similar values to the Greek rulers of the Iron Age
+      - Bronze Age tombs were also revisited and venerated in late periods
+        - Tombs acted as a connection to a heroic past
+    - Homeric poems shaped the Iron Age by connecting the present and heroic past in narrative
+  - Society and Identity in the Iron Age
+    - Descendants of the hero of Lefkandi participated in a Mediterranean trade network
+      - Shows evidence that within 100 years of the end of the palaces, the eastern periphery of the Mycenaean world had recovered
+      - Palaces weren't restored, a new form of social organization would develop
+    - The oikos or household was a patrilinear family unit centered on the big man
+      - The men styled themselves as rulers
+      - Homeric poems were shaped by the highly competitive society they dominated
+        - Hieratic states and redistributive economies of the Bronze Age make little impact on Homer's stories
 
 
 
