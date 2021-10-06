@@ -905,6 +905,83 @@
       - The men styled themselves as rulers
       - Homeric poems were shaped by the highly competitive society they dominated
         - Hieratic states and redistributive economies of the Bronze Age make little impact on Homer's stories
+        - We rely on Homeric poems to reconstruct the social world of this big man society, supplemented by material culture
+      - Clear signs of communal organization can be found in Early Iron Age communities
+    - At some settlements, multiple hamlets appear to have existed in close proximity to one another
+      - Points to competing clans, each dominated by a chieftain
+      - Scholars see this society as comprised of a warrior elite controlling large numbers of dependent farmers
+        - Weapons and figurines of warriors dating back to this period are common
+          - Warrior figurine from Karditsa
+    - Terracotta figurine from the Toumba cemetery has been suggested to represent Cheiron, a centaur who raised Achilles
+      - Insuifficient evidence, but acts as a reminder that the period was richly imaginative
+      - Monsters and hybrids of Greek myth were definitely present during the Iron Age
+        - Centaurs located on the edge of the Mycenaean world
+        - With Mycenaean Greece long gone, the south would still be associated with advanced civilization, while the north was tied to wildness
+    - Mykonos pithos depicting the Trojan Horse
+      - Reminds us that the stories told in the epic cycle remained alive in the imagination of the Greeks for hundreds of years, despite the historical events they depicted having occurred long ago
+      - Points to the importance of Homer's stories
+        - Also reflected by "Nestor's cup" found at the Greek colony of Pithekoussai
+    - The Iron Age saw its own significant cultural developments
+      - Production of monumental funerary markers in Athens
+        - Vessels were comprised of the ekphora, the procession that escorted the body to the burial, and the prothesis, a depiction of the body laid out, with others engaging in lamentations around the corpse
+        - Opportunity for great families to assert their status
+    - Shift from the Bronze Age to the Iron Age
+      - Widespread upheavals in the eastern Mediterranean around 1150 BC
+        - May have jeopardized the regular international trade
+        - Centralized control broke down in palatial centers
+        - Linear B lost forever, and Greece would remain without a writing system for 300 years
+        - Reliance on oral poetry to link to the past and blend with the new Iron Age
+      - Iron Age was a society ruled by elites who participated in international trade
+        - Possible monopolization of iron, the new preferred material for weapons
+      - New social order would develop, based on the domination of a warrior elite who modeled themselves on Homer's heroes
+      - Greek culture would be introduced to new challenges, but Homer would still give the Greeks their identity
+  - Heroes and Villains
+    - The Early Iron Age saw memories of a heroic past shape the present
+      - Basileis asserted their status as leaders and warriors
+      - Families and households fashioned elite identities by practicing tomb and ancestor cult
+      - Homeric poems expressed a complex attitude towards the past
+    - The Nostoi told of the returns of the heroes of Troy
+      - Tales of shipwreck, betrayal, and death
+      - Odysseus' homecoming contrasted with that of Agamemnon, who returned and was killed by Klytaimnsetra and Aigisthos
+      - Emphasizes that, despite the use of the epic poems' by princes to claim heroic descent, they were often expressive of a society dissatisfied with the rule of kings
+      - Rudimentary depictions of justice and governance; concern with the operation of authority
+        - Reflected in the work of eighth-century poet, Hesiod
+        - "The strong do what they will, the weak suffer what they must"
+    - Poems often leave the audience aware of how inadequate the Homeric code is as the basis of a social contract
+      - Odysseus' return home involved the slaughter of the Suitors and the hanging of the servant girls => continuation of the cycle of violence
+      - Despite the magnificence of Homeric heroism on the battlefield, it threatened to condemn Iron Age society to eternal warfare
+        - Can the code that nurtures warriors be reconciled with peace?
+- Polis and Ethnos in the Eighth Century
+  - During the 8th century, the polis/city-state emerged as the distinctive form of Greek social and political life
+    - Developments contributed to the culture of Archaic Greece
+      - Age of the first Olympics
+      - Age of the first overseas trade emporia
+      - Beginning of a diaspora of Greeks throughout the Mediterranean and beyond
+      - Age of the first acquisition of the Greek alphabet
+  - The rise of the city-state
+    - Evidence at old Smyrna and Corinth, where clusters of houses and specialized production areas suggest the growth of complex social organization
+      - Cluster of villages around the later agora/marketplace witnessed a rapid increase in population
+      - Corinthian pottery began to be traded far afield, suggesting a vigorous commercial life tied to the community
+      - Profited from its position at the intersection of the Corinthian and Saronic Gulfs, allowing for the easy export of material both east and west
+      - Colonies dispatched from Corinth by members of the same family, suggestive of oligarchic control by the Bacchiads
+    - The polis was not the sole form of social organization to emerge from the Iron Age
+      - Aggregates of communities asserted a common ethnic identity, known as ethne
+        - Many of these formed political federations known as koina
+        - Ex: the Aitolians of western Greece all claimed to be descendants of Aitolos
+        - Varied from identifying as primarily religious networks to important regional organizations
+  - Monumental Temples and the Rule of Law
+    - Closely connected with the increase in urban agglomerations
+    - Attest to the importance of religious and cult activity in the eighth and seventh centuries
+      - Many Early Archaic sanctuaries were the result of transforming the houses of rulers and the elite into temples of the gods
+    - In the 6th century BC, the Greeks would go on to begin building temples out of limestone and marble
+      - Scholars note the evolutionary development in temple architecture
+      - Represents a fundamental shift in the nature of social hierarchy
+    - As gods emerged as the central focus of these communities, kings declined in importance
+      - Communities took first steps towards establishing regular, codified laws
+      - Governance shifted from the basileis to the sovereign decisions of the community
+      - At Dreros we see the establishment of legal authority in the community
+        - Executive power would rotate and boards of magistrates guaranteed that power wouldn't fall in the hands of a single individual
+        - Shift away from the world of kings and Homeric heroes
 
 
 
