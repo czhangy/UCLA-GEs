@@ -383,7 +383,88 @@
 
 ## Lecture 6: The Iron Age
 
-- 
+- Chronology
+  - Bronze Age (Minoans and Mycenaeans) = 2000 - 1100 BCE
+  - Iron Age = 1100 - 700 BCE
+  - Iron Age, sometimes called the Dark Age or Geometric Period
+- Lefkandi
+  - Based in a large settlement from about 950 BCE
+    - People that lived here, and their houses, were buried under this structure
+    - Are the burials the burial sites of some heroic/ruler figure? 
+  - Indications of trade with other locations
+    - Bronze amphora
+  - Indications of wealth
+    - Large amounts of gold, manufactured centuries before the burial
+    - Indicates high social status of the buried
+  - Contrary to the fall of palatial structures, other settlements like Lefkandi continued to operate
+- Revising the Dark Ages
+  - Centaur figurine broken into 2 pieces and thrown into 2 graves
+    - Beyond utilitarian
+    - Suggested to be representative of Chiron
+  - Pithos depicting the Trojan Horse
+    - Evidence of continuity over the centuries, despite the decline of other aspects of civilization
+  - Shows that cultural phenomena did persist => is the Dark Age really dark?
+- Decline? It Depends on Where You Dig
+  - Inhabitants of east-central Greece didn't experience as much decline as those further south
+  - Calls into question why scholars were so quick to dub this period as a period of decline
+- Evidence of Continuity
+  - Hero cults (cultural memory)
+    - People from the distant Bronze Age era continued to be honored by people during the Iron Age
+  - Homeric poems
+    - Being recited at festivals, ceremonies, get-togethers, etc.
+  - Ancient tombs preserved
+    - Tholos tomb, Attica, c. 1400 BCE
+    - Dromos shows pottery from Iron Age to Classical Period
+  - "Nestor's Cup" c. 725 BCE
+    - Found in Bay of Naples (far west side of the Italian Peninsula)
+      - Informative of Greek movement at this time
+    - Some of the earliest evidence of a new Greek alphabet, after the disappearance of Linear B
+- Phoenician Signary and Greek Alphabet
+  - Greeks took over the Phoenician system and applied it to Greek sounds
+    - Possibly for trade standardization purposes?
+  - da, de, di, do, du
+    - In Linear B, each of the above would have been a different symbol
+    - In Phoenician one symbol or letter stood for all
+    - Greek letter delta represents only the sound that those syllables have in common
+    - Greek adds written vowels
+- Other Evidence against the Dark Age?
+  - Dipylon Amphora (765 - 730 BCE Athens)
+    - More evidence of cultural productivity during the Dark Age
+    - Mass produced in a workshop
+    - Mark a grave and display burial activity
+- The oikos
+  - Roughly means household
+  - A patrilineal family unit, including servants, retainers, slaves, etc.
+  - Represented in the *Odyssey*
+  - Think of Lefkandi as being the home of a particular oikos
+  - The lowly thete
+    - A person unattached to an oikos and/or owning no land
+    - Have no personal security
+    - Immigrants, refugees, escaped slaves, etc.
+    - Mentioned in Achilles' dialogue in the *Odyssey*
+- Early Law from Dreros, Crete
+  - Regardless of the lack of literature present from the period, it's significant that law has been written
+  - Much of early Greek law is procedural, rather than theoretical
+  - The written nature of the law curbs arbitrariness for the people in antiquity
+- Units of Identity in Migration from Metropolis
+  - Ethne - people who asserted a common ethnic identity
+  - Koinon - political federations
+  - Oikoi - households, including slaves
+  - Kleros - a plot of land
+    - Give people an incentive to get them to relocate
+  - Agora - marketplace
+  - Polis - city-state or city
+  - Idea that the Greeks mythologize their encounters with others, vilifying the "other" and highlighting their conquests
+    - Evident in their artwork
+-  Institution of the Olympics
+  - Supposedly started by Heracles
+  - Actual occurrence that creates Greek unity
+  - Promotion of Greekness/Panhellism
+  - Acts as a religious festival - it was a sacred event
+  - Participation in the Olympics is how you won glory and undying fame
+  - Pindar (6th - 5th century BCE)
+    - Odes to the glorious athletes
+    - Writes on the vulnerability of success and how victory is fleeting
 
 
 
