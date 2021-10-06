@@ -1063,6 +1063,136 @@
       - At Dreros we see the establishment of legal authority in the community
         - Executive power would rotate and boards of magistrates guaranteed that power wouldn't fall in the hands of a single individual
         - Shift away from the world of kings and Homeric heroes
+    - Early Greek lawgivers' stories follow formulaic patterns involving an initial crisis, the appointment of the lawgiver, testing of new laws, and the departure of the lawgiver
+      - Seems to suggest that the establishing of laws with the help of the gods or a semi-divine lawgiver was a stage of development that societies needed to endure to survive
+    - Early Greek law was primarily procedural, not substantive
+      - Laws dictated how an arbitration was to be conducted or what penalty to serve
+      - Didn't detail any underlying principles
+      - Practical, not theoretical
+    - Writing down of laws altered the way they operated
+      - People who know laws and expounded on them lost importance
+      - Placed emphasis on the law, not the legal expert
+      - Regarded as a step towards democracy
+- A Greek Diaspora
+  - Vigorous commercial activity throughout the Greek world between 750 - 500 BCE
+    - Trading north as far as Ukraine
+    - Trading south as far as Egypt
+    - Eventually established permanent colonies in trade destinations
+      - Done as a result of population growth pressure at home, resulting in a need for new land?
+      - Done to acquire trade opportunities, giving rise to the foundation of colonies?
+    - What general conditions led to the Greeks leaving their ancestral home?
+  - Some places dedicated to trade represent the mercantile drive that took Greeks to the farthest reaches of the Mediterranean world
+    - Evidence of land divisions at these sites imply that land was a valuable resource for settlers at the time
+      - Land was surveyed and plots of equal size were apportioned to the first settlers
+    - Colonists may have been dispatched by some mother-city, but these colonies were founded by waves of settlers
+    - Trade and land went hand in hand
+    - Agricultural colonies cannot be classified separately from trading colonies
+    - Colonies in the region known as Magna Graecia have been surveyed, showing that most of them were planned from the outset
+      - Desire to honor the gods, setting aside areas for worship
+      - Need to provide land for new settlers
+        - Allocation raises questions of status and fairness => settlers needed to have equal portions of land
+        - Division into lots (kleroi) of plethra => small plots, evidence that settlers planned on supplementing survival with land holdings out of town and trade
+    - Central area set aside to house the temples of the gods and an agora (public space)
+      - Roads ran out from this central area, dividing land into equal plots
+      - Orientation of buildings shows initial planning, unlike the organic communities of the mainland
+  - Communities, Foundations, and Identities
+    - Colonies confirmed the authority of a founder and lawgiver, resembling Zeus, but also helped articulate a notion of equality
+    - Debate that the idea of formal colonial expeditions sent from the mother-city (metropolis) is a retrojection from later times to provide legitimacy to the colonies' founding
+      - Intertwining of myth and history
+      - The founding of Cyrene has multiple  different variations, scattered across Greece
+      - These stories create affinities based on goodwill, fictional ties of blood, and shared episodes in the tales
+        - Narrative linked communities across the Aegean world
+    - Greeks forced to ask and answer the basic questions of social life
+      - What constitutes a community?
+      - How shall it be governed?
+      - What authority will give its laws force?
+      - How shall we live?
+  - Delphi and Greek Identity
+    - The story of Cyrene's founding points to the central role of Delphi
+    - Accounts of colonial foundations commonly feature natural disasters, brought upon the subjects of the stories by the oracle in response to some wrongdoing
+      - Communities of Archaic Greece were compelled to seek the active guidance of the oracle for help on these matters
+      - Centers on Apollo, the god of oracular communication and who led many colonial expeditions to their new home
+    - Apollo's authority is used to give legitimacy to Cyrene and many other colonies
+      - His presence is found in lawmaking as well
+    - Apollo's involvement in every aspect of the Greek diaspora shaped the community's Greek identity
+      - Mentality of "us" and "them"
+      - Mention of the indigenous people prior to Greek settlement is rare
+        - They were demonized, projected into the Greek imagination as monsters
+        - Indication of this is present in art and temples
+        - Giants, amazons, and hybrid monsters served as a reminder of the dangers and threats lurking on the borders of the known world
+        - Promotion of constant hostility towards others
+- "Orientalizing" and Eastern Influence
+  - Ideas and motifs from the eastern Mediterranean entered Greek culture during the Orientalizing phase
+    - Greek response to this new cultural interaction shown by exotic animals and strange hybrids on Corinthian pottery
+  - These new ideas and motifs were used to help define a sense of Greekness
+    - They also materially changed the nature of Greek culture itself
+    - Greeks absorbed the stories, poems, and technologies of the eastern people
+      - This is especially shown when contrasting Hesiod's poetry with Homer's
+        - Story of Ouranos/Kronos/Zeus resembles Hurrian and Hittite poems
+        - Story of Zeus and Typhoeus resembles the Babylonian story of Marduk and Tiamat
+  - Near East stories place the rivalries of various kingdoms and city-states of the ancient Near-East into narrative form
+    - They also draw on deeply rooted psychological fears
+    - Many draw from astrological significance and the constellations
+  - The mixing of stories with the Near East also influenced by the adoption of an Eastern alphabet and the reinvention of writing in the Greek world
+  - The Reinvention of Writing
+    - Linear B fell out of use with the fall of palatial culture and the end of the Bronze Age
+      - It remained absent from the Greek world for 300+ years afterwards
+      - Since Linear B was used to monitor the economic system of palaces, the downfall of that economic system resulted in the downfall of the script
+    - In 720 BCE, the Greeks adopted a writing system from the northwest Semitic Phoenicians
+      - Earliest written Greek turns up where Greeks and Phoenicians traded, adapted to ease the exchange of goods
+      - Possible that bilingual children of marriages between Greeks and Phoenicians would have adopted the script of one language to represent the sounds of the other
+      - Practice caught on very quickly
+    - Writing's widespread use has been underscored by excavations at Methone
+      - Dozens of vessels inscribed with Greek names and lines of verse found in the Ypogeio (Underground)
+        - Vessels included both transport vessels and drinking cups
+      - Provenance of the material attests to the importance of Methone
+        - Profited from its strategic location => interior rich in timber, metal reserves from Macedonia, point of entry to Aegean trade network, etc.
+      - Among the earlies pieces of written Greek
+      - Some cases used to label transport vessels, in other cases, it's used to identify the owner of the drink
+        - Use in trade and in the symposium
+        - Would later be used to write down the Homeric poems
+      - Reveals a Greek culture tightly bound into Aegean and Mediterranean worlds characterized by intense degrees of interaction
+      - Cultural exchange between Greeks and non-Greeks
+- The Olympics
+  - The diaspora is accompanied by an opposite movement towards asserting Greek identity
+    - Found expression through the cultural institution of the Olympics
+  - Founded in 776 BC by Herakles
+  - For 1000+ years, it would remain one of the key institutions for determining inclusion within the community of Greeks
+    - By extension, it determined exclusion for those that weren't Greek
+  - Held every 4 years at the foot of Kronos Hill, adjacent to the sanctuary of Zeus at Olympia
+    - Region is far from the direct control of any major power
+  - Initially dominated by Spartans
+    - They didn't attempt to take control of the sanctuary
+    - Emerged as a panhellenic sanctuary, where Greeks from anywhere could mix freely
+    - Critical in the shaping and emergence of Greek identity
+  - Competitors reinforced their common Greek identity by competing with one another
+    - Only Greeks competed with Greeks
+    - Reinforced by shared culture, shared language, and shared myths
+  - The Olympics were a sacred event, conducted for the glory of Zeus as much as it was for the glory of the athletes
+    - Month leading up to the games was a time of truce throughout Greece (ekecheiria), during which wars were suspended
+  - Core events remained fundamental over the Olympics' years of existence
+    - Stadion - straight sprint the length of the stadium
+    - Diaulos - sprint to the end and back
+    - Dolichos - long distance race of 20 stadia
+    - Included a series of combat competitions: boxing, wrestling, pankration
+    - Pentathlon - discus, javelin, standing jump, running, and wrestling
+  - Early in its existence, there was a strong association between aristocratic status and Olympic victory
+    - Many victors were dynastic rulers on the mainland, with their Olympic wins bound up with claims to legitimacy in their families
+    - Pindar's poems cast these Olympic victors as Homeric heroes
+    - Victory is a confirmation of arete (virtue or excellence), affirming and extending the family's nobility
+    - Reward for victory is kleos aphthiton (undying fame), the same thing sought after by Homeric heroes
+    - Possible that the Olympics began as a way for aristocrats to demonstrate their prowess and to assert the claim that they embodied the virtues found in Homer's poems
+  - Over time, the aristocratic character of the games disappeared and professional athletes emerged
+    - Rewards became material, like cash or food
+    - These professional athletes still exerted enormous influence in their communities
+      - Served as political and military leaders and worshipped as demigods after their deaths
+    - They were honored for their accomplishments and revered for their powers
+
+
+
+## Reading 5: The Archaic Age: Sparta
+
+- 
 
 
 
