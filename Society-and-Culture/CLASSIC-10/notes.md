@@ -641,7 +641,20 @@
 
 
 
-## Discussion 3:
+## Discussion 3: The *Odyssey*
+
+- Ogygia
+  - locus amoenus - "the lovely place"
+  - A nonsensical landscape, completely mystical
+    - Makes its appeal and pleasure felt
+  - Doesn't quite capture Odysseus
+    - Holds on to home, familiarity, love, and Penelope
+    - nostos - the return journey
+- How do the value systems differ between the *Iliad* and the *Odyssey*?
+
+
+
+## Discussion 4:
 
 - 
 
