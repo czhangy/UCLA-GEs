@@ -1192,6 +1192,219 @@
 
 ## Reading 5: The Archaic Age: Sparta
 
+- The Archaic Period (c. 700 - 480 BCE) was one of increasing prosperity, but also rising tension
+- Archaic Crisis: Wealth, Strife, and Tyranny
+  - Greeks experienced long and sustained contact with other cultures
+    - Goods and ideas coming into Greece
+    - Greeks establishing themselves around the Mediterranean
+    - This penetration of culture would become profound in the Archaic Age
+  - Greeks experience an increase in trade in the search for resources, land, and luxury items
+    - To the Greeks, the wider Mediterranean world was a place of communities connected by trade, commerce, and the establishment of colonies, but also a world of wonders, threats, and anxieties brought about by contact with others
+      - Represented by the widespread use of monsters in Greek mythology at the time
+      - Touched on by the *Odyssey*
+  - Contact with the wider world prompted important changes on the mainland
+    - City-states were growing larger and regional powers (Athens, Thebes, and Sparta) began to emerge
+    - Wealth, status, competition, and rivalry (aristocratic and between communities) become more prevelant
+  - Corinth
+    - Located on a narrow isthmus that separated the Saronic Gulf and Corinthian Gulf
+      - Possessed a well-fortified acropolis above the city
+      - Two separate harbors from east to west that allowed for large amounts of wealth to flow through the city
+    - In the early Archaic Period, Corinth was under the control of the Bacchiads
+      - Supplied kings (later annual magistrates) and colonial leaders who founded new colonies
+    - In the mid-7th century BCE, Kypselos seized power and ruled as a tyrant
+      - This pattern repeated in many parts of Greece, where tyrants used the social and political tensions of the age to seize control of their communities
+      - This trend was originally seen as a symptom of the disorder and weakness of the early city-states due to the negative connotations associated with tyranny
+        - In reality, many of these tyrants acted as lawgivers and had relatively benign rules
+        - This may have even helped put an end to regional factionalism
+        - Provided a generation of stability that freed the city-states from social upheaval and increased economic prosperity
+      - Attests to the political upheavals affecting many Greek city-states in the Archaic period
+  - Poetry on stasis (internal civil conflict)
+    - In many communities, we hear of men killed or exiled due to factional disputes within the emerging city-states
+    - Archaic period classified as one where more and more people were subject to the compulsions of a few, leading to class struggles
+      - Point to the fact that men called the aristoi, which formed the elite class, can now be identified in poetry
+      - We also hear of subject groups (the penestai of Thessaly, klarotai in Crete, and helots in Sparta)
+    - Actual evidence of civil disorder points to it stemming from competing groups of aristocrats, clans not classes
+      - Lesbos, Halikarnassos, Megara, etc.
+      - Vertical vs. horizontal divisions
+  - Euboia
+    - Commerce flourished, leading to the success of Chalkis and Eretria
+    - Increased prosperity led to competition between the neighboring communities
+    - The Battle of the Lelantine Plain was fought between the two citiees
+      - Remembered as one of the epochal events of the Archaic period
+      - For the next 400 years, Greek interstate relations would be comprised of a continuous series of wars
+        - May be due to the deep-seated heroic values of epic, leading to an inability to develop loyalty to any group beyond the immediate family/clan/community
+  - The establishment of a Greek colony in Egypt brought the art of stone-cutting and sculpting to Greek culture
+  - Emergence of a monetized economy
+    - Coins made it possible for trade to bypass the process of barter => goods no longer needed to be exchanged directly
+    - Greek accounts attribute the creation of coinage to Pheidon of Argos
+    - This shift threatened to replace aristocratic birth with monetary wealth as the highest good to which an individual could aspire
+      - Money and heroism at odds
+- Early Sparta
+  - Throughout the history of Sparta, the citizens have been strongly hostile towards tyrants (misotyrannos)
+    - Claim that their political and communal life was based on eunomia (good order), which can be attributed to the lawgiver Lykourgos
+    - Sparta followed a vastly different trajectory to other Greek communities when it came to their social and political contract
+    - Spartans emphasized a strict social hierarchy, topped by the warrior class known as the Spartiates
+  - Geography played a role in Sparta's unique social organization
+    - Cut off from neighboring lands by mountains, leading to a sense of physical isolation that allowed Sparta to avoid the stasis of other communities
+    - Spartans applied themselves to a strict and unyielding code of conduct that was designed to raise generations of warriors
+  - Difficult for historians to separate the actual history of Sparta with the mythologization of its traditions
+    - "The Spartan Mirage"
+    - Terse in speech, stand in battle until the end, prized honor over life, and trained under the harshest conditions
+    - Use the material culture of the region to shed light on its early history
+      - Palace at Aghios Vasileios proved that the region of Lakonia was integrated into the Mycenaean world
+        - Further evidence implies that the culture of Bronze Age Lakonia resembles the Bronze Age culture of other regions during the time of the Mycenaeans
+      - After the Bronze Age, Lakonia was affected by the same changes that led to the fall of other Mycenaean centers
+        - Spartan tradition associates these upheavals with the return of the Herakleidai, the descendants of Herakles
+        - Historians choose to see this as evidence of societies in transition
+      - The society that would shape in Sparta looked very different than in other regions
+        - Unification of Athens leads to a fully developed city center, but civic buildings/city center in Sparta are hard to identify
+        - The physical grandeur of Athens leads people to overestimate its power, while the opposite was true of Sparta
+  - Spartan Religion
+    - At Amyklai, the Spartans engaged in the worship of a hero, Hyakinthos, and the god Apollo
+      - Pairing of hero and god wasn't unique, but the monument built in honor of them was extraordinary
+    - Helen of Troy
+      - Athenian depictions of Helen were highly negative, while she was honored as a heroine and goddess in Sparta
+      - She received sacrifices and dedications at the Menelaion
+    - The Sanctuary of Artemis Orthia
+      - More than 100,000 lead figurines have been found here, depicting hoplites, female worshippers, and animals
+        - Probably dedications to the goddess in recognition of her help
+      - Terracotta masks that portray grotesque faces representing demons
+      - Goddess looks not unlike Phoenician goddesses, possibly pointing to early connections between Sparta and the East
+        - Some scholars point to this as evidence that the cult of Artemis Orthia was brought to Sparta by Phoenicians
+        - Material evidence points to a connection with workshops on Crete
+      - Ritual where boys were charged with stealing large wheels of cheese from the altar while being savagely whipped
+        - Belief that the blood they shed would appease the goddess
+    - Temple architecture
+      - Most Greek temples were peripteral, meaning the central chamber was surrounded by an external colonnade of columns
+      - Lakonian temples were non-peripteral, appearing simpler and less ornamental
+    - Spartan practice represents a variation on norms found throughout the Greek world
+      - Even Greeks believed that Sparta was distinctive
+      - Possible that the panhellenic view of Greece that has come from the Homeric poems obscures the true degree of local variation in Greek culture and religion
+- Spartan Exceptionalism
+  - Possible that a series of wars with the Messenians led to the Spartans taking a diverging path to building their society
+    - Foundation of the Spartan colony of Taras at Tarentum around 700 BCE
+      - Tradition claims that this colony was founded by the Parthenioi, men who were born to Spartan women while their husbands were away at the Messenian wars
+        - Questionable legitimacy and status resulted in them being deported to a new colony
+      - Helps us track down the time period of the Messenian wars
+    - Second Messenian War proved to be a turning point for Sparta's internal development
+      - Having defeated the Messenians, the Spartans decided to permanently subjugate them, treating them as a servile class in their own territory
+        - Throughout the rest of Greek history, the conflict between two warring units would essentially end when the campaigning season of the war came to an end
+      - Spartans annexed the territory to Lakonia
+        - Land was worked by the slaves of Sparta (helots), a population which included Messenia's original owners
+        - Transformed Messenia and made it possible/necessary for Sparta to become a society dedicated to the raising of elite warriors
+        - Ever-present threat of a helot uprising
+        - Every institution of Spartan society was directed towards the creation of a warrior-elite, whose existence depended on the continued subjugation of the helots
+  - Spartiate training
+    - Spartan boys taken from their families at the age of seven and raised with other boys their own age
+      - Age-class system called the agoge
+      - Boys encouraged to steal, live by their wits, and resist weakness
+        - Later accounts state this code strained credulity
+    - Boys graduated from their adolescence into the ranks of the Spartan army
+      - Continued training and serving
+      - Lived in the syssitia, which contained 15-20 members from all age groups
+        - New, 12 year-old members introduced by older lovers (men around the age of 22)
+        - Since the group included 1-2 generations of older lovers, they were unusually cohesive, with deep bonds
+        - Membership required contributions of both game and staples like barley and wheat
+          - Failure to make these contributions resulted in explusion/demotion
+        - System may represent an early attempt to use state regulation and intervention as a way of helping the community survive the threat of crop failure
+      - Turned the top tier of Spartan society into professional warriors
+    - Spartans said to have close ties with the Cretans
+      - Shared institution of the syssitia
+      - Both speakers of a Doric dialect of Greek
+      - Tradition that the Spartan lawgiver Lykourgos had traveled to Crete to learn how to draft a set of laws for Sparta
+      - Sparta and Crete said to have enjoyed adelphoi nomoi ("kindred law codes")
+    - Other institutions advertised Sparta's divergence from Greek norms
+      - Most Greek states saw young men go through military training designed to prepare them for taking their place in the hoplite phalanx of citizen warriors
+        - These youths were known as ephebes, and served specialized training and particular service
+      - In Sparta, the youth served in an organization known as the krypteia, which functioned as a secret police
+        - They acted to terrorize the helot population
+        - Killed helots found outside after dark
+  - Spartans were morbidly afraid of innovation from beyond
+    - The free flow of ideas, encouraged by debate, disputation, and discourse would become a hallmark of Athenian culture
+    - Open discussion discouraged in the repressive oligarchy of Sparta
+      - Aidos (reserve) was prized as a virtue and used rhetorically to distinguish Spartans from others
+    - Spartans would periodically expel all foreigners in a practice known as xenelasia
+      - Athenians sent to aid the Spartans after an earthquake, told to leave months later due to Spartan fear of Athenian thinking
+  - The Great Rhetra
+    - In Sparta, kingship was retained long after most Greek city-states abolished kings
+      - Ruled through the historical period by two families: the Eurypontids and the Agiads
+      - Spartan army nearly always led by one of the kings
+      - Known as the archagetai
+    - The Great Rhetra was an oracle given by Delphi to Lykourgos when he sought the god's help in establishing a constitutional code for Sparta
+      - Heated debate over the oracle's contents
+      - Division of the state into tribes (phylai) fits later Spartan organization, so it seems likely it may have existed in the early days
+        - Same with the division into obai (villages)
+      - The Gerousia was a senate, made up of Spartan elders, and the structure was a common feature ion Archaic communities
+    - What social tensions led to the shaping of such a constitution?
+      - A way of moderating aristocratic competition by channeling it into fixed and predictable institutions?
+      - Aristotle believed that Sparta was an aristocratic state riven by factions, but also claimed this resulted in demands for the redistribution of land
+    - 2 important features
+      - No mention of the magistrates (ephors), who were elected in groups of 5 to rule the city's affairs in later periods
+        - Contributes to the document's sense of authenticity
+      - States clearly that the sovereign power rests with the Damos/people
+        - Early Sparta was on the path to democracy and may have developed a system closer to Athens' under different circumstances
+        - Suggested that the Gerontes and Kings would be given the power to veto decisions made by the people
+    - Reconstruction of Early Sparta's constitutional history
+      - 7th century BCE, the Spartan community came to a proto-democratic form of government, where kings remained war leaders and heads of state, while allowing the people (adult male citizens) to have final legislative power
+      - 6th century BCE, after the Messenian wars, aristocratic power and privilege reasserted control over Sparta
+        - Used the threat of helot revolt to fashion a closed political and military elite
+        - Ephors oversaw political decision-making
+        - Attention directed towards the military training of the elite
+- Spartan Culture
+  - Focus on military excellence skewed the development of Spartan society
+    - Spartans excelled in athletic contests
+  - The state of permanent internal warfare against the helot population combined to bring about the downfall of Spartan society
+    - Vigorous cultural traditions of the Archaic period vs. the wasteland of Spartan culture in the Classical period
+      - Prior to the Persian Wars, Spartan craftsmen distinguished themselves in metalwork
+  - Sparta excelled in ivory
+    - Dedications carved from ivory in the Sanctuary of Artemis Orthia
+  - Early Spartans were also innovators and masters in poetry
+    - Alkman produced rich, complex hymns for performance at ritual festivals in the 7th century BCE
+      - Blend of the astrological and erotic
+    - Imagination of the Archaic Spartans was rich and beautiful, in common with their material culture
+    - Tyrtaios wrote poetry that encapsulated the martial ideologies that were dominant in the Spartan world
+      - Reconfigures the Homeric code for a new age
+      - Deliberate evocation of battle as the arena by which men must test themselves
+  - Like Spartan religion, not many aspects of Spartan culture were exceptional
+    - Many features of Spartan life were paralleled in other states (especially Dorian)
+      - Slaves/serfs, political institutions, status as equals (homoioi), etc.
+    - They did diverge from the patterns of cultural and political development that we find in most other Greek city-states, likely due to the relentless militarization of Spartan society
+  - Women in Sparta
+    - View that women in Sparta were more powerful than women in other Greek city-states
+      - Could inherit, own, and administer property => seen as a weakness of the Spartan system
+    - Claim that Spartans practiced a particular form of polygamy, where women might have more than one husband (polyandry)
+      - Contributes to the antiquated view that Spartan women were outspoken, promiscuous, independent, and wielded too much power
+      - Aristotle concludes that, due to this, Sparta suffered from oliganthropia, or a shortage of men
+        - Women were indirectly the cause of Sparta's downfall
+    - Approaches to this topic often tainted by the evaluation of Spartans in light of contemporary values and biases
+    - More realistically, Spartans likely participated in selective breeding/eugenics
+    - Fertile women were prized in the aristocratic society since they could give birth to heirs and preserve the lineage
+      - Shared women leads to fewer lines of descent and less pressure to divide the family's property between multiple lines
+    - Militarization of the society leads Spartan men to delegate household control to their women, leaving them with much greater autonomy than in other parts of Greece
+      - Without their contribution, their society couldn't have functioned
+- Sparta and the Peloponnese
+  - Despite mountain ranges separating Lakonia from other regions, regional conflict occupied the Spartans throughout the Archaic period
+  - The Spartans were equally as preoccupied with the Argive as with the Messenians
+    - Feuding over territory southwest of Argos (Kynouria/the plain of Thyrea)
+    - Led to a battle between 300 of their best warriors, of which the result was ambiguous => Battle of the Champions
+    - Long-standing hatred between the two peoples
+    - Also fought at Hysiai earlier in the Archaic period and later in the Peloponnesian War
+      - Male citizens of Hysiai taken captive and slaughtered in the latter battle
+  - Treatment of Peloponnesian neighbors was frequently confrontational
+  - Despite this, Sparta managed a loose alliance of Peloponnesian states called the Peloponnesian League
+    - Treated much more leniently than the Athenians treated their allies
+    - States further away from Sparta remained more loyal and were treated with more respect, while closer states were in a much more precarious position
+    - Desire of the Spartans to amass as much land as possible and subjugate as many Greek states as possible throughout the 6th century BCE
+      - Rid Corinth of tyrants, securing a wealthy ally
+      - Support the Elian claim to Olympia, securing another powerful ally
+      - Direct military intervention pacified the states of Messenia, Argos, and Arcadia
+  - Used religious sanctuaries to demonstrate their territorial ambitions
+  - At the end of the Peloponnesian War, Sparta would be turned on by neighboring states, which were then defeated
+
+
+
+## Reading 6: The Archaic Age: Athens
+
 - 
 
 
