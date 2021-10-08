@@ -470,7 +470,105 @@
 
 ## Lecture 7: The (Strange?) Case of Sparta
 
-- 
+- Archaic Age or Period: Roughly 750/700 - 480 BCE
+  - Bronze Age => Iron Age => Archaic Age => Classical Age
+  - A period of tension (stasis) internally within the society
+    - Two axes:
+      - Vertical between the elite and those with less power
+      - Horizontal between aristocratic families
+  - How does Sparta choose to iron out these tensions in the way their constitution is composed?
+- Sparta, in Lakonia, on the Peloponnesus
+  - Also think about the other dependent territories neighboring Sparta
+  - Geographically isolated
+    - How did this alter Sparta's course compared to a city like Athens?
+  - Laconic - short of speech
+    - In antiquity, Spartans were not typically thought of as masterful orators
+  - Place of seemingly restrained wealth and aesthetic
+- "The Spartan Mirage": Seeing what one wants to see
+  - Sources for Sparta include:
+    - Herodotus (c. 430 BCE)
+    - Thucydides (end of the 400s BCE)
+    - Xenophon (b. Athens c. 430 BCE)
+      - The Spartan Constitution
+    - Plutarch (46 - 126 CE)
+      - Biographer and ethical philosopher, not historian
+      - Lives include that of Lykourgos
+  - Contemporary references to Sparta as a way to use their legacy for their purposes
+  - The mirage is an old fashioned phenomenon
+    - Lykourgos leaving the example of Sparta as a city as his legacy
+    - How much is accurate and how much is legend?
+    - Poetry enforcing their military ideology
+- Spartan Domination
+  - Helots - serfs or slaves of the Spartan state, including the subjugated peoples of Messenia
+    - Primarily agricultural slaves
+    - Forced to wear clothes to identify their class
+    - Forced to humiliate themselves
+    - Establishes a huge chasm of inequality between them and the elite Spartan males
+    - Outnumbered Spartans 7:1
+    - Thought to not be under direct, personal control, just under their range of dominion
+  - Helot existence likely shaped Spartan life
+    - Threat of rebellion
+    - Many attempts by the helots to force their way out of the Spartan subjugation
+  - Perioeci (people who lived around Sparta) served in the Spartan army
+- What (Else) Makes Sparta Unique
+  - Treatment of children and male youths ("Ephebes")
+    - Children taken from their families and grow up with other young boys
+    - System of military training called agoge
+  - Syssitia (mess-hall groups; dining groups)
+    - Imposed to promote solidarity/military brotherhood
+  - War itself brought a respite to training for war
+- Spartiate Homoioi ("equals") + Others
+  - Brotherly training + militaristic life meant to promote equality between the elite
+    - Allowed to abuse and demean other homoioi if you felt it helped keep them in line
+    - Women essential in this process
+  - Hypomeiones (inferiors)
+    - Failed to meet the military ideal, physically weak, etc.
+  - Krypteia - a spy system by which Spartans attempted to control helots by having young Spartan men spying on helots, who could murder them if caught
+- Xenelasia
+  - Annual expulsion of foreigners
+  - Shows Spartan distrust of outside influence
+- Spartan Government and Eunomia
+  - Spartan government: misotyrannos?
+    - Tyrant-hating
+    - Mixed-constitution => elements of oligarchy, democracy
+    - Dual kingship (basileis)
+      - One is a check on the other
+      - Insurance policy for wartime
+      - Kings also chief priests, an important role for a society valuing public sacrifice
+    - Gerousia - council of elders
+      - 28 men over the age of 60 who serve the rest of their lives
+      - Kings were a part of the Gerousia
+      - Wealthy men who were elected
+      - Voted by voice
+      - Court for high crime
+    - Ephors - judicial overseers/magistrates; inspectors of youth
+      - 5 of these elected annually
+      - Over the age of 30
+      - King's supervisors
+      - Could impeach and dethrone kings if reason called for it
+      - Self-audited by successive ephors
+    - Assembly - ekklesia
+      - All male citizens over the age of 30
+      - ~95% of people in Sparta were not citizens (helots, perioeci, women, etc.)
+- Women in Sparta
+  - Women were often part of the exercise routine of Spartans 
+  - Notorious for boldness and outspokenness
+    - Not quite correct to see them as entirely liberate
+  - Often separated from their husbands => allowed polyandry
+    - Resolves potential dispute of inheritance, shrinking the lines of descent
+  - No obligation to engage in moneymaking/domestic work
+  - Aristotle complains 40% of land was controlled by women => had property rights
+  - Plutarch's *Sayings in Spartan Women*
+    - Women fully in line with Spartan military ethos
+    - Criticism/praise of the homoioi
+  - Alkman (late 7th, early 6th century BCE)
+    - Lyric poet
+    - Partheneion - "maiden-song"
+    - Wrote poetry performed publicly, praising women
+- Spartan Culture
+  - Vix Krater found in Celtic France => reinforces the sense of Spartan intimidation/strength
+  - Lot of negative/repressive/harsh aspects, in contrast with beauty
+  - Always existing as a foil to Athens
 
 
 
