@@ -574,7 +574,90 @@
 
 ## Lecture 8: Game of Thrones: Archaic Athens
 
-- 
+- Foundation Myths: Theseus and Autochthony
+  - Region: Attika/Attica
+  - asty = urban area
+  - Polis = total city-state, including surrounding agricultural and pastoral land; "The Athenians"
+- Archaic Government at Athens (8th - end of 6th century)
+  - Always aristocratic people in these roles
+  - Archons (ruler/someone in charge):
+    - Archon basileus - cults and religious matters, including sacred property
+    - Polemarch - commander of the Attic army
+    - Eponymous Archon - leading executive office ("archonship of so-and-so")
+      - ~ President
+      - Early 7th century => total of 9 archons
+      - 9 Archons (including 6 judicial archons) all elected to 10-year terms by "people of good ancestry" (Eupatrids); system in place until 508 BCE
+    - Council of the Areopagus ("hill of Ares"), composed of former archons
+      - Some sort of advisory function to the assembly?
+  - Assembly (ekklesia) - male citizens; functions of assembly obscure
+    - ~ House of Representatives
+    - Various divisions and/or factions:
+      - Phylae (tribes) - related groups of families working together
+      - Phratries (brotherhoods) - groups forming together from smaller micro-units
+      - Gene (p. genos) - "Clan", a potentially dynastic structure
+  - Athens, similar to Sparta, had somewhat "mixed" or distributed forms of power in the Archaic Age
+  - The people who tended to fill those positions were the wealthy aristocrats
+  - In-fighting between aristocrats became a source of political instability; elite groups or family clans (gene) in Athens experience and produce much political tension
+- Wealth != Virtue
+  - Money doesn't imply the existence of anything we might call virtuous
+  - Idea present in Archaic poetry
+- Instability in Athens: an Example
+  - Kylon's Failed Coup (632 BCE)
+    - Kylon attempts to become tyrant
+    - Megakles (Archon) - member of Alkmaionid family kills Kylon's supporters
+    - Alkmaionids now under a curse or "polluted" because of murder of Kylon's supporters, who had taken refuge by tying themselves to the statue of Athena
+  - Game of Confusion: Brief Story of the Alkmaionids (Family of Accursed Megakles)
+    - Kleisthenes of Sikyon and his daughter Agariste
+      - Hippokleides, son of Tisander
+      - Megakles II son of Alkmaion, Grandson of Aforementioned Megkles
+        - Megakles II + Agariste => ... => Pericles
+  - Aristocratic families (aristoi) jockeying for power
+    - Don't go away, power gradually tempered
+  - Meanwhile, tensions between the moneyed/powerful and the poor/indebted/powerless increase
+  - Solon elected as eponymous archon to make reforms
+    - These reforms address debt-bondage, but do not fix things overnight
+      - People are unable to pay their debts and forced into a terrible state of living
+    - Solon's reforms should be seen as paving the way/laying the groundwork for future reforms that move Athens towards a kind of democracy
+- Solon as Moderate in his Poetry and Politics
+- Solon's Reforms => Moderating the Strife
+  - Seisachtheia - "The shaking off of burdens": a cancelling of debts
+    - Hektemoroi ("sixth-porters") - poor sharecroppers; system ended
+    - Debt slaves - no longer possible to pauy debt through property or person
+  - Classes based on agricultural wealth
+    - Pentakosiomedimnoi
+    - Hippeis
+      - These can become an archon
+    - Zeugitai
+    - Thetes
+      - These can attend the assembly
+  - Citizenship for foreign craftsmen (contrast with Sparta)
+  - Amnesty for exiles and former attempted tyrants
+    - New punishment for would-be tyrants => atimos (socially/politically ruined)
+  - Property dispersal to anyone a male wished (for the childless)
+  - Domestic and sumptuary (expenditure) reforms: check your status
+    - Prothesis (laying out of body) must be indoors
+    - Ekphora (procession of corpse) before sunrise
+    - Only older women could participate
+    - No more than 3 cloaks per women
+    - Food and drink in procession could not be costly
+      - Meant to allieviate class tensions caused by flaunting of wealth
+    - Fathers couldn't sell children into slavery
+      - Unless unmarried daughter was found to not be a virgin
+  - Laws on axones (tablets) placed in middle of Athens in agora
+- Solon Visits King Croesus of Lydia (Herodotus 1.29-33)
+- Tyrants are Not Always So "Tyrannical"
+  - Elections annually
+  - Rural magistrates
+  - Loans to the poor at low interest
+  - Expanded silver mining at Laureion
+  - Horos inscriptions marking off the agora
+  - The Dionysia and Panathenaia
+    - Latter open to all Athenians, regardless of regional identity
+    - Honoring Athena with a new robe
+    - Music festivals, athletic contests, etc.
+      - Civic identity
+- Forgetting the Tyrants on Purpose
+  - Athenians want to forget they were ever ruled by those who had seized power
 
 
 
