@@ -663,7 +663,59 @@
 
 ## Lecture 9: “Let’s Get This Party Started”: The Symposium
 
-- 
+- Reminder: Mini-Essay #1
+  - Due Fri. 10/22 at 11:59pm
+  - Exhibit an informed reaction either to an image from Greek material culture or to a select chunk of primary reading
+  - 500 words max., double-spaced
+    - If passage, print it at the top of your paper
+  - Favor analysis over summary
+- Picking up on points from last time
+  - Solon's reforms moderate, but obviously don't resolve class tensions
+  - Period of rule by the Peisistratids demonstrates the extent to which the term "tyranny" doesn't always connote negativity
+    - Better to think of tyrants as "rulers" who seize power, but could exercise it for good or bad
+    - Archon lists indicate that there were still archons (often friends of the tyrants)
+  - Later attempts to "erase" evidence of tyrant rule at Athens part of Athenian self-mythologization as founders of democracy
+  - If tyrants weren't so bad, why erase their history?
+    - There were repressive, abusive tyrants in Greece, and thus just having been ruled by anyone with that title sounds bad
+    - Fundamentally, even if a tyrant worked for the common good, they still held power by force/trickery and seized it without the consent of the governed
+    - If you're Athenian, and rule by tyranny ends by Spartan intervention, it feels better to contribute everything to the work of Athenians
+- The End of Tyrants in Athens: The Story of Aristogeiton and Harmodios
+  - TLDR: Spartans ended the tyranny in Athens
+- Remembering the "TyrantS Slayers"
+  - Issue of class? Aristogeiton as a figure with whom many citizens, especially not of the upper class, could identify
+  - Narrative that will become dominant in the drinking song converts the lovers' privately motivated act into a public-spirited moment of rebellion, benefitting future generations
+- Kleisthenes' Reforms
+  - Ten new tribes (phylae) to replace old tribes:
+    - Each tribe subdivided into trittyes, or thirds, composed of clustered "demes" (villages and townships), which each "third" coming from one geographic region (city, shore, and inland)
+  - So, to make a tribe, take one trittys from each geographical region and put three together
+    - Creating civic identities that are not based on location
+  - Some Effects
+    - Weakens "voting-blocks" and local deme loyalties; switches loyalty to wider "tribe"
+    - Also means that it doesn't matter as much if you're from a poor area of Attica/poor area with bad crops: you are linked through your phyle to people from other geographical regions
+    - Participation in your tribe in the army as well as religious activity creates sense of unity across Attica
+  - De-concentrated power from the aristocratic class
+  - Council (Boule) of the Five Hundred
+    - Fifty members per tribe chosen by lottery
+    - Drew up legislation for Assembly (ekklesia) to vote on
+    - Each tribe in charge for 1/10 of year
+  - Ostracism
+    - Expulsion of a public figure for 10 years
+    - Ostraka (broken pottery sherd)
+      - Way of checking power on potentially power-hungry individuals
+      - Ostracism was a rare event; interval between votes
+      - Retain property, etc.
+- Question of How to Develop Democracy
+  - "Can democracy be engineered by an elaborate set of institutions, or does it depend on a deeper, more fundamental commitment to such principals as equality and the rule of law?"
+- From Public to Private? The Symposium
+  - Drinking, singing hymns, singing poems, philosophical discussion, etc.
+  - Traditionally a men's activity
+    - Women there for music, sex, etc.
+  - Meant to have established a feeling of equality
+  - Drinking from kylix (drinking cup)
+    - Often depict scenes from a symposium
+    - Meta-reflective traits => suggestive that the event is a time of self-reflection
+    - Idea that the symposium is where you are being proved in the company of your peers
+  - Interpret the robust nature of the symposium as an event for aristocratic bonding in the face of the changing political environment
 
 
 
@@ -1598,6 +1650,12 @@
 
 
 ## Reading 6: The Archaic Age: Athens
+
+- 
+
+
+
+## Reading 7: Greek Lyric Poetry Selections
 
 - 
 
