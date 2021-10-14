@@ -1651,7 +1651,165 @@
 
 ## Reading 6: The Archaic Age: Athens
 
-- 
+- Athens responded to the Archaic crisis by creating an open and inclusive society
+  - Solon begins the process of constitutional and legislative reform in the early 6th century BCE
+  - After Solon's departure, Athens was dominated by Peisistratos and his sons in a tyranny for 40+ years
+    - They ruled mildly, retained the rule of law in general, oversaw a period of prosperous growth, and quelled the aristocratic rivalry that threatened Athens
+  - Kleisthenes would then be elected, instituting a systematic constitutional reform that remained the basis of the Athenian democracy for hundreds of years
+- Competition and Rivalry in the Archaic World
+  - Archaic Age was a time of foment and change
+    - In most places, kingship was abolished, but tyrants emerged to counteract the effects of aristocratic rivalry
+  - Herodotus' stories reflect a world in which a small cadre of great families from various cities vied with each other for status and standing
+  - Sparta and Athens represent 2 drastically different responses to the issues presented by aristocratic rivalry and status
+    - Sparta developed a highly rigid, hierarchal system centered on the training of warriors, the suppression of dissent, and the maintaining of eunomia
+    - Athens developed from a series of hamlets and villages to become a more unified, urban agglomeration
+      - Attributed (in myth) to Theseus
+  - Basic unit of social life remained the oikos
+    - Households include retainers, slaves, the family, etc.
+    - Related households aggregated into clans known as gene
+    - Athenian men were usually part of other social groups called phratries
+    - Thiasoi and orgeones were religious groups consisting of men bound by a shared cult
+  - All corporate groups could own land and property, leading to a society in which individual men were implicated in complex networks of social engagement
+    - Were also members of a tribe, called a phyle
+    - Many aggregations were flexible and could adapt to change
+  - Phaleron cemetary
+    - Contains 1500+ graves
+    - Tentatively proposed that some of the skeletons were the slain supporters of the attempted tyrant Kylos
+    - Regardless of origin, the graves testify to a violent episode in the history of Athens
+  - Introduction of coinage and consequent changes in the economy
+    - Sparta rejected the use of coins, but many other states adopted the use of coinage from Anatolia
+    - Communities began to assert their separate identities through trade
+    - Beginning of the monetized economy caused alarm in many circles
+  - Antagonism between wealth and virtue is a common theme in Archaic poetry
+    - Suggests that society appeared to be undergoing a very unwelcome transition
+    - Treated as a matter of moral decline, and occasionally political breakdown
+    - Fear of the situation giving rise to a tyrant
+- The Rule of Law
+  - One response to stasis was to emphasize the rule of law
+    - Many communities replaced the customary law of their elders with the first written legal codes of the Greek world
+    - Lawgivers responsible for these codes become semi-legendary
+    - Inscriptions give us a glimpse into how early Athenians practiced law
+      - Judicial institutions may be as fragile and vulnerable as the people they serve
+  - 594 BCE, Solon is elected as archon with a mandate of resolving the strife afflicting Athens
+    - Solon saw the strife as resultant from economic malaise
+      - Athenians had fallen into debt-bondage as a result of a system of tenant farming, in which they paid a portion of their produce to the owners of the land they worked (hektemoroi)
+      - Results in crop failures/famine/marginal land/drought/sickness/etc. causing risk of losing livelihoods
+    - Solon cancelled debts in an event known as the Seisachtheia ("shaking off of burdens")
+    - Solon's poems reflect the mindset of the lawgiver, whose primary intention was to cure the stasis afflicting Athens
+      - Poems place a heavy emphasis on justice and moderation, focusing on the moral quandaries posed by wealth and poverty
+      - Land was encumbered by debt and those who couldn't repay mortgages were in trouble
+  - Solon's Social Reforms
+    - Despite Solon's efforts, economic reform wasn't immediately successful
+      - Wealthy felt he had gone too far, the poor felt he hadn't gone far enough
+      - Unrest continued after Solon's first term as archon had ended
+    - In Solon's second term as archon, he introduced a series of economic and constitutional reforms that would have profound effects on Athens' future development
+      - Athenians subjected to a census and divided into 4 classes based on their yields
+        - Pentekosiomedimnoi: > 500 measures
+        - Hippeis: > 300 measures
+        - Zeugitai: > 200 measures
+        - Thetes: < 200 measures
+        - Eligibility for archonship is tied to the top 2 classes
+        - All classes permitted to attend the popular assembly
+      - Birth no longer the sole/major criterion for access to office
+        - Reform designed to curb the powers of the aristoi?
+        - Reform designed to secure aristocratic privilege by excluding the lower classes from top office?
+        - Reform actually established to make political life predictable and orderly
+          - In the long term, it would make the rule of law secure and help with the institution of a stable democracy
+      - Banned the export of grain from Attica
+        - Determined that self-sufficiency is desirable
+      - Attempted to encourage a diversity of skills in the community, offering citizen ship to foreign craftsmen who came to Athens
+      - Compelled Athenians to use Euboian measurements to conform with the rest of the Aegean and encourage trade
+      - Established a formal distinction between public and private law, making it simpler to manage cases
+      - Possibly responsible for the establishment of the Council of Four Hundred to advise the Ekklesia/Assembly and prepare its agenda
+    - Reforms are comprehensive and don't favor any interest group
+      - Tendency towards moderation and consistency
+      - Makes government and economic activity rational, orderly, and predictable
+    - Some reforms designed to promote social cohesion
+      - Reforms regarding funerary legislation designed to curb expenditure on conspicuous funeral ceremonies/placing of limitations on every kind of excess
+      - Combats the climate of factionalism that threatened stability
+    - Capricious decisions, unpredictable policies, unstated laws, and vested interests represent a threat to the community
+      - Probably the first Greek statesman to attempt a comprehensive constitutional reform
+    - Compare with Sparta's Lykourgos
+      - Rhetra supposed to have been given by Delphic oracle => laws derived from the will of heaven
+      - Spartans forever attributed to Lykourgos the eunomia they associated with their society's legal apparatus
+      - Solon's laws were always viewed as his own creation
+      - Solon repealed the laws of Athens' own mythological lawgiver Drako
+      - Solon's laws devised from human intelligence as a solution to human problems
+    - Law against tyranny
+      - Solon prescribed the punishment of being declared atimos for anyone who tried to establish a tyranny
+        - Aspiring tyrant would be denied all rights of protection, if they were prosecuted
+        - Protection of the state and execution of those guilty of treason were handled by due process of law
+    - Legislative ban on neutrality
+      - Guaranteed that no one was above the law, ensuring the law was above everyone
+- Stasis and Tyranny after Solon
+  - While Solon laid the foundation for Athenian prosperity in later years, the immediate aftermath of his rule didn't reflect this
+    - Twice in decade following Solon's archonship, no archon was elected, resulting in Athens leaning towards tyranny
+    - Damasias elected archon in 582 BCE, but refused to leave office until driven out
+    - Threat facing Athens identified as a form of class warfare, where the poor subsistence farmers chafed against the oppressive rule of the wealthiest landowners
+      - Evidence of political violence points towards competing families, looking for power for their leader
+  - In 561 BCE, Peisistratos made the first of a series of attempts to establish himself as tyrant of Athens
+    - Herodotus maintains that Athens was riven by strife between factional groups (Megakles and the coast, Lykourgos and the plains, and Peisistratos)
+    - Would eventually defeat his enemies at the Battle of Pallene, asserting himself as tyrant
+  - The Legacy of Peisistratos
+    - In later times, the Athenians would venerate the men who liberated Athens from the tyrants
+    - Peisistratos' rule was actually fair
+      - Maintained laws and held elections every year, enhancing the regularity and predictability necessary for prosperous development
+      - May have actually done more to enhance the subsequent years of democratic government than any of Solon's reforms
+      - Appointed rural magistrates, making it possible for citizens to engage in litigation without having to travel to and from the city center
+        - Makes political activity more accessible for all classes
+      - Loaned to the poor at low interest rates and taxed produce
+        - Tax and expansion of silver mining sets public finances on firm footing
+      - Used capital works to enhance the city's infrastructure and to give work to craftsmen and laborers
+        - Embarked on a building program in Athens, dramatically changing the Akropolis
+        - Agora clearly articulated as a public space, indicating that the new area was set apart as the new public space at the hear of Athenian life
+    - Expansion of festivals such as the Dionysia and Panathenaia
+      - The Panathenaia helped foster a growing sense of Athenian identity
+        - "All-Athens" celebration commemorating Athena's victory over the Giants
+        - Open to all citizens of Attica, they were all Athenaioi (Athenians), regardless of their origin
+        - Expanded to include musical and athletic contests
+          - May have dramatically altered the perception of epic
+        - Would come to rival the panhellenic games at Olympia, Delphi, Nemea, etc.
+        - Advertised Athens as the premier cultural center of the Greek world
+      - Promotion of the event paves the way for the egalitarian ethos and cohesive community that made democracy possible
+        - Made Athens a vibrant and stable community
+    - Annexed the island of Delos, bringing the most important sanctuary in the Aegean under Athenian control
+  - The Fall of Tyranny in Athens
+    - After Peisistratos' death, he was preceded by his sons
+      - His last son would be driven from the city by Spartans and an Athenian clan that claimed to have been in exile under the tyrants, the Alkmaionidai
+      - After the expulsion of the tyrants, the Athenians would celebrate the deeds of the "Tyrant Slayers": Harmodios and Aristogeiton
+    - Notion that the tyrannicides liberated an Athens ruled oppressively by the Peisistratids is an oversimplification
+      - The Alkmaeonids and other noble families tried to distance themselves from the tyrants in the waning years of Hippias' reign
+      - Evidence of collaboration and cooperation between the great aristocratic families and the tyrants
+        - Heads of leading families held archonships during the time of tyrant reign
+- Kleisthenes and the Foundation of Democracy
+  - The removal of Hippias resulted in the reemergence of regional, aristocratic factions and the clan-based political violence from the pre-Solon times
+  - Kleisthenes, head of the Alkmaionid clan, makes a direct appeal to the Athenian demos
+    - Proposes a comprehensive and systematic reform of the Athenian tribal and electoral system
+    - Redrew the electoral map of Attica, splitting the old regional power-clusters
+      - Fixes every Athenian male citizen to the deme where he was born
+      - A cluster of demes comprised a trittys, which, when combined such that there was one trittyes from the coast, one from the city, and one from the plains, made up one of 10 tribes
+  - Tribes were fundamental to the political and military life of Athens
+    - The Council of Five Hundred contained 50 members from each tribe and oversaw the day-to-day running of the state
+    - System and its institutions endured long into the following periods
+    - System's purpose has been long debated
+      - Gerrymandering by Kleisthenes to place Alkmaionid influence across multiple tribes?
+      - Helps with long-term military readiness?
+    - Reforms directly addressed the problems of local and regional rivalries
+      - Makes it harder for aristocratic families to organize block votes of their dependents
+      - Demes voted in different tribal assemblies, making controlling local demes' votes impossible
+      - Weakens ties between powerful clans and their neighbors
+    - Tribe members participated in military and other various tribal activities with demes they otherwise would've had no association with
+      - Leads to a strengthened collective identity at the level of the polis
+  - Isagoras reported to have called upon the Spartans to remove Kleisthenes, dismantle his system, and disband the Council of Five Hundred
+    - Athenians would rise up against the Spartan king Kleomenes, and would eventually force the Spartans and Isagoras to leave
+  - Ostracism
+    - A process by which the Athenians would expel a leading figure for 10 years
+      - The man wouldn't lose citizenship or property
+      - Designed to identify would-be tyrants and stop them
+      - Long process in order to avoid impetuous decisions
+      - Not resorted to every year => points to Athenians only using this process when there was a great deal of apprehension about an individual
+        - Cases where the process was used point to the demos being aware of the sort of men whose ambitions had caused unrest in the previous century
+    - Shows the democracy using a similar process that tyrants would have used against challengers to their power
 
 
 
