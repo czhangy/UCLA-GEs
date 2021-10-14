@@ -887,7 +887,26 @@
 
 
 
-## Discussion 4:
+## Discussion 4: The Role of History, Herodotus and Solon
+
+- History
+  - Herodotus - known as the father of history
+    - W. A. J. - the "researches" of Herodotus
+      - Inquiry: asking questions of the past
+    - Research and inquiry results in the production of some written history
+  - Written history (historiography)
+    - What Herodotus really contributed to our understanding of history (prose vs. poetry)
+      - Predated by epic
+      - Draw upon poetry, inscriptions, other evidence and analyze them rationally
+      - Poetry limited by obedience to meter, alteration of its meaning
+      - Pleasure vs. truth
+      - Literal, less convoluted
+- Solon and Croesus
+  - Difference of opinion between characters leads to a relative interpretation of the stories
+
+
+
+## Discussion 5:
 
 - 
 
@@ -1813,7 +1832,7 @@
 
 
 
-## Reading 7: Greek Lyric Poetry Selections
+## Reading 7: 
 
 - 
 
