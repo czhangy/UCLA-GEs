@@ -721,7 +721,57 @@
 
 ## Lecture 10: Statues and Songs 
 
-- 
+- Looking to the End
+  - King Croesus and Solon
+  - Who does the looking - to the end and at the end?
+  - If what Solon says is true, you can't ever know if you're happy, only others can after you've died
+  - Croesus' change of mind after his downfall: "Solon is the one whom I would have every king consult, regardless of the expense"
+    - Cycle of confidence and downfall ever-present in Herodotus
+    - Sudden pivot of someone of high fortune being brought down
+- Sudden burst of statuary in the Archaic period
+  - Kore (maiden) - statue of a young woman
+  - Kouros (young man) - statue of a male youth
+  - Larger than life-size, tend to look generally the same
+    - Static, rigid, fixed
+    - Clothed women, nude men
+    - Often not ascribed to a particular person
+  - Why are they young people?
+    - Reflect the fact that these people died young?
+    - Old people, but remembered for when they looked their best?
+    - Do they represent that person or some generic offering to the gods?
+      - Idealization vs. reality?
+  -  Burial markers/tombstone marking the grave of where someone would've been buried
+  - Absence of inscription leaves the person's identity anonymous
+  - Possibly a borrowing from Egypt
+  - Reassertion of identity by the aristocrats => individuals represent the class
+  - Precedent?
+    - Small Bronze Votive found near Thebes
+    - Dedicated to the god Apollo
+  - Agalma
+    - Glory or honor
+    - Pleasing offering to the gods
+    - Statue
+- Songs as a way of pausing in the midst of turmoil and strife
+  - Sappho as a window into lyric poetry
+    - One of the most famous poets in antiquity
+    - Best preserved female poet from the Greeks (7th - 6th century)
+    - Comments about Sappho, ancient and modern
+      - "Sappho is a wonder. For we know in all recorded history not one woman who can even come close to rivaling her in the grace of her poetry"
+      - "Sappho sang many contradictory things about Eros"
+      - "It would be hard to think of another poet whose status is so disproportionate to the size of her surviving body of work"
+    - Solon loved Sappho
+    - Examples of rejection of the world of epic
+  - What is Lyric "Poetry"?
+    - Often involves a first-person voice, whether it's a voice of the singer or composer
+    - Tends away from the heroic world of epic
+      - World of personal expression, loss, desire, failure
+    - Performed through song in antiquity
+      - Emotional difference between song and words on a page
+    - The Preoccupations of Lyric
+      - Unrequited desire
+      - Ephemerality of experience
+      - Pleasure
+      - Death
 
 
 
