@@ -777,7 +777,105 @@
 
 ## Lecture 11: The Origins of “Inquiry” and the Greco-Persian Wars
 
-- 
+- Guide for the Week: Transitioning from Archaic Age to Classical Age
+  - Today: introduction to Herodotus and the Greco-Persian Wars
+  - Wednesday: conclusions of above (including brief remarks on battles), with spotlight on Greek constructions of the Persians
+  - Friday: further developments in Athens
+- Herodotus of Halicarnassus, author of *The Histories*
+  - Responsible, at least in part, for the invention of authorship
+  - Contrast with not knowing who/if Homer was
+    - Homer comes from a tradition of reciting Homeric poetry
+    - Herodotus makes a claim they want to stand by, taking some authority/possession over their own work
+      - "This is the display of the historia of Herodotus of Halicarnassus, so that neither human events become faint with time, nor that the tremendous and wondrous accomplishments, some displayed by Greeks, some by barbarians, become things without glory, and everything else, including the reason for which they went to war with each other."
+        - Historia - things Herodotus has seen or inquired about
+        - "human events" - contrasts with the superhuman qualities of epic
+        - "some displayed by Greeks, some by barbarians" - focus on, not only the Greeks, but the other as well
+        - "become things without glory" - connection to Homer while actively contrasting with him
+    - Herodotus would also present his work (or at least parts of it) orally
+    - Shift from poetry to prose => huge intellectual revolutions
+      - From the realm of myth and meter to the language of everyday speech
+      - Says that Herodotus is telling you something important in the ordinary discourse of everyday
+- Herodotus' Inquiry (historia) Into...
+  - The growth of the Persian Empire, which includes:
+    - Egypt: its customs, its wonders, its animals (cats, alligators, hippos)
+      - Persia's attempted takeover of Scythia
+    - The Ionian Revolt (revolt by Eastern Greeks from Persian Rule)
+    - The ultimate clash between Persia and Greeks
+  - Hinting at the consequences of victory for Athens and Greece (Herodotus is writing about the Greco-Persian Wars during the later war between Athens and Sparta)
+    - Setting up a parallel => is Athens becoming the new Persia?
+  - Full of digression?
+    - Building up a rich, multi-faceted sense of the two central civilizations
+    - Context
+- Among Herodotus' Intellectual Influences? Heraclitus of Miletus (535 - 475 BCE)
+  - "Let us not make arbitrary conjectures about great matters"
+  - "Everything flows and nothing abides"
+    - Herodotus' casting of his narrative as a road => interest in change and movement
+  - "War is the common condition... all things comes to pass through the compulsion of strife"
+    - Writing about the preconditions and after-effects of the war
+- Herodotus' Wheel of Fortune
+  - "For cities that were great in early times have become small, and those that were great in my time were formerly small. Knowing, therefore, that human happiness never abides in the same place, I will make equal mention of both."
+    - "those that were great in my time were formerly small" => historicization of the present
+    - "I will make equal mention of both" => make mention of all aspects of the narrative for the future
+      - What might one day be important become unimportant and vice versa?
+- Solon and Croesus: a "Programmatic" Story?
+  - Tells us how to read the rest of Herodotus
+- Herodotus' Famous Recusal
+  - "I have an obligation to relay the things that are said to me, but to believe them is in no way my duty. And you can let this utterance (epos) apply to the entirety of my account (logos)."
+    - logos = "account, story"
+    - Not mythos or epos
+    - Distances himself from the entirety of his narrative 
+  - Tells us what others say
+  - How much validity does Herodotus give to the other tales?
+
+- Achaemenid Kings of Persia
+  - Cyrus the Great
+    - Conquerer of the Medes
+  - Cambyses
+    - Conquest of Egypt
+  - Darius I
+    - Responsible for Persian incursions into Scythia
+    - King during Ionian Revolt
+    - invasion at Marathon
+  - Xerxes
+    - Responsible for bridging of Hellespont
+    - Invasion of Greece for Thermopylae and Salamis
+    - King at time of Persian defeat
+  - Pattern of high achievement followed by swift downfall => characteristic of tragedy
+  - Increasing sense of "more, more, more"
+  - Downfall of this massive civilization acts as a source of Greek pride
+- The Persian Empire: Some Notable Aspects
+  - Satrapies (provinces), governed by satraps
+  - Persians quite tolerant of various religions, customs, etc. of the people they conquered as long as they pay tribute to the Persian king
+    - Respect for religiosity: Cyrus' restoration of the Jews in Babylonian exile and Darius' command to a satrap not to dishonor land sacred to a foreign god (Apollo)
+    - Don't tread upon the people you rule over, so long as they show you respect
+  - Network of roads allowed for tribute payments to king
+  - Persia's rule wanted to spread into Greece
+- As you read Herodotus, consider...
+  - Conventional view states that Herodotus stresses differences between Greeks and Persians
+    - Many scholars now question that view: in fact, a few prominent Scholars believe that Herodotus is showing the similarities between the Persian Empire and what would become the Athenian Empire of Herodotus' own time
+  - In what ways are the Persians and Greeks differentiated, and in what ways does Herodotus imply important similarities between them?
+    - It is notable, for instance, that one of the most intense debate scenes in *The Histories* occurs among the Persians as they consider whether or not to go to war
+  - Greece != Persia is an oversimplification of how things were
+  - Athens trying to throw off tyranny in the Archaic Age, contrasts with the Divine King of Persian rule
+- Major Events in the Greco-Persian Wars
+  - Ionian Revolt (499 - 494 BCE)
+    - Centered in Eastern Greece (colonies on the coast of Asia Minor)
+      - Under Persian rule, but had ties to Greece
+      - Obligation by mainland Greece to come to the aid of their colonies?
+      - Ruled often by tyrants who ostensibly served the Persian king
+        - Many wanted to expand their own power (Aristagoras)
+    - The Help of Athens
+      - First area (Miletus) that instigates revolt has an ancestral tie to Athens => do they have to contribute?
+      - "Aristagoras could not persuade Cleomenes of Lacedaemon, who was all alone, but he succeeded with thirty thousand Athenians"
+      - "These twenty ships were the beginning of evils for Greeks and barbarians"
+      - Seems to blame Athens
+  - Battle of Marathon
+  - Battle of Thermopylae
+  - Battle of Salamis
+- Herodotus is Complicated. Embrace that.
+  - How does Herodotus depict the Persians?
+  - How does the narration of Marathon and Thermopylae serve Greek cultural memory and/pr Greek stereotypes about Persians?
+  - How do the Greco-Persian Wars contribute to a sense of Greek unity - and later, to a Greek sense of hubris?
 
 
 
