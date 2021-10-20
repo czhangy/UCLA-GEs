@@ -681,7 +681,7 @@
     - If you're Athenian, and rule by tyranny ends by Spartan intervention, it feels better to contribute everything to the work of Athenians
 - The End of Tyrants in Athens: The Story of Aristogeiton and Harmodios
   - TLDR: Spartans ended the tyranny in Athens
-- Remembering the "TyrantS Slayers"
+- Remembering the "Tyrant Slayers"
   - Issue of class? Aristogeiton as a figure with whom many citizens, especially not of the upper class, could identify
   - Narrative that will become dominant in the drinking song converts the lovers' privately motivated act into a public-spirited moment of rebellion, benefitting future generations
 - Kleisthenes' Reforms
@@ -881,7 +881,59 @@
 
 ## Lecture 12: Barbarians in Mind: The Construction of the “Other”
 
-- 
+- Question about Herodotus's Cosmopolitan Outlook
+  - "Custom is king of all"
+    - Everyone thinks their worldview is superior to others
+    - It may not even be a good idea to try and make people change
+      - Tolerance of the Persian Empire
+  - Worldview shaped by his being a mixture of Carrion and Greek
+- Ionian Revolt: Failure and Fallout (494 BCE)
+  - Persians install democracies to tyrants in Ionia (Western Asia Minor inhabited by Greeks)
+  - Again, idea of Persian tolerance: form of government in subject cities did not matter to Persia, it seems, so long as tribute was paid
+  - Persian expansionism would eventually mean knocking on mainland Greece's door, asking for "earth and water" (submission to Persian king)
+- The Notion of Tisis (requital, revenge)
+  - Darius' motivation of revenge against Athenian aid in the burning of the Ionian city of Sardis
+  - See also the opening stories in Herodotus about the reciprocal kidnapping of women => idea is one of constant back-and-forth, of revenge and requital
+  - Important for understanding much of the history of the Greco-Persian War
+    - Tisis as a model for understanding much of the *Histories*
+- Battle of Marathon (490 BCE)
+  - Mythical origins: Hippias and the motherland
+  - Persians outnumber the Greeks 2:1
+  - Greeks fighting as hoplite soldiers
+    - Lack of single commander, battle is a joint effort
+    - Line up in a phalanx formation
+  - Greeks make a dead run at the invading Persians
+    - Inspired confusion in the Persian force
+  - Persians routed, difficult to retreat
+    - 6400 Persian deaths, 192 Greek deaths
+  - Greeks who fought at Marathon became heroes
+    - Those who died were worshipped
+    - Resonance of the Homeric world
+  - Despite victory, much of Athens was destroyed, as Persian ships sailed around the cape
+- King Xerxes to Avenge his Father Darius
+  - Xerxes' decision to invade, initially hesitant, before a figure in a dream tells him to do so
+  - Sense of divine ordering, fate, tragedy => Herodotus as between myth and history
+    - How do we interpret Xerxes' role in this conflict? Villain or victim?
+  - Massive march and the bridging of Asia and Europe (and its hubris?)
+    - Requital against the sea itself
+  - Spartan herald incident
+- Battle of Thermopylae (480 BCE)
+  - Despite the Greek loss, the heroism of King Leonidas and the 300 is the legacy that lives on
+  - A Greek traitor reveals to the Persians a flank that eventually leads to a Greek defeat
+  - Parallels between Leonidas and Patroclus in Herodotus' narrative
+  - Military loss, moral victory
+- Battle of Salamis
+  - Arguably the end of the war
+  - Sea battle => navy funded by Themistocles
+    - Athenians better than Persians at sea
+  - Herodotus claims the Athenians proved themselves to be the saviors of Greece
+  - Defeat of the Persians has created an identity for Greece
+    - "we are all Greeks - a people of one blood speaking one common language, with temples to the gods and religious sites in common, and with a common way of life."
+
+- Greek "Meagerness" vs. Persian Riches
+  - Another ideology that arises from the Greco-Persian War
+- Plutarch on Greco-Persian Wars
+  - Contrast of being under Roman rule, but claiming the freedom of Greece
 
 
 
