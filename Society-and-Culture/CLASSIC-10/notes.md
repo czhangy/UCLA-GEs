@@ -1106,7 +1106,47 @@
 
 
 
-## Discussion 5:
+## Discussion 5: Herodotus and Modern History
+
+- Modern Historians
+  - Simplified story
+    - Easy, relevant, unbiased, etc.
+  - Primary/secondary sources
+  - Establish credibility
+  - Tangible documentation
+    - Transcripts, textual evidence, etc.
+- Herodotus
+  - Insertion of fiction to prove allegorical points
+  - Use of dialogue, novel-like narrative
+  - Mixture of the supernatural with reality
+    - Dreams, prophecies, etc.
+    - Supernatural taken as evidence
+  - Use of hearsay
+    - Reminiscent of the oral culture at the time
+    - Actually has authority at the time
+  - Sense of assuredness, despite temporal displacement
+
+
+
+## Discussion 6:
+
+- 
+
+
+
+## Discussion 7:
+
+- 
+
+
+
+## Discussion 8:
+
+- 
+
+
+
+## Discussion 9:
 
 - 
 
