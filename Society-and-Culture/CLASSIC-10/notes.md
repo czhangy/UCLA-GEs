@@ -1125,6 +1125,11 @@
     - Reminiscent of the oral culture at the time
     - Actually has authority at the time
   - Sense of assuredness, despite temporal displacement
+  - Use of mythic narrative
+    - The god Pan's involvement in the introduction of Philippides
+    - Dreams given to Xerxes, his advisor, and Hippias
+    - Draws parallels to Homer
+  - Exhaustive?
 
 
 
