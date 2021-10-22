@@ -939,7 +939,93 @@
 
 ## Lecture 13: Was Athens a Democracy?
 
-- 
+- The Classical Age (479 - 338 BCE)
+  - Period of great intellectual and artistic achievement in Athens
+  - As the city grows, we now measure its confidence and growth vs. its exercising of force over its allies
+- The Hellenic League (between Sparta and Athens) was formed during the Greco-Persian Wars
+  - Set aside differences, formed a common cause to unite against the Persians
+  - Sparta was considered the superior military power => leaders of the Hellenic League
+  - Athens' naval force (in particular at Salamis) leaves the question: who should be in charge moving forward?
+    - Naval strength, colonial allies in Asia Minor, proximity to Persia
+  - The Delian League is formed in 477 BCE
+    - Athens and its allies
+    - Headed by Athens
+    - Defends Greece from continued threat from Persia
+    - Member states give money or ships to Athens, but maintain their own autonomy
+
+- Athens begins to express their power against the Delian League in self-interested ways
+  - Takeover of Skyros and Karystos and enslavement of its people, in the name of fortifying its defenses against Persia
+    - Really, just control of sea route by which grain is transported to Athens
+  - "Seizure and massacre were the vocabulary of empire, and the Athenians spoke this language from the very beginning."
+- Democracy: demos ("people") + kratos ("power")
+  - Important concepts to weigh:
+    - Power distribution vs. centralization
+    - Access within distribution of power
+      - Who can be in office, who can vote, etc.
+    - Limits on power
+      - Rotationality, non-repeatability of office, term limits, etc.
+      - Exception: generals (strategoi) => Perikles
+  - Ekklesia (the Assembly)
+    - Open to any male citizen, so long as they had undergone military training
+      - Originally, citizens were defined as 18+ males with an Athenian father
+      - Later (451 BCE) changed so that citizens must have Athenian mothers and father in an effort to stop marital alliances
+    - Various things may take place
+      - Presentation of the tributes from Athens' allies
+  - Randomizing the Eponymous Archon
+    - Polemarch (military magistrate)
+    - Archon Basileus (religious official/high priest)
+    - Eponymous Archon (nominal head of state for one year)
+      - Originally voted from eligible pool
+      - 487 BCE => random selection of eligible candidates (klerosis ek prokriton)
+        - Prevention of blocks of power forming around a single personality, bribes, etc.
+      - 458/7 BCE => third category of Solonian class system (zeugitai) became eligible
+  - Misthos
+    - The money that is given to you to be a jury member
+    - Gives an incentive to jury service
+  - Theorikon
+    - Treasury used to subsidize theater tickets for the poor
+  - Kimon (510 - 450 BCE)
+    - Last gasp of the aristocratic power-mongers in Athens
+    - Son of a military hero from the Battle of Marathon
+    - A general that continued to repel the Persians in the wake of the Greco-Persian War
+    - Open to alliance with the Spartans at the time of the Delian League's formation
+  - Further Parts of Athenian Government (politeia)
+    - Council of the Areopagus
+    - Boule
+  - Ephialtes and Democratic Reforms
+    - Diminished power of the Council of the Areopagus
+      - Areopagus composed of former archons in lifetime role
+      - Chief functions: dokimasia and homicide court
+    - Ephialtes moves power away from the Council and towards the Boule and Ekklesia
+  - Dokimasia (conducted by the Boule)
+    - One must not have abused or neglected his parents
+    - One cannot have refused military service or thrown away his shield
+    - One cannot have sold himself for sexual pleasure to another man
+    - One must not have spent his patrimony
+  - Boule (The Council of 500)
+    - Prytanis (name of fifty Council members for the one-month period)
+    - Once you have served, you cannot serve for 10 years
+    - You write the stuff that Assemblies will vote on
+    - Review the accounts of outgoing officials
+    - Ensure that public building projects were moving forward, caring for ships, collecting taxes
+  - Law Courts
+    - Nothing like our modern-day rules of evidence and procedure
+    - Frequent use of "character assassination"
+    - Asserting without good evidence, for instance, that someone did not pass dokimasia
+- Democracy and Empire
+- More on Athenian Empire/Delian League
+  - Naval dominance/protection
+  - Oaths of allegiance
+  - Movement of treasury from Delos to Athens
+  - The manufactured (?) threat of Persia and the Peace of Kallias
+  - "Dictating democracy" elsewhere (inscription on Erythrae)
+  - Colonies and cleruchies (dispatched groups who remained loyal to Athens, especially as soldiers)
+  - Tribute from allies (phoros)
+- The Egyptian "Disaster" (460 BCE)
+  - Part of the reason the treasury was moved from Delos to Athens
+  - Egypt attempts to rebel against the Persians
+  - Athens attempts to help, but fails miserably
+    - Showcase that Athens isn't as powerful as they think
 
 
 
