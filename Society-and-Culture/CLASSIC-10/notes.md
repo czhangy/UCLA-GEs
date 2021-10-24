@@ -2163,7 +2163,164 @@
 
 
 
-## Reading 7: 
+## Reading 7: Persia
+
+- Persian Wars
+  - Battles of Marathon, Thermopylae, Salamis, and Plataia
+  - Hugely important for the Greeks' sense of their own cultural identity
+  - Requires an understanding of Persian culture and the Achaemenid dynasty
+  - Defeat of the Persians ushered in a new era of cultural flowering in Athens, but demonized the East
+- Greece on the Eve of the Persian Wars
+  - Athens underwent many changes in the Archaic period
+    - Rivalry of ambitious men, introduction of coinage, and the disparities of wealth distribution
+    - Issues especially acute for those who suffered under debt-bondage
+    - Solon was appointed to ease tensions and avert later conflict, but Athens was still later ruled by the Peisistratids
+    - Once the tyrants were gone for good, the threat of stasis allowed Kleisthenes to establish a fully participitory democracy
+      - Dispersed power as widely as possible through the demes and tribes of Athens
+  - Prior to the wars, Greece was part of an Eastern Mediterranean world that experienced significant cultural contact between many civilizations
+    - Trading and sharing of both material and non-material goods
+    - Greeks aware of ethnic differences, but, aside from the indigenous people they conquered, recognized the others lived lives not unlike their own
+    - Greek perception as Greeks and "others"
+      - Barbarian => different
+      - After the wars, barbarian comes to mean inferior
+  - Victory of the Greeks had positives and negatives
+    - Victory gave the Greeks enormous self-confidence
+      - Architectural works like the Parthenon, composing of plays like the Medea
+    - Transformed this victory in to an instance of triumphalism, a moderately racist celebration of all things Greek and demonization of all things foreign
+    - Greek culture in the wake of the war has become the benchmark by which civilization is measured, and the European relationship with Africa/Middle East/Asia has never been the same since
+      - East vs. West
+      - The process of "Othering"
+- Who Were the Persians?
+  - In the East, numerous complex states arose at the time of the Greeks
+    - Egypt, Ancient Mesopotamia, etc.
+    - Advances in mathematics, astronomy, writing, law, poetry, architecture, etc.
+    - Waves of cultural growth, invasion, and destruction set the pattern of history in the Bronze/Early Iron Age
+      - Assyrians, Hittites, Babylonians, Neo-Babylonians, Neo-Assyrians
+  - Persians come from the steppes of Central Asia
+    - Originally a semi-nomadic people
+    - Came into contact with other nomadic groups and absorbed them by marriage and conquest
+      - History of their arrival in Iran has little material evidence to work with
+  - The Origins of the Achaemenids
+    - Beginning of the 6th century BCE, the Iranian region was composed of various tribes and small kingdoms
+      - One of these was the kingdom of Anshan, where Cyrus the Great was born
+    - Cyrus succeeded by Cambyses, who is remembered for his undertaking the conquest of Egypt
+    - Cambyses succeeded by Darius I
+      - Ruled as an absolute monarch
+      - Images from his reign make him appear larger than other humans or placed higher than other humans
+  - Achaemenid Religion
+    - Cyrus' empire spanned a vast territory
+      - Created issues, which were dealt with using intelligent and flexible policies
+        - Subjects treated humanely and their religious practices tolerated
+        - Administration placed in the hands of provincial governors (satraps), usually drawn from the Achaemenid clan
+        - Satraps expected to be loyal to the king and follow the dynasty's policies of tolerance
+        - Rulers had a high regard for piety and correct conduct towards the gods
+    - Greeks had trouble understanding the religious system of the Persians
+      - Herodotus writes that their only gods were the sky, sun, moon, earth, fire, and water
+      - Persians later added gods as they came into contact with more people
+    - Zoroastrianism was an ethical component to their relgiion
+      - Relied on 3 ethical imperatives:
+        - Good thoughts
+        - Good words
+        - Good deeds
+    - Existence of a supreme being: the Sky God Ahura Mazda
+      - Believed to be in contention with the forces of evil 
+      - Persian rulers presented their rule as an expression of divine order
+    - Existence of an all-powerful ruler was foreign to the Greeks
+  - Administering an Empire
+    - Greece => small and divided, Persia => vast
+      - Unity demanded effective administration and frequent use of force
+      - Frequent rebellions
+      - Cooperation with the Achaemenids was rewarded, but revolt was suppressed without hesitation
+    - Network of well-maintained roads stretched across the empire
+      - Facilitated communication between the Great King and the satraps located on the peripheries of the empire
+      - Overland communication across ancient Persia likely as fast as any other pre-Industrial Revolution
+    - Official position regarding this vast territory was that it was a domain made up of distinct nationalities and ethnic groups who paid tribute in orderly fashion to the royal authority that bound the empire together
+      - Society with agrarian/nomadic roots successfully adopted the habits of a large, complex, sedentary, bureaucratically organize, hierarchal states of the ancient Near East
+    - Coherence of ruling power found dramatic expression in the architecture of royal capitals built by Darius and Xerxes
+      - Apadana sculptures of lions and bulls similar to those on the Athenian Akropolis => reminder that Greeks and Persians were in cultural dialogue together
+  - Expansion and Empire
+    - Darius annexed territories of modern Pakistan and Libya, eventually reaching the coast of the Aegean
+      - Greek city-states felt that they were next, making conflict between the two almost inevitable
+    - Ionian Revolt in 499 BCE, supported by the Athenians culminates in the burning of Sardis
+      - Simple to cast as Greek colonists hungry for freedom
+      - Instigated by Aristagoras, tyrant of Miletos, who was hungry for more power of his own
+      - Clear displeasure in Ionia => historians attribute this to the presence of tyrants, not Persians
+      - Resulted in many tyrannies being replaced with democracies within Ionia
+        - Persian rulers not concerned with the constitutions of their constituents, just with the tribute they paid
+      - Persian rule of these colonies was likely not more irksome than Greek rule
+- Marathon
+  - Darius sent ambassadors to Athens demanding earth and water
+    - When refused, Darius organized an expedition to punish the Athenians
+  - Battle of Marathon
+    - Athenians charged Persians in a dead run
+    - Center of Athenian line gave way, forcing the Persians deeper into Athenian ranks
+    - Athenians flanked the Persians as this happened, causing a Persian retreat
+    - 6 1/2 thousand Persians dead vs. 192 Athenians
+    - Marathonomachoi (men who fought at Marathon) looked at as heroes in the full sense of the word
+  - Accounts claim Pheidippides ran from Marathon to Athens to pronounce the Athenians victorious
+    - Likely conflated with a run from Athens to Sparta that was taken to request the Spartans' assistance
+  - Homeric and aristocratic habits of commemoration gave way to celebrations of the entire community's glory
+    - Victory cemented Athens as a single, cohesive community
+- Xerxes and the Invasion of Greece
+  - Xerxes succeeds Darius after his death
+    - Begins amassing a massive force from all around the Persian Empire
+      - ~ 5,000,000 men according to Herodotus
+    - Every move he makes from Asia to Europe demonstrates his semi-divine power
+  - Herodotus writes the Persians as falling to their own hubris
+    - Xerxes and the dream sequence an example of the gods' interference with the Persians => they had to be punished so they had to attack
+    - Xerxes lashing the sea => juxtaposes with the 300 Spartans at Thermopylae
+  - Greek efforts to prepare for the war were badly coordinated
+    - Greek force assembled at Tempe, but retreated on sight of the Persian force
+    - One bright spot: use of silver by Themistokles to build a new fleet of triremes, providing naval backing to the Greek forces
+  - Thermopylae
+    - Greeks retreated from Tempe to Thermopylae
+    - Some factors still made resistance difficult
+      - At this point, some regions (Macedon, Thessaly, Ionian Greeks, etc.) had medized (changed alliance to the Persians)
+      - Some forces wanted to withdraw and make a stand elsewhere
+    - Leonidas and a force of various Greeks stayed to use the narrow terrain to nullify the Persians' number advantage
+      - Worked for multiple days, surviving an onslaught of the Immortals
+      - Betrayed by Ephialtes, who informed the Persians of a pass, allowing them to flank and surround the Greeks, leading to their defeat
+    - The soldiers of Thermopylae had won undying glory, like heroes of Homeric epic, according to Herodotus
+    - Difficult to separate myth from reality
+      - Was Thermopylae even a strategic defense point?
+      - What did King Leonidas hope to accomplish?
+  - Salamis
+    - Persian navy engages the Athenians in the Battle of Artemision
+      - Indecisive, with the Greeks withdrawing to the Saronic Gulf
+      - Athens is evacuated, with the men reporting to the ships
+        - Athens burned down by the Persian army
+        - Due to Themistokles' interpretation of the "Wooden Wall", given by the Delphic oracle
+    - Athenian navy assembles at Salamis
+      - Leonidas is to Thermopylae as Themistokles is to Salamis
+      - Athenians have bigger ships, but are outnumbered
+      - Themistokles pushed for an engagement in a narrow space
+      - Greeks open attack, and the discipline of the Greek ships proved superior
+        - Better tactics and more experience
+      - Greater numbers of Persian ships hindered maneuverability and caused confusion
+      - Persians decisively defeated, resulting in Xerxes and his land army retreating from Attica
+  - Plataia
+    - Persians come back after the winter
+    - More states had fallen into the hands of the Persians and medized, most notably Thebes
+    - Conflict over how to approach the Persian threat
+      - Desire to remain behind the wall at the Isthmus, but that meant abandoning Attica, which was against Athenian interests
+    - Common Greek identity being shaped by the shared danger they faced
+    - Greek forces assemble at Plataia, where the advantage lay with the Persians
+      - Persians led by Mardonios, who took advantage of the Greeks' supply line issues
+      - Greeks end up killing Mardonios and routing the Persians
+      - Athenians prevailed in an almost-separate encounter with the Thebans
+- Aftermath of the Persian Wars
+  - Herodotus' account reflects the traditions and stories that grew up in the generation after the Persian War, when everyone wanted credit
+  - Victory's impact can be seen in Aischylos' play Persians
+    - Greeks quickly came to see themselves as on par with the Persians
+    - Desire to assert that Athenians were most directly responsible for the victory
+    - Greeks see freedom as a marker of the Greeks' separate political communities
+  - The "barbarian" becomes inferior to the Greek
+  - Increasingly xenophobic attitude towards the East
+  - Corresponds to the epoch of the greatest cultural accomplishment achieved by the Greeks
+
+
+
+## Reading 8: Democracy and Empire
 
 - 
 
