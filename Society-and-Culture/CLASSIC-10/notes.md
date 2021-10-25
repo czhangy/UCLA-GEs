@@ -1031,7 +1031,76 @@
 
 ## Lecture 14: Social Death: The Lives of Slaves
 
-- 
+- Categories of Slave in Ancient Greece
+  - Mainly talking about chattel (from the same root as cattle" and "capital"): slaves that were owned by other people
+    - "Income-earning bodies"
+  - Douloi: miners and field workers (cleaners, gardeners, harvesters)
+  - Oiketai: household slaves (porters, cooks, bakers, meal-grinders, but also tutors, shippers, personal assistants, torch-bearers)
+  - Public slaves (demosioi): clerks for the Boule, police force of archers (?), workers in the mint
+  - Choris oikountes: "those dwelling apart"
+    - Seems to refer to slaves that worked in some kind of manufacturing/craftsmenship
+    - Didn't live with the people that owned them
+    - Might have beem able to buy their way to freedom based on their productivity
+  - Dehumanizing terms: andrapodo - "a thing with the feet of a man", konipodes - "the dusty feet"
+- Slaves as often from "elsehwere"
+  - Vast majority of slaves came from somewhere else
+  - The transformation of the word barbarian from simply "others" to "inferiors"
+  - "Elsewhere in Thrace they sell their children for export abroad... Thracians consider it best not to work, and working the land is regarded as the most dishonorable profession. The best way to make a living, in their judgement, is off the spoils of war"
+  - "Barbarians are slaves, but Greeks are free"
+  - War => more captives and slaves
+    - "It is the universal and unchanging custom of men that when a city is captured in war, the citizens' persons and property belong to the captors"
+- Pricing
+  - From the so-called "Attic Stelai" from 414 BCE
+  - Drachma ~ roughly a day's earnings for a skilled worker or soldier
+  - 2 Syrian slaves: 301 and 240 drachmae
+  - 3 Thracian women: 220, 165, and 135 drachmae, respectively
+  - Carian (= Halicarnassian) boy: 72 drachmae
+- Other Rules and Exemptions
+  - Slaves could take part in the first day of the City Dionysia, the great festival in honor of Dionysus
+  - If of Greek ancestry, a slave could be initiated into the so-called Eleusynian Mysteries, a religious cult often thought to be connected to ideas of afterlife and rebirth
+  - But slaves couldn't use the main three gymnasia in Athens
+  - Owners couldn't murder their own slaves, and if the did, they had to undergo purification so as not to be cursed: "the murder of any human being was offensive to the gods"
+    - Slaves could beg for mercy on the Areopagus in hopes of being bought by another owner, but they found not refuge in the judicial system
+  - Sex between and children from slaves was a "reward" for good behavior
+  - Slaves sometimes buried in family plots along with owners
+- Schole ("leisure" => school, scholarship)
+  - Looking at the dynamic of cultural achievement of the Greeks and the labor forces they employed
+  - Slavery and others' leisure and/or success: "I cannot yet afford to buy a slave to take over my trade"
+- Choris oikountes ("those dwelling apart")
+  - Skilled slaves who might live away from their owners for various reasons
+  - Rendered an apophora (basic income) to their owner, but would be allowed to keep extra beyond base wage and possibly purchase their own freedom
+- Trying to Image Slaves' Lives
+  - We don't have written testimony from slaves, just various attempts by authors to write from their shoes
+- Exploitation and Punishment
+  - The slave's body was site of abuse and punishment
+    - Slaves were whipped for court proceedings to elicit information, and by their owners
+    - "If a slave might not be beaten by anyone else, he might certainly be beaten by his master"
+  - Keeping slaves in check: low rations, locking them up, locking up food supply
+  - Bodies as owned (new slaves showered with figs and nuts, similar to bridal entry)
+    - Slaves of Alkestis regarded her as mother
+  - Working in worst places: e.g. the Laureion, the silver mine near Athens, in dangerous conditions
+  - "Social death" - when there are people in society who are not regarded as fully human by other members of society
+    - Within the context of their society, they are dead
+  - Sokrates condemns carpenters, smiths, and cobblers as mostly "slavish" becuase of thier ignorance of beauty and justice
+    - Condescension towards menial labor
+- Aristotle: mastery => usefulness
+  - "Whereas the master is merely the slave's master and does not belong to the slave, the slave is not merely the slave of the master but wholly belongs to the master. These considerations therefore make clear the nature of the slave and his essential quality: one who is a human being belonging by nature not to himself but to another is by nature a slave, and a person is a human being belonging to another if being a man he is an article of property, and an article of property is an instrument for action separable from its owner"
+  - "by nature", "by essence"
+- Slavery as Metaphor for Athenian Rule over Allies in Delian League?
+  - "As the essential fact about a slave seemed to be that he had to take the orders of his master, so the essential fact about the subject allies seemed to be that they had to take the orders of Athens"
+- Some Other Considerations
+  - No know slave revolts at Athens
+    - Debate about whether slaves did or did not outnumber free people
+    - Lower-class people had no slaves and lower-middle-class might own only 1 or 2
+    - Contrast with Sparta, where helots outnumbered the people 2:1
+  - Slaves may not have revolted, but they did flee
+    - In 433 BCE, Athens barred citizens of the city of Megara from the Athenian agora and harbors in part because Megara had given refuge to runaway slaves
+    - During the Peloponnesian War in the mid- to late-5th century BCE, some 20,000 slaves fled, despite knowledge that treatment was unlikely to be better in Sparta
+- Anxiety and Self-Considering?
+  - "One thing only brings disgrace to a slave: the name of slave. In all else an honest slave is a match for a free person"
+  - "We have become barbarous to one another, since by nature we are all of us in all respects equally adapted to be barbarians or Greeks"
+    - We can choose how to behave
+  - Not much in the way of opposition, these sorts of statements are rare
 
 
 
