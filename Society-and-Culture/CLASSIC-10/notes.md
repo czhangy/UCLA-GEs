@@ -2322,7 +2322,246 @@
 
 ## Reading 8: Democracy and Empire
 
-- 
+- Pentekontaetia - fifty year period
+  - Deals with the recovery of Athens from the utter destruction of the Persian War until the end of the 5th century BCE, when Athens was at its height
+  - Story of influential statesmen like Kimon and Perikles
+  - Sparta would come to replace Persia as the focus of Athenian hostility
+- Athenian life in the Classical Age
+  - Democracy more firmly established as a result of reforms designed to maximize number of citizen participants
+    - Assembly, council, magistracies, and law courts
+    - Great lengths to diffuse power broadly across many sectors of society
+      - Random selection, rotation of office, and annuality guarantee a widely egalitarian ethos
+  - Athens assumes the role of hegemon of an alliance of Greek states eager to continue the war with Persia
+    - Causes Athens to emerge as an imperial power
+    - Creation of an increasingly coercive system of hegemony abroad, focusing on on garrisons, military governors, the exaction of tribute, and the brutal suppression of dissent and revolt
+  - Tension between democracy and empire
+- Introduction: From Ruin to Recovery
+  - Greeks immediately undertook a campaign against the Great King for the ravages perpetrated by the Persians after Plataia
+    - Despite defeat, Xerxes and his dynasty would rule Persian until they were taken over by Alexander the Great
+    - Campaigned in the Hellespont region, assaulting Persian islands and coastal cities
+    - Spartan victor at Plataia (Pausanias) would be discredited due to rumors that he began behaving like a tyrant after assuming control of greek forces
+      - Exhibited tendency towards violence and coercion
+      - Began to resemble the Persian king whose army he defeated
+      - Results in Ionians imploring Athens to take command of the allied forces
+      - Pausanias recalled to Sparta and eventually found guilty of conspiring with the Persians, sentencing him to death by starvation
+      - Spartans' desire to stay away from foreign affairs leaves control of the Greek forces virtually uncontested for Athens
+  - New alliance of Greek states formed: The Delian League
+    - Athenians elect treasurers, called Hellenotamiai, to assess the allies' tributes
+      - Tributes intended to pay for the campaign in which the Athenians and the allies would take revenge for the sufferings the Persians had inflicted upon them
+      - In reality, tributes handed the Athenians subjects, ships, revenues, and justification for open-ended military operation
+    - Immediately began a vigorous campaign to rid the Aegean of Persian presence
+    - Quickly became noticeable that the Athenian leadership, led by Kimon, focused on asserting Athenian interests
+      - First target of the Persian garrison at Eion included the enslavement of the entire population
+        - Gave Athens access to the gold and silver of Mount Pangaion and the timber of the Macedonian hills for shipbuilding
+        - Quarrel arises between Athens and Thasos over the markets and mineral resources of the region => results in Athens defeating Thasos and claiming their resources
+      - Seized the island of Skyros and enslaved its population
+        - No strategic significance in relation to the Persian campaign, but was pivotal to the route by which Athens obtained grain
+        - Evidence of Athens' quick realization of their naval supremacy
+        - Religious pretext that Theseus had died on the island
+      - Overwhelmed the people of Karystos (also on the grain route) and forced the city to join the Delian League
+        - Placed a cleruchy (colony) here later
+      - Put down a revolt by the island of Naxos, who sought to leave the Delian League
+    - In its first decade of existence, the Delian League was little more than an instrument of Athenian policy
+    - By the Battle of Eurymedon, the Delian League had been transformed into an Athenian naval empire
+- Democratic Institutions
+  - Athens had survived the Persian Wars with the institutions of democracy intact
+  - The Ekklesia and Archonship
+    - Sovereign power lay with the demos
+    - When the citizen body met collectively, the Ekklesia did as well
+      - Each month, one of four meetings was designated the Kyria Ekklesia, where matters of particular importance (war, foreign proposals, allied tributes etc.) were discussed
+      - Ordinary citizens heard reports from officials on all sorts of civic matters
+      - Agenda prepared by the Boule
+      - The proedroi (executive group of nine men) watched over the proceedings
+        - Membership rotated with each meeting
+      - Anyone present was entitled to speak
+      - Participation open to any Athenian citizen who had completed their military training
+    - Democratic system of Kleisthenes functioned throughout the Classical period, but was subjected to some changes
+      - While it was originally allowed for Athenian citizens to have an Athenian father and non-Athenian mother, this was changed so that a citizen must have an Athenian mother and father
+        - Change designed to ensure exclusivity of Athenian citizenship?
+        - Change designed as an attack by Perikles at Kimon (who was of mixed heritage) and other aristocrats?
+    - Democratic system also depended on various boards of magistrates to supervise the affairs of the city
+      - The three archons => "Rulers" of Athens
+        - One in charge of the army => Polemarch or War-Archon
+        - One acted as chief priest and conducted sacrifices on behalf of the community => Archon Basileus or King Archon
+        - The head of state => Eponymous Archon
+      - Archon system lasted for centuries, but the system was changing along the way
+        - Originally, archons were chosen from men from Solon's top two social classes
+          - Changed so that archons were randomly selected from an eligible pool (klerosis ek prokriton)
+          - Later opened up to men from the third social class, making the archonship more democratic and egalitarian
+        - After the archon was opened up to more Athenians, the misthos (payment for service on juries) was introduced
+          - Funded by a state fund called the dikastikon
+          - Phenomenon of payment for service reflects a broader appreciation of democratic practice, also seems to have arisen as a result of the rivalry between Kimon and Perikles
+          - The theorikon was a similar state fund that granted poor citizens tickets to major religious festivals
+          - Debate over whether these funds were a form of bribery for the masses or proof that democratic institutions were evolving to give more men a greater investment in civic life
+  - The Boule and the Areopagus
+    - The Boule was the most important of Kleisthenes' institutions for the day-to-day running of the state
+      - Provided Athens with a high degree of administrative stability
+      - Membership was an appointment by lot => each deme allocated a fixed number of candidates to be supplied each year
+        - The fifty councilors from a tribe were known as the prytaneis
+        - Ten tribal contingents took turns serving for one month of the ten-month civic year
+        - Once a citizen was selected, he could not be selected for 10 years
+      - Council came to be prominent with the ostracism of Kimon
+        - Ostracized after Athenian help was rejected by Sparta
+        - Paves the way for Kimon's rival, Perikles, to rise to power
+        - Kimon's absence creates a vacuum where more radical politicians with increasingly democratic agendas come to the forefront
+          - One of these politicians was Ephialtes, who focused his reforms on the Areopagus
+      - After Ephialtes' reforms, the Boule drew up the agenda for the Ekklesia, reviews the suitability of elected officials, scrutinized the accounts of outgoing magistrates (euthyna), oversaw construction/maintenance of public buildings, oversaw fleet readiness, oversaw councils that handled taxes, leases, and revenues
+      - Influence extended to every corner of civic life
+      - Lived, slept, and dined in the Tholos
+    - The Areopagus was a council that was made of life-long members: ex-archons
+      - Served as an advisory role and homicide court
+      - Ephialtes stripped away its unspecified powers that it used to employ to safeguard the constitution
+        - Authority of the Areopagus to examine candidates' suitability (dokimasia) and to review outgoing magistrates' performance
+        - Powers given to the Boule instead
+        - Areopagus was populated with the most prominent men in the city and wasn't accountable to any democratic body => existence illustrated the "iron law of oligarchy", all democratic organizations inevitably develop oligarchic tendencies
+        - Reforms mark the full emergence of the Kleisthenic Council of Five Hundred as the center of power in the Athenian state
+    - Success and resilience of the arrangement demonstrated by the fact that the democracy of Demosthenes' time (200 years later) closely resembled the system created by Kleisthenes
+      - Balanced the collective power of the Assembly with the administrative expertise of the Council
+      - Relied on the existence of a small army of minor officials
+        - The Thesmothetai (six magistrates) supervised the running of the law courts
+          - Responsible for seeing that the law was enforced
+          - Played no role in drafting the laws
+        - The Poletai oversaw the public auction of confiscated goods
+        - The Agoranomoi oversaw the use of legitimate weights and measures in the marketplace
+        - The Sitophylakes monitored the grain supply to prevent price-fixing
+        - The Logistai reviews the accounts of magistrates who handled public funds
+- Democracy in Principle and in Action
+  - The Ekklesia, Boule, and magistrates made it possible for Athens to function as a large, organized state
+    - Accountability and oversight operated
+  - Athens wary of the accretion of power by a single man after their experience with tyranny/Peisistratids/Persians
+    - Official positions all rotate out frequently and act as part of a board
+    - Power distribution and dissipation was a big focus
+    - The bedrock principles of collegiality and annuality, like ostracism, reflect the ambivalence Athenians felt towards powerful individuals
+  - Other aspects of the democratic system deserve comment
+    - Practice of deliberating in an assembly wasn't restricted to the Ekklesia
+      - Ten tribes also held their own assemblies, and were responsible for electing their own magistrates (Phylarchs) and the generals of the Athenian army
+    - Demes of Athens held communal meetings, conducted sacrifices, and elected their own officials (Demarchs)
+    - Existence of these organizations from demes all the way to the full Ekklesia was critical to the existence of the democracy
+      - Deme => tribe => polis
+      - Built on the replication of the same forms, practices, and habits
+  - The Lawcourts and Oratory
+    - Athenians saw the lawcourts as the crowning glory of their democracy
+      - Also considered a source of entertainment
+    - Massive juries (500, 1000, 1500 men)
+    - Trials conducted with minimal attention to evidence or procedure
+      - Evidence suggests that trials could be brutal affairs
+    - Athenian democracy wasn't an ideology, it was a series of habits and practices that reinforced democratic behavior in different settings
+      - Courts, theater, assembly, feast, etc.
+    - Democratic behavior also asserted in the funeral oration
+      - Event held at the end of the campaigning season when the Athenian community gathered to listen to a eulogy for the dead
+      - Most famous example is an oration given by Perikles for those that died in the Peloponnesian War
+        - Message that all living Athenian men were honor-bound to replicate the sacrifice of the the dead
+        - Athenians fight for Athens
+      - Praise of personal courage (arete) and the urge to win individual glory (kleos)
+      - Demosian Sema (public cemetery) contained the collective bones of the Athenian dead
+        - Egalitarian spirit present even among the dead
+    - Powerful rhetoric characterized ancient democracy, but it also raised concerns of a prominent and persuasive individual harboring ambitions of tyranny
+      - Enormous size of juries made tampering nearly impossible
+      - System designed to give a vote and voice to as many men as possible
+        - Participation not open to women, slaves, or foreigners
+        - Some were more active than others
+        - Success in Assembly depends on the power to speak well
+    - Rhetoric training was the mark of an educated man
+    - Another feature that worked against the egalitarian ethos of democracy: military
+      - Generals could be elected year after year
+      - Men that were a powerful speaker and a successful general could expect a long and distinguished career
+        - These men tended to come from wealthy and high-born families
+        - Referred to themselves as the Eupatridai (men of good birth)
+        - Example: Perikles' domination of Athens for 20+ years
+      - Wealth and aristocratic birth might seem antithetical to democracy, but Athens wouldn't be the last to reconcile dynastic policies with democracy
+- The Imperial Democracy
+  - Evidence suggests the politeia (constitution) of mid-5th century BCE Athens was growing more and more egalitarian
+    - The eclipse of Kimon
+    - The emergence of popular democratic leaders
+    - The various reforms relating to eligibility and pay
+    - The strengthening of the Boule
+    - Impetus towards active participation by more people in the democracy also spurred by the involvement of more and more citizens
+      - Magistrates to supervise affairs in allied states, fleet of triremes to patrol the Aegean
+      - Machinery of empire: bureaucracy, fleet, army, and tax collection involved Athenians from every level of society
+      - Democracy and empire depended on one another
+  - Sphere of influence is primarily in the Aegean, but the generation of leaders after Kimon led to a new and aggressive policy towards other states
+    - Central Greece => disgrace of Kimon turned public opinion against Sparta, causing the Athenians to extend influence into the region
+      - Brought them into conflict with Thebes, period of conflict with Athens on one side and Sparta and Thebes on the other => First Peloponnesian War
+    - Military expeditions taken on many other fronts
+      - Significant gaps in our knowledge of Athenian activity in these years
+    - Naval expedition to Cyprus, instructed to sail to Egypt to support an insurrection against the Persians
+      - Eventually led to the Athenians being besieged by a different Persian general, leading to their defeat
+  - Delian League in Crisis
+    - In the first 20 years after the Persian Wars, the Athenians had projected their power across the Aegean, eradicating Persian influece
+    - By the mid-450s BCE, the Athenians faced a very different landscape
+      - Persia no longer an immediate threat
+      - Sparta no longer a firm ally
+      - Thebes and Megara were no longer friendly
+      - Resistance to Athens from dissatisfied allies was everpresent
+      - Egyptian disaster cost the Athenians dearly in ships and manpower
+    - Egyptian crisis caused Athens to move the treasury from Delos to Athens
+      - Precaution due to revolts in important allied states
+      - Unambiguous signs of Athenian interventionalist, both constitutional and military
+        - Set up a democratic constitution on Erythrai in response to a revolt, but Athenians were clearly the ones in charge
+    - Kimon returns in 451 BCE, negotiating a treaty with Sparta and coinciding with more hostility from Persia
+      - Kimon leads expeditionary force to Cyprus, likely to take advantage of revolts and dissatisfaction on the coast of the Persian empire
+      - Asserted Athenian influence even further afield
+      - Died on Cyprus, leading to Athenians returning home and abandoning further attempts to liberate the island
+- A Peace of Kallias?
+  - With Kimon dead, Perikles enjoyed a position of power that was distinctly undemocratic
+    - Age referred to as Periklean Athens due to most of the major policy decisions coming from perikles
+  - Periklean Athens
+    - Pro-Spartan, anti-Persian policies associated with Kimon began to look old
+      - Sparta had been on the opposing side of recent conflicts
+      - Persians would likely stay out of Athenian business if they did the same
+  - Formal treaty with Persia has become one of the key problems of 5th-century history
+    - The reconstruction of the Delian League records known as the Athenian Tribute Lists
+      -  A missing record leads to suggestion that the missing year was the year following Kimon's death, which opened up an opportunity to negotiate with Persia
+      - Negotiator referred to as Kallias => Treaty of Kallias
+      - Alliance with Persia means tributes are being paid for nothing => leads to a gap year in the records and fluctuation in tributes in following years
+    - Never mentioned by Thucydides
+    - Athenian contemporaries who mention the treaty are inconsistent with each other and the rest of our historical knowledge
+- Colonies and Cleruchies
+  - Decade of the 440s BCE marks an effort by the Athenians to reestablish firm control of the League
+    - Development of a clear set of practices that served to confirm the imperial control of the Aegean
+      - Intervening with military forces, founding colonies, establishing cleruchies in allied territory, imposing Athenian weights and measures, subjecting allies to Athenian courts, etc.
+  - Colonies
+    - Colonies became a means for Athens to assert its control over members of the League
+    - Athenians campaigned in Boiotia in 446 BCE
+      - Captured the city of Chaironeia and enslaved the population
+      - Defeated later by the Boiotians, sparking unrest among the Athenian allies
+      - Cities of Euboia went into revolt, forcing Perikles to lead a major Athenian expedition to calm them down
+        - Resultant dealings suggestive of the importance of the appearance of legality in their dealings with subject states and framing as good practice by the Athenians
+        - Set of regulations spelling out what the colony can expect from Athenian imperial power
+      - Athenians exerted an imbalance of power on suppressed peoples
+    - Colony founded at Brea in the northern Aegean
+      - Strategic interest due to timber and resources
+      - Designed to secure an Athenian presence in the region
+      - Athens promised to help, provided the colonists met their obligations to the mother city
+      - Clear that the incentive to leave Athens for Brea was land, divided into parcels for incoming colonists
+      - Colonists drawn from bottom 2 tiers of the Solonian property classes
+      - Opportunity for soldiers to join the colony upon their return
+      - Fresh start, but with significant ties to Athens
+  - Cleruchies
+    - Resembled colonies in that they involved the allocation of land in allied/foreign territory to the Athenians
+    - Cleruchs retained Athenian citizenship and obligation to military service
+    - Constituted an effective tool for imperial control of the Aegean
+    - Flourished during the time when Athens was at risk of losing control of the Delian League
+      - Persian Wars fading into the past, Athenian justification for empire growing slim
+      - Athenians' hegemonial power became the main threat to allies
+    - Athenians pacified states that were rebellious by seizing their land
+    - Evidence that the instatement of cleruchies made the original communities incapable of paying at their pre-revolt rates
+    - Profited the richest Athenians, who gained land overseas
+      - Key feature of Athenian control of productive land, one of the primary economic resources of the Aegean world
+- Coercion
+  - Tribute (phoros) was the most irksome aspect of Athenian imperial control
+    - Most obvious sign of the allies' subordination
+  - Athenians hostile to the democracy also dissatisfied
+    - Saw that empire and democracy went hand-in-hand, with the navy linking them
+    - The navy was a tool of imperial control and an expression of the egalitarian spirit of Athens
+    - Some saw the greatness of Athens as linked to its moral decline
+  - By the time of the Peloponnesian War, Athens had come to rely on its empire to supply it with grain and revenue
+    - this supply was threatened by war
+    - Increased control of trade throughout the Aegean
+    - Drop in allies minting their own coinage, a sign of decreasing autonomy among the states of the Delian League
+  - Decision made to cancel tributes altogether, replacing it with a 5% tax on imports and exports
+  - Every state within the Delian League required to adopt Athenian weights and measures
+    - Political and economic decisions that moved the Aegean towards free trade coincided with the loss of Athenian control in the region
 
 
 
