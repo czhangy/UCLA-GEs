@@ -1106,7 +1106,25 @@
 
 ## Lecture 15: What Is (Greek) Tragedy?
 
-- 
+- "What a tragedy!"
+  - There are no surviving Greek tragedies about natural disasters
+  - More often, Greek tragedies refer to the complex situations of individuals and families and their reversals of fortune
+    - Focus on the actions that these characters take in relation to some kind of crisis
+    - Decisions made with limited knowledge, leading to further suffering
+- Two Potential Models for Explaining Tragedy
+  - Historicizing Model: ancient context explains tragedy best
+  - Humanist Model: ancient tragedy is something about humans that other humans respond to, regardless of original context
+- Three Major Tragedians with Extant Works
+  - Aeschylus (525 - 456 BCE)
+  - Sophocles (497 - 405 BCE)
+    - General, saw a certain kind of human suffering
+    - Wrote about interpersonal conflicts
+  - Euripides (480 - 406 BCE)
+- Historicizing: Tragedy as a Ritual
+  - Dithyramb - choral song or hymn, often in honor of Dionysus
+  - "Goat song" (tragos + ode)
+  - Costumed and stylized
+  - Details of red-figure krater depicting actors preparing for a play
 
 
 
