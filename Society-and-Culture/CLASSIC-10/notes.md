@@ -1125,6 +1125,61 @@
   - "Goat song" (tragos + ode)
   - Costumed and stylized
   - Details of red-figure krater depicting actors preparing for a play
+  - Tragedy performed behind masks by males, focus on the sound, not the appearance of the actor
+- Theatre of Dionysus, Athens
+  - Plays took place during the Dionysia, a festival in honor of Dionysus
+  - Dionysus is the god of the radical other
+  - The Dionysia as Spring Break?
+    - The plays often have to do with civic matters, what is right or just in the eyes of the gods
+    - While celebratory, tragedies were still self-reflective, discussing the meanings of knowledge and ignorance
+- A few other historicizing details
+  - Skene, ekkyklema, mechane
+  - Chorus
+    - Strophe
+    - Antistrophe
+  - Stichomythia
+  - March, dirge, hymn, dance (moods of rhythm and music)
+- The Humanist Model
+  - "Ancient tragedy is not ancient. It is quintessentially modern"
+  - "Tragedy presents a conflictually constituted world defined by ambiguity, uncertainty, and unknowability. Tragedy is the experience of transcendental opacity"
+    - At the state of being at your own limit, you see all that you don't know
+- "Tragic Consciousness"
+  - Humans and human actions in ancient tragedy are presented "not as stable realities that can be placed, defined, or judged, but as problems, unanswerable questions, riddles whose double meaning remain enigmatic however often decoded"
+- "No-Choice Choices"
+  - Tragedy as about dilemma and impossible situations
+  - Example of Antigone
+    - "Which of the gods can I summon to my side – I, whose piety has made me impious?"
+  - Example of Agamemnon (in Aeschylus' *Agamemnon*)
+    - "He put on the harness of necessity"
+- Humanist Model? Aristotle on Tragedy in the *Poetics*
+  - "Tragedy... is an imitation of an action that is serious and complete, and which has some greatness about it... It imitates people performing actions and does not rely on narration. It achieves through pity and fear, the katharsis ("cleansing") of these sorts of feelings"
+  - Hamartia - mistake, error
+- Sophocles' *Antigone*
+  - Stages questions about what makes the family a locus of importance
+- Piety and Defiance
+  - "To act in defiance of the citizens (biai politon) my nature does not give me means for that" - Ismene
+  - "Had I been a mother of children, and my husband dead and rotten, I would not have taken this weary task upon me against the will of the city" - Antigone
+    - Consistency with her actions?
+- Antigone and the Impossible Family
+  - "I know I am pleasing those I should please most" - Antigone
+  - "If you can do it. But you are in love with the impossible (amechanon eras)" - Ismene
+  - Antigone erotically charged with the love of her brother, reiteration of the incest she's descended from (Oedipus)
+- Instability of Power: Creon
+  - Creon articulates the idea that your greatest friend is your community/country, not a particular individual
+- Choral "Ode to Man" (really, "human")
+  - "Many are wonders, the terrors, and none is more wonderful, more terrible, than man."
+  - Pay attention to how contradictory humans are in their actions
+  - Cannot stop death
+- Antigone's "Transcendental Opacity"
+  - You can't cheat death, so you must honor those who have died
+  - No human has jurisdiction over death
+  - Antigone's Claim
+    - "no brother's life would bloom for me again"
+    - The irreplaceability of the relationship
+- Some Questions for Reading Tragedy
+  - What aspects of the historicizing approach help you to understand tragedy?
+  - In what ways do the plays present their apparent antagonists as similar to each other
+  - What makes these plays so attractive for the humanist approach to reading?
 
 
 
