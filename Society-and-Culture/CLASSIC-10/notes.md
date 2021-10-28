@@ -1361,9 +1361,47 @@
 
 
 
-## Discussion 6:
+## Discussion 6: *Antigone*
 
-- 
+- Tragedy
+
+  - Ancient theater is in some ways the reverse of modern theater
+    - Ancient theater is very much outward-facing => a facade
+  - Hesitancy to write tragedy about Athens
+    - Thebes as a parallel
+
+- Antigone's family tree
+
+  - Jocasta + Laius => Oedipus
+  - Creon is Jocasta's brother
+  - Oedipus + Jocasta => Ismene, Antigone, Polynices, Eteocles
+
+- Introduction
+
+  - Parallels to Patroclus' death
+  - "Spoils for dogs and birds"
+  - Iliadic echoes
+
+- Stichomythia => "line talking"
+
+- What does it mean for Antigone to be in love with death
+
+  - Pursuit of a more honorable goal
+
+- Creon's version of honor
+
+  - Seemingly more interested in the enforcement of his own laws, using Zeus as a justification
+
+  - Creon vs. Antigone
+
+    - Creon moving to persuade others, while Antigone is acting on her own morals
+
+    - Antigone takes her morals to the end
+
+    - Creon's punishment of the guard vs. Antigone's protection of Ismene
+
+- Antigone + Creon branch from Achilles
+
 
 
 
