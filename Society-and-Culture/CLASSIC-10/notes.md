@@ -2745,6 +2745,28 @@
 
 
 
+## Reading 9: Inclusion and Exclusion: Life in Periklean Athens
+
+- Two aspects of Athenian life changes under Perikles: Drama and the Akropolis
+  - Drama
+    - Tragedy and comedy important genres
+    - "Parademocratic" in that it was a socially constructed performance whose form and nature reinforced the egalitarian ethos of Athenian democracy
+  - Akropolis
+    - The primary location in Athens where the Athenian community defined its identity, memorialized its past, and exalted itself as a democratic empire
+- 3 groups excluded from democratic participation: women, slaves, and resident aliens
+- Drama
+  - Athenians expressed a complex worldview through tragedy, comedy, and satyr plays
+    - Always direct in portraying the whole range of human experience
+    - Ancient drama differs from modern interpretation by virtue of its function in ancient society
+    - Performed as parts of festivals in honor of Dionysus
+      - Civic, religious, and communal events
+  - Origins of Drama
+    - Probably lie in the agricultural festivals that celebrated the harvest
+      - Young men and women would perform songs and dances called dithyrambs in honor of Dionysus
+      - Speaking parts of the protagonist and antagonist would later be added, beginning the transition from choral performance to drama
+
+
+
 ## Summary 1: Why Study the Greeks?
 
 - Cultures in Dialogue

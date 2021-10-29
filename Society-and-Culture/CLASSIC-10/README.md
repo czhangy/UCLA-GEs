@@ -16,10 +16,10 @@
 
 ## Papers
 
-|   Paper    | Score |
-| :--------: | :---: |
-| Mini-Essay |  ???  |
-|   Essay    |  ???  |
+|   Paper    | Score  |
+| :--------: | :----: |
+| Mini-Essay | 83/100 |
+|   Essay    |  ???   |
 
 ## Exams
 
