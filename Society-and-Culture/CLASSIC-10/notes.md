@@ -2764,6 +2764,123 @@
     - Probably lie in the agricultural festivals that celebrated the harvest
       - Young men and women would perform songs and dances called dithyrambs in honor of Dionysus
       - Speaking parts of the protagonist and antagonist would later be added, beginning the transition from choral performance to drama
+    - Greek drama consisted primarily of odes sung by the chorus
+      - Punctuated by sections/episodes where two characters exchanged alternating lines of dialogue (stichomythia)
+      - Sharp expression of opposing viewpoints => encouraged and expressed agonistic exchanges
+        - Antigone vs. Creon, Medea vs. Jason, Helen vs. Hekuba
+    - Eventual addition of a third character
+      - Actors assume different roles with heavy robes, costumes, and masks
+      - Standard archetypes occurred: messenger, nurse, heroine, etc.
+      - The chorus was a kind of character, often identified with town elders or subordinate characters
+        - Offered normative reactions that responded to the chaotic and subversive actions of the principal actors
+        - Over time, the chorus became less commentary focused, but their roots in song and dance remained
+    - Most plots taken from either the story of the Trojan War and its aftermath or the Seven Against Thebes cycle
+    - What made these plays so powerful?
+      - Conventional plots, simplicity of structure, lack of special effects make them seem boring
+      - The serious topics they touched on: murder, incest, parricide, execution, etc.
+      - Drama was an aural experience
+        - Combinations of long and short syllables in words and phrases could be employed to create metrical schemes
+        - Poetic quality of different meters engaged the audience
+        - The actor's ability to imbue a character with emotion through posture, facial expression, diction, etc. would be worthless in ancient times
+  - Katharsis
+    - Aristotle claims katharsis was the key to effective drama
+    - Katharsis is the process by which the audience is cleansed of their worst impulses and fears by being forced to contemplate the unthinkable
+      - The revelation to Oedipus that he had committed patricide and incest
+    - A suggestion that anyone can do horrific things
+    - Partly caused by the relief that the viewer is not in the character's shoes
+    - Challenges the audience by dramatizing conflicts between fundamentally irreconcilable value systems
+      - Antigone vs. Creon
+  - The Dionysia
+    - Tragedy performed under particular conditions at two festivals: the Dionysia and the Lenaia
+      - 3 tragedians selected, each of which produced a trilogy to be performed on a single day of the festival
+      - Crown offered to the best tragedian
+    - Tragedy had a meaningful connection to the worship of Dionysus
+      - A god that represented threats to social order and transgression, but also order and civilization
+      - The celebration of the great Dionysia was a festival that celebrated the normative roles of people in society by purging the most antisocial drives within the population
+      - Theater offered a place to explore the worst, most antisocial psychoses, binding the democratic community together
+    - Many plays explore the dilemmas of piety and obligation at the level of the individual and of the community
+      - Often reflect their contemporary setting and issues
+  - Comedy
+    - Comic plays also performed at the Dionysia and Lenaia in competition
+    - Investigation of prevailing habits and attitudes, satirized foolishness, and tested tolerance
+    - Fifth century BCE => Old Comedy, Fourth century BCE => Menander
+      - Old Comedy more robust
+      - Showing that comedy was a thoroughly democratic genre
+  - The Democracy of Drama
+    - Both comedies and tragedies were experienced by the community together in the theater of Dionysus
+    - Status of the performers balanced by the large, anonymous audience, who exercised a controlling power on the performance
+      - Results in the theater resembling the social dynamic of the democratic assembly
+    - Helped constitute the inclusivity of the Athenian community
+    - Reinforced the shared belief that reverence for the gods was characteristic of the Athenians and flowed into communal relations
+    - In the eyes of the Athenians, to be a part of the Athenian community, one had to be a participant in all the rituals, sacrifices, and processions that marked everyday Athenian life
+  
+- The Akropolis
+  - Participation in the world of drama as a producer, actor, playwright, or audience member meant inclusion within the Athenian community
+  - At the height of Periklean Athens' power, the Akropolis was radically reimagined as an expression of both that power and the shared identity of the Athenians
+  - The Parthenon, Propylaia, and Erechtheion are tangible proof that in Periklean Athens, democracy, community, and imperial power were inextricably bound to each other through religion
+  - The Akropolis' rebuilding after the Persians sacked Athens funded by religious piety and imperial power
+    - Tribute from Delian League allies would be taken by Athens, and 1/60 of the tribute would be set aside for Athena (aparchai)
+    - Athenians transferred additional money to this fund, helping to finance the building program devised by Perikles
+  - Architectural transformation began after the moving of the treasury from Delos to Athens
+    - Parthenon, Propylaia, Erechtheion, Nike temple, sanctuary of Brauronian Artemis, Chalkotheke, etc.
+    - Controversy over use of funds for buildings rather than defense, allies complain
+  - The Parthenon and Propylaia
+    - The Parthenon was a massive temple dedicated to Athena
+      - Praised for innovations and refinement of architecture
+        - Built with an eye to the existing topography of the Akropolis
+        - Part of a landscape of memory, where new buildings related to their predecessors
+      - Incorporated the recent past of the Persian Wars as well as the deep past of the Mycenaeans
+        - Shows Athenian belief in their autochthonous nature
+        - Ancestral connection to the Athenian Akropolis
+      - Drew on conventional design and added onto it, creating something radicalized
+        - Classic art on the exterior metopes, complemented with a new Ionic frieze
+        - First major Greek temple decorated by idealized versions of the people visiting it, not gods or heroes
+        - Proof of the confidence of Athenians at the height of their power
+      - Articulation of how the imperial democratic community was embodied as a pious sacrificial community
+      - Housed a massive gold/ivory statue of Athena, made by Pheidias
+        - Fully armored, reflective of the warrior qualities celebrated at the Panathenaia
+    - The Propylaia was a monumental gateway at the entrance to the Akropolis
+      - Salamis, the site of the Athenians' naval victory over the Persians becomes the backdrop to the visitor's pilgrimage to the Akropolis
+  - The Erechtheion
+    - The rebuilding process consistently deployed similar architectural orders and designs to make the visual environment of the Akropolis consistent
+    - The most sacred spot on the Akropolis
+      - Challenge to design a building to bring architectural cohesion to a spot where there were so many cults and sacred associations
+        - Location of the xoanon (olive wood statue), where Athenians prayed to Athena
+    - Irregularity of various levels associated with the building
+      - Many internal complexities and irregularities
+    - Complex creates an illusion of orderly arrangement
+  - Symbols of Power
+    - Athens' enormous power is deployed in honoring the gods, endorsing the greatness of Athens
+    - Periklean building programs looks much like a public works program, financing a workforce
+      - Puts money into circulation, stimulating the economy vs. the passive wealth of tribute
+    - Fashioning of a sacred topography
+      - Akropolis a unique expression of the unity of religion, democracy, and imperial power
+      - Archaic temples that had been torn down by the Persians replaced by stelai containing the decisions, laws, treaties, casualty lists, and honorary decrees of the democracy
+    - Democracy found a visual language for expressing the power, pride, and common identity of all Athenians
+- Power and Exclusion
+  - Much of the cultural production of Athens is intimately bound up with democracy
+  - Society still excluded the likes of women, slaves, and foreign residents
+  - Women in Classical Athens
+    - Very few female voices in antiquity, their status must be interpreted as representing men's attitudes towards women
+      - "Women are men's affliction"
+      - "We have courtesans for pleasure, concubines for the daily service of our bodies, and wives for the production of legitimate offspring"
+    - Wives served to provide children who could inherit the family's property
+      - Legalistic basis made clear by the word engye, meaning a betrothal and a contract
+      - Contract not between man and woman, but between the woman's father and the husband
+      - Image of the anonymous, silent wife, waiting patiently at home for her husband is somewhere between reality and the Athenian man's ideal marriage
+      - Evidence to show that women could participate in family council, but cloistering of women is undeniable
+      - Social organization secludes women as much as possible
+      - Dramatic difference in agency reinforced by the age difference at the time of marriage
+        - Men didn't look for companionship in marriage
+          - Semi-formalization of mistresses and prostitutes (symposia)
+    - The general theme of democracy in Athens blinds us to the fact that there were gross inequalities in the treatment of those excluded from Athenian citizenship
+      - Allies, slaves, women, etc. relationships with the Greek man seen as an assertion of their power
+    - Depiction of heterosexual sex as an expression of physical dominance
+  - Pederasty
+    - Pederasty was distinctively and identifiably Greek
+    - Relationship between the erastes (older man) and the eromenos (younger boy)
+      - Erastes is the active partner and the eromenos is the passive partner
+    - Possibly compensating for the lack of affectionate heterosexual relationships
 
 
 
