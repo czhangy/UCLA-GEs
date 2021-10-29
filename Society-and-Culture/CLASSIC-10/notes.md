@@ -1185,7 +1185,57 @@
 
 ## Lecture 16: Sexuality in Ancient Athens
 
-- 
+- Some Midterm Information
+  - Material from weeks 1-5
+    - Greek Terms
+    - Images in slides that are also in the book
+    - Primary source readings
+  - Bring 2 blue books at the normal class time, 11/5
+  - No make-up exams
+- Eros
+  - From Proto-Indo-European root: ero, "to separate, to adjoin"
+  - Probably erasthai, "to love, to be separated?" => erotic
+  - Probably eris, "strife, discord"
+- Asymmetry of Power
+  - Emphasis on actions and behaviors, rather than identities
+- Pederasty
+  - "Love of young boys"
+  - Attempt to avoid judgement based on contemporary standards
+  - Rather to inquire into its function in ancient Greek society
+  - A recognized Greek practice
+    - Zeus and Ganymede
+      - Ganymede "was the loveliest born of the race of mortals, and therefore the gods caught him away to themselves, to be Zeus' wine pourer, for the sake of his beauty, so he might be among the immortals"
+      - Ganymede => catamite ("a boy kept for homosexual purposes")
+      - Story becomes a model 
+  - Male-Male Sexual Experience in Athens
+    - Erastes - the older male; "the lover" (active partner)
+      - Meant to instigate the relationship
+    - Eromenos - younger male, with upper age limit 17-22 (?); "the beloved" (passive partner)
+      - Meant to be courted
+  - Why the Pederastic Relationship?
+    - Brothers in arms?
+      - Example of the Theban Sacred Band (4th century BCE)
+      - Achilles and Patroclus (?)
+      - Harmodius and Aristogeiton
+      - Male-male relationships as the backbone for military achievement
+    - Supplement to marital sex?
+      - Women were confined to the home, while men were out
+    - Idea of tutoring/sponsoring => the erastes leading the eromenos into society?
+      - Problem of "elite evidence"
+  - Asymmetry of Pleasure?
+    - Seems that the erastes was the one deriving pleasure
+    - Socrates: "A youth [the eromenos] does not share in the pleasure of the intercourse as a woman does, but looks on, sober, at another in love's intoxication"
+  - The Anachronism of the Term "Homosexuality"
+    - Charles Gilbert Chaddock - 1892 "homo sexuality", rendering of a German term
+    - Homosexuality presupposes "sexuality": "a specifically sexual dimension to the human personality, a characterological seat within the individual of sexual acts, desires, and pleasures - a determinate source from which all sexual expression proceeds"
+      - "Instead of attempting to trace the history of 'homosexuality' as if it were a thing, therefore, we might more profitably analyze how the significance of same-sex sexual contacts have been variously constructed over time by members of human-living groups"
+  - Three Major Scholars of Ancient Sexuality
+    - Foucault
+    - Halpern
+  - Kalos and Kinaidos
+    - To be a desirable eromenos was to be kalos ("beautiful")
+    - But to be a grown adult and in a sexual relationship with another grown adult was not viewed well => kinaidos
+    - Court-case called *Against Timarchus*
 
 
 
