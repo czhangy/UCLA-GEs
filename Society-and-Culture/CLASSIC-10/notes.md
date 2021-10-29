@@ -2813,7 +2813,6 @@
     - Helped constitute the inclusivity of the Athenian community
     - Reinforced the shared belief that reverence for the gods was characteristic of the Athenians and flowed into communal relations
     - In the eyes of the Athenians, to be a part of the Athenian community, one had to be a participant in all the rituals, sacrifices, and processions that marked everyday Athenian life
-  
 - The Akropolis
   - Participation in the world of drama as a producer, actor, playwright, or audience member meant inclusion within the Athenian community
   - At the height of Periklean Athens' power, the Akropolis was radically reimagined as an expression of both that power and the shared identity of the Athenians
@@ -2881,6 +2880,54 @@
     - Relationship between the erastes (older man) and the eromenos (younger boy)
       - Erastes is the active partner and the eromenos is the passive partner
     - Possibly compensating for the lack of affectionate heterosexual relationships
+    - Ancient civilizations may see this as an expression of the boding that can occur in hypermasculine settings
+      - Others not the aristocratic milieu in which pederasty functions
+    - Two common denominators running through the various forms of pederasty known in the Greek world
+      - The erastes was the penetrator and the eromenos was penetrated, playing the same role as the woman or slave
+      - The eromenos would eventually outgrow his role and become an erastes
+    - Served as a kind of sexual initiation
+      - A youth who was praised as kalos (beautiful) would have to grow up and shed that status
+    - Despite the notions of this relationship, two grown men living together in a homosexual relationship was seen as disgusting
+      - In this case, the eromenos became a kinaidos
+  - Slavery
+    - Agricultural workers and miners (doulai) worked the fields and dug silver out of the ground
+      - Agricultural workforce in Attica was primarily made up of slaves
+      - Gymnetes in Argos, Koniopodes in Epidauros, helots in Sparta, and penestai in Thessaly
+    - In many places, the slaves were identified as the original inhabitants of the region
+      - Suggests that slave owners tried to ethnically distinguish themselves from their slaves
+    - Athens' slaves came from a much wider variety of nationalities
+      - Non-Greekness of the slaves made it easier to see slaves as "income-earning bodies"
+      - Strong ethnic overlay to the slave/free distinction => skin color, accent, etc.
+    - Within the oikos, there were household slaves (the oiketai)
+      - Wove cloth, cooked, and waited in attendance on the master and mistress of the house
+      - Generally better living conditions than agricultural slaves
+    - The choris oikountes ("those who dwell apart")
+      - Semi-independent craftsmen whose labor and products supported themselves and their owners
+    - Public slaves, the demosioi
+      - Helped day-to-day running of Athens
+      - Clerks, secretaries, streetsweepers, police force, etc.
+    - Large numbers of slaves made punishment necessary for compliance, like in Sparta
+    - Clearest expression of power dynamics in Athenian society
+      - Women as sexual objects
+      - Allies as subjects
+      - Slaves are barely human => only a body
+        - Testimony taken through torture, as the slave cannot be relied on for their intellect
+    - Athenians' justifications of slavery required logical somersaults
+      - Aristotle believes mastery is the telos (proper function) of the slave relationship
+      - Objections to slavery muted and the institution unchallenged through antiquity
+    - Slavery was a feature of Periklean Athens
+      - Class of men had time to pursue philosophy, poetry, and other pursuits of high culture
+        - Schole
+        - Made possible due to the large class of slaves that made time
+- Metics
+  - Much of the trade and manufacturing that took place was conducted by metics
+    - Resident aliens who paid a tax (the metoikion) to live in Athens
+    - Rarely given the chance to become Athenian citizens
+    - Required to register in an Athenian deme and have an Athenian patron
+  - Catch-all title
+    - Some were freeborn people who moved to Athens to take advantage of the growing economy
+    - Some were former slaves that had acquired freedom
+  - Formal status difficult to distinguish at the lower ranks of Athenian society
 
 
 
