@@ -1239,9 +1239,74 @@
 
 
 
-## Lecture 17: Like Lawyers on Steroids: The Sophists
+## Lecture 17: The Parthenon
 
-- 
+- Athenian Self-Definition: The Acropolis
+  - Main buildings originate from the reign of Peisistratus
+    - Mostly destroyed by the Persians during the Greco-Persian Wars
+  - City center rebuilt after the Persian Wars, using funding from the Delian League
+    - What might allied states have been thinking when they saw where their tribute was going?
+  - Temple of Athena Parthenos => Parthenon (447 - 432 BCE)
+    - Part of the rebuilding effort under Pericles
+    - Frieze, Metopes, and Pediment Sculptures
+      - Decorated not by gods or heroes, but by actual people
+  - Panathenaic Procession Frieze, Parthenon (c. 440 - 432 BCE)
+    - Depiction of of procession bringing in garments to wrap around the statue of Athena
+    - Belief that the statue was the goddess herself
+  - South Frieze
+    - Glorification of the citizenry of Athens
+    - Located in a place difficult to see by humans => almost as if for the gods themselves
+  - Metopes
+    - Depictions of human conquest
+    - Dynamic, lively, etc.
+  - The "Elgin" Marbles
+- "Religion"
+  - No word for this in Ancient Greek
+  - No real separation of the sacred and the secular
+  - Polis Religion
+    - Religion in ancient Greece seems to be something done publicly
+    - Binding self to the community
+    - Brauron Sancutary
+      - Evidence of a sanctuary of Artemis
+      - Religious activity specific to young women
+        - Marking of growth throughout maturation
+      - "Playing the bear"
+  - "Technologies" of Orthopraxy
+    - "Doing the right thing"
+      - Performing the ritual properly
+    - Sacrifice and libation
+    - Religion as performative
+  - Votive tablet - a tablet depicting your own religious activity
+    - Re-inscribed your own activity in perpetuity
+  - Gods are very much anthropomorphic
+    - In some sense, the Greeks tell stories about themselves and their values
+    - What are the Greeks saying about the nature of the gods in the *Bacchae*
+  - Priests and Priestesses
+    - Not a vocation, no ordination
+    - Older priesthoods reserved for nobility; held for life
+    - Example of Lysimache (priestess) who served for 64 years
+    - Dealt with and ate a lot of meat due to sacrifice
+    - No personal ministry not hatching/matching/dispatching
+    - External qualifications (rather than belief or intellect)
+      - Prostitutes, army deserters, and debtors ineligible
+      - No physical blemishes! => your offerings are tainted
+    - Plato's Laws: Priests and priestesses are people who "know how to offer our gifts to the gods in sacrifices so as to please them, and who know, also, the right way to pray to the gods so they bestow blessings"
+  - Eleusis: Religion as Personal and Civic?
+    - Maybe some kind of hallucination during this ritual where you would see some of the "gods"
+      - Kykeon
+    - Gave assurance of a person's afterlife
+    - Presentation of gifts of the earth to Demeter
+    - Gephyrismos => as you crossed the bridge (began hallucinating), you have insults hurled at you, providing pollution to cleanse yourself of
+  - Belief
+    - No one "sacred text" among ancient Greeks
+    - Homer and Hesiod were primary resources (including the Homeric hymns) => "Internet" idea, but also, like our internet, not without contradiction, and no centralized authority
+    - Rarity of charges of asebeia (impiety)
+    - At a broad level, belief appears to be common - and communally realized
+- Dionysus and Euripides' *Bacchae*
+  - Dionysus: god of wine, sexual liberation, inebriation, irrationality, and tragedy
+  - What is Dionysus demanding of Pentheus? Ritual? Belief?
+  - Role of women
+  - Moral? Nature of the god?
 
 
 
@@ -2978,6 +3043,12 @@
     - Some were freeborn people who moved to Athens to take advantage of the growing economy
     - Some were former slaves that had acquired freedom
   - Formal status difficult to distinguish at the lower ranks of Athenian society
+
+
+
+## Reading 10: 
+
+- 
 
 
 
