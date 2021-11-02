@@ -3046,7 +3046,133 @@
 
 
 
-## Reading 10: 
+## Reading 10: Religion and Philosophy: Belief and Knowledge in the Classical Age
+
+- A system of beliefs and practices, often referred to as a polis-religion, served to keep Athens together during the Classical Age
+  - Religion bound the city together as a community and the polis shaped Greek religion
+  - Shared sacrifices and religious festivals brought people together, creating common bonds of affiliation
+  - Philosophy presented alternative ways of understanding the world that challenged conventional thought
+    - Called into question many of the dominant conventions at the time, threatening the society characterized by slavery, disenfranchised women, and class tensions between the wealthy and poor
+- Polis-Religion
+  - Communal religion begins at the birth of a male child, when the Athenian father would introduce the baby to other members of his religious fraternity (the phratry) in an Apatouria festival
+    - Later reintroduced at 18, signaling their acceptance by the phratores
+    - The young Athenian would then serve as an ephebe (hoplite in training), guarding the border of Athens
+    - Upon their return, they would take up their place as soldiers and citizens
+    - Phratry acted as the individual's extended family, and could vouch for their status as citizens
+  - Female coming of age is also very important, but differs from their male counterparts
+    - Male coming of age is equated with his training as a citizen-soldier
+    - Female coming of age is associated with the onset of menstruation, signaling the readiness to bear children
+    - Religious ritual provided the medium by which the girl's social identity was transformed, with recorded evidence at the sanctuary of Brauron
+      - She was closer to her role as wife and mother
+      - "Playing the bear"
+      - The girl was now available for marriage, or, at least, betrothal
+    - Inscriptions from the sanctuary of Artemis on the Akropolis reveal that women continued to make dedications to Artemis at later points in their lives
+      - Major events (childbirth, marriage, etc.) were marked by offerings to the goddess
+      - Leaving behind of the woman's most expensive garments
+      - Concrete way of demonstrating piety and receiving the goddess' favor
+- Purification and Sacrifice
+  - A wide variety of religious practices occurred on a daily basis in the Greek world
+    - Allow us to glimpse how orthopraxy (correct behavior towards the gods) modified all aspects of life
+    - Guides normative conduct and restores peace and harmony to society and the individual
+      - Ex: how does one get rid of a ghost (elasteros) that is haunting their house?
+        - Victim compared to someone guilty of homicide => they faced complete social rejection
+        - Could be a family ghost or a foreign ghost
+    - Sacrifices in rituals
+      - Libations and meat
+      - Clause forbids meat from leaving the sanctuary after the ritual, confirming these sacrifices resulted in a feast
+  - For the Greeks, religion was very much concerned with regulating behavior to ensure a harmonious relationship between humans and the divine
+    - Harmony could be threatened by pollution (bloodshed, oath-breaking, etc.) or by impious actions
+  - Priests responsible for sanctuaries are authorized to safeguard the most humble aspects of their gods' property
+    - Weight of the local deme + the Athenian demos and Boule behind them
+  - Sacrifice
+    - Greek religion always retained a powerful performative component
+    - The most distinctive feature of polis-religion: the ubiquity of sacrifice
+    - Athenians regarded eusebeia (piety) as their most distinctive quality
+      - Required regular affirmation through action
+    - Combination of well-known Olympian deities, minor gods and goddesses, and obscure local heroes
+      - Continuous sacrifices to these figures documented in religious texts
+    - The most fundamental civic duty of an Athenian
+    - Actions are formulaic, repeated, and comforting
+    - Occurred on a sliding scale: from the entire city and the Panathenaia, to demes and phratries, to smaller sacrificial groups
+- Religion and Commerce
+  - Leases involving demes, phratries, and the city of Athens as a whole show that religion cannot be separated from any of the community's activities
+  - Activities from farming to festivals were associated with religious practice
+- Conventional Belief
+  - Universe ruled by a supreme sky god, Zeus, who reigned with Hera
+    - Zeus and his brothers (Poseidon and Hades) had defeated the primordial Titans and Giants
+    - They divided the cosmos between them
+  - Athena sprung from the head of Zeus, representing wisdom and technical skills
+  - Aphrodite incarnated the power of sexual desire
+  - Ares gave a human face to the gruesome bloodlust of battle
+  - This order represented a triumph over chaos
+  - Gods are figures who resemble us and have areas of power that directly intersect with our lives
+  - Knowledge of the gods was transmitted by a rich supply of stories that have become part of our cultural consciousness
+    - Shed light on the Greek conception of the mortal and divine realms, along with how they interact
+    - In these stories, gods are both human and divine, looking and behaving very much like us
+    - Breaking down of barriers between human and divine
+      - If gods could behave badly, then the same could be expected of mortals
+      - If gods were similar to us, they were more approachable and could provide assistance
+  - Opposite of the urge to win the gods' intercession was a fear of their power
+    - Euripides' *Bacchae* has no story of redemption or forgiveness, just a brutal reality of Dionysus' power
+  - Eleusis
+    - The divine was vividly real, but even the most personal religious experience was subject to polis-religion
+    - Eleusis was politically a deme in Attica, but the sanctuary of Demeter was under the control of two local clans: the Eumolpidai and the Kerykes
+    - Importance of the site grows with the enlargement of the sanctuary
+      - Most notably, the Telesterion (Hall of Mysteries), where people were initiated into a cult connected to the cycle of seasons and worship of the Earth Mother
+      - Transformation of a private cult into a state cult, paid for by the collective contributions of the Athenians
+    - Each mystes (initiate) was meant to experience the appearance of the goddess Demeter at the culmination of the ceremony
+      - Participants were purified through fasting and likely under the influence of hallucinogenic drugs
+      - Initiation involved drinking a mixture called kykeon
+      - Priming to witness the epiphany of the goddess' arrival
+      - Offered the prospect of a happy afterlife to the initiates
+    - Closely tied to celebrations of the fertility of the land and the origins of agriculture
+    - Site has strategic significance for Athens, as it bordered Megara, an enemy of the polis
+      - Laid claim to the area which was "responsible" for all civilized life (agriculture)
+    - Athens builds a counterpart to the sanctuary called the City Eleusinion within Athens
+      - Similar to how the sanctuary of Artemis at Brauron was matched by an urban Brauronion on the Akropolis
+      - Connected center and periphery, transforming the entire region into a religious landscape
+    - Athenians sent ephebes to bring sacred objects from Eleusis to Athens as part of a ritual
+      - Marched back to Eleusis, and are verbally abused at a river crossing (gephyrismos)
+      - Were then initiated into the mystery cult
+      - Mass movement of people requiring planning, preparation, and regulation by the state and religious authorities
+    - Another such cult was the Orpheotelestai ("Initiates of Orpheus")
+      - Upon death, offered an incantation that they would use when they woke up in the afterlife
+- Shared Beliefs and Scripture
+  - Religion in the Greek world did speak to the deepest spiritual needs of ordinary people
+  - No belief that their texts were handed down directly from any god as a guide to ethical behavior
+    - Did believe in divine inspiration for their poets
+    - Did not regard any poem as the equivalent of scripture
+  - Homer and Hesiod seen as authoritative, but no one was punished for disagreeing with them
+  - Religion generally characterized by a tendency to find similarity between the gods of different peoples rather than to assert their own gods' superiority
+  - Rare instances of religious persecution in the Greek world
+    - Usually a charge of asebeia (impiety)
+    - Usually aimed at controversial public figures
+    - Trials motivated as much by social anxieties and political upheavals as by religious scruples
+  - Discussions of cosmology are those recorded by a literary elite, not clear that ordinary Greeks shared them
+  - Sacrifice, festival, and procession were the ingredients of religion, together constructing community
+
+- The Oracle of Delphi
+  - Delphi was considered the center of the world
+  - Mystery on how the oracle operated
+    - Ancient sources refer to a chasm through which fumes would have risen, intoxicating Pythia with the god's spirit and uttering his prophecies
+    - Geological evidence may show proof of these gasses, but they wouldn't have created the perfect hexameter poetry that history tells us about
+      - Likely that Apollo's priests played a significant role in shaping the god's communications
+  - Delphi's magnificence is characterized by the treasuries, statues, tripods, and other dedications that made it the wealthiest and most prestigious location in Greece
+  - Temple ravaged by natural calamities
+    - Ex: earthquake of 373 BCE
+    - The Amphiktyony (association of Greek cities that controlled Delphi) would contribute more and more money towards its rebuilding
+  - Political influence and piety intertwined
+    - The Alkmaionidai attempting to curry favor from the oracle to bring about their return from exile
+    - Possessed very little political power of its own, but was the symbolic center of a network of Greek states
+    - Advice given has a powerful effect on the lives of states and inidividuals
+  - The oracle in myth reveals how it operated within the Greeks' belief system
+    - The gods listened and gave signs
+    - Humans still had to interpret their messages, frequently posed as puzzles or enigmas
+    - Offered broad moral guidance, articulating an ethical code that applied to all Greeks, uniting them
+
+
+
+## Reading 11:
 
 - 
 
