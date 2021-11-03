@@ -1310,9 +1310,91 @@
 
 
 
-## Lecture 18: Aspects of Greek Religion
+## Lecture 18: The Art of Persuasion: Healers, Presocratics, Sophists
 
-- 
+- Asklepios
+  - During the 5th century and beyond, Asklepios received a lot of attention from those who were sick
+  - Would go to the Askelpeion for treatment, offering sacrifices and libations in return
+  - Evidence seen in votive tablets
+    - Inscription of Asklepios healing a subject, supported by the goddess Hygieia
+  - A rare instance in which religion was more personal than community-based
+  - "Ambrosia from Athens, blind of one eye. She came as a suppliant to the god. Going around the shrine she mocked some of the cures as incredible and impossible, if the lame and blind could become whole by having a dream. But when she slept in the shrine the god, standing over her, seemed to say that he would cure her, but that he would require her to donate to the temple a silver pig as a memorial of her unbelief. Saying this, he cut open her diseased eye and poured in a drug. When day came she went away cured."
+    - Note the transactional nature of this interaction
+    - The inscription itself is possibly an act of persuasion for readers
+  - Aelios Aristeides (2nd century CE)
+    - His writing attests for the everlasting nature of Asklepios' influence
+  - Early ideas of healing/medical practice
+- Hippokrates of Kos
+  - Considered the founder of ancient medicine
+  - "I swear by Apollo the healer, Asklepios, Hygieia, and Panacia, and I take to witness all the gods, all the goddesses, to keep according to my ability and my judgement the following oath and agreement..."
+  - Tension between thinking of the body in a scientific/materialistic way and the will of the gods
+    - Will ultimately move in the direction of modern medicine
+  - Hippocratics interested in anything that could afflict the body
+    - How to diagnose the cause => relation to Herodotus' studies of the Persian Wars
+  - Medical Science
+    - Four humors: melancholy, phlegmatic, sanguine, choleric
+      - An imbalance of these humors would cause a body to have some infliction
+    - "When this person returns to her right mind, women give to Artemis various offerings, especially the most valuable of women's robes, following the orders of oracles, but they are deceived. The fact is that the disorder is cured when nothing impedes the downward flow of blood."
+- Presocratics
+  - "Mortals believe that gods are begotten and have clothing, voice, and body like their own... But if oxen and horses and lions had hands and so could draw and make works of art like men, horses would draw pictures of gods like horses, and oxen like oxen, and they would make their bodies in accordance with the form they themselves severally possess"
+    - Not necessarily disbelief
+    - Seemingly a rationalization of conventional belief
+  - Monism? Xenophanes
+    - "There is one gods, greatest among gods and human beings, not at all like mortals in form nor yet in mind. All of him sees, all of him thinks, all of him hears"
+  - Thales, Heraclitus, Anaximander
+    - Origins and elements: Water? Fire? Earth? Air?
+      - Early ideas of geology, biology, chemistry, etc.
+    - To apeiron: boundless (Anaximander)
+      - Elements (like the humors) must be in balance to be in harmony, achieving "to apeiron"
+    - Humans as Fish (Thales)
+      - Hypothesis that biology emerged when the sun had dried off enough moisture
+      - Humans would therefore be a form of fish
+    - Atoma (Democritus)
+      - We can reduce material until we reach a point where it is impossible => hypothesized as the atom by
+      - Atoma => the uncuttable
+    - "You cannot step into the same river twice" (Heraclitus)
+      - What is the relationship between dynamic and static objects?
+    - Logos: "word, order, meaning" (Thales)
+  - Rationalizing Belief?
+    - "... when the laws prevented men from open deeds of violence, but they continued to commit them in secret, I believe that a man of shrewd and subtle mind invented for humans the fear of the gods, so that there might be something to frighten the wicked even if they acted, spoke, or thought in secret... So, I think, did someone persuade people to believe that there exists a race of gods"
+- Sophists
+  - Sophos => "wise"
+  - Sophistes => "a wise man" => "wise guy"
+    - Acquires a more negative connotation as time passes
+    - "An expert is a fast-talking guy from out of town"
+  - Associated with a challenging of conventional thinking
+  - Sophistry, sophistic => tactics that sound good, but don't submit well to rationalization
+  - Two important facts about Sophists
+    - Not part of one philosophical "school"
+    - Took a fee for their services
+      - Public displays of their expertise, "higher education"
+  - "Useful Majors"?
+    - Pupils willing to pay high fees because sophists' "courses" were considered pathways to success
+      - Assembly and law courts => persuasiveness
+    - Linguistics, rhetoric, geometry, music theory, and eristics
+      - Eristics (debate): "Black is white, 1 + 1 = 3, the sun is actually the moon, the weaker argument is the stronger", etc.
+    - Protagoras (490 - 420 BCE) => "Man is the measure of all things"
+    - "As to the gods, I do not know whether they exist or not."
+  - Sophists were important in part because there were no lawyers
+    - Litigants brought their own cases and represented themselves
+    - Might have delivered speech written by a logographos
+      - People also wrote their own and delivered them
+    - Content and oratorical ability might be shaped by a sophist
+  - Smart != Wise
+    - "Your tongue is fluent and you sound so smart, but there is no true wisdom in your words."
+    - Does knowledge mean deep understanding?
+      - What even is knowledge?
+  - What is logos?
+    - "Logos is a great ruler (dynastes), who with the smallest and least visible body accomplishes divine works: for logos is able (dunatai) to stop fear, remove pain, create joy..." - Gorgias
+    - Logos as unmoored from the truth?
+      - People don't follow reason, they follow belief
+  - Aristotle on Rhetoric and Truth
+    - Originally, Aristotle says that rhetoric is about persuasion (peitho) instead of truth, meaning rhetoric is about knowing what an audience believes
+    - Rhetoric is concerned with persuasion through general beliefs (koina) and beliefs already widely accept (endoxa)
+      - Similar to Gorgias' statements
+    - But Aristotle goes on to say humans have a natural disposition for the truth, therefore aiming for commonly held beliefs *is* aiming at the truth
+      - Different to Gorgias' statements
+      - Optimism that people generally know what is true
 
 
 
