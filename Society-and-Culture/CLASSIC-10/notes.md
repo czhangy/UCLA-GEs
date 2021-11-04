@@ -1602,9 +1602,52 @@
 
 
 
-## Discussion 7:
+## Discussion 7: *Bacchae*
 
-- 
+- What is obvious?
+  - Undermining the gods doesn't end well
+  - Established themes of family hierarchy
+- What is ambiguous?
+  - Where does the blame lie? With Dionysus? With Pentheus?
+  - Was Pentheus' curiosity the cause for his downfall or was it fate?
+    - What caused this curiosity in the first place?
+  - Taking into consideration his origin story, is Dionysus actually different from other gods?
+  - Why was Cadmus punished?
+    - As a result of his status as the head of the patrilinear household?
+
+- Introduction
+  - Introductory speeches deal with arrival
+    - Revealing themselves to the audience
+  - A lot of mention of geography
+  - Noting of Eastern origins, moving west
+    - Mirrors Greek culture moving from east to west
+    - Anti-Greek, but Greek-like
+- Story
+  - Same city as *Antigone*, but earlier
+    - Greek poets recycled different phases of stories => the "Theban cycle"
+  - Pentheus and Dionysus are both trying to establish power over the people of Thebes
+    - Feeling of instability in the rule of Thebes
+    - Compare to Creon
+      - Both act to enforce social order, but are met with divine interference
+      - An inward threat (within the family tree) vs. an outward threat (foreign cult)
+      - Creon is fighting an individual, not a society
+  - Connection to sophism?
+    - Dionysus vs. Pentheus in speech
+    - Does Dionysus have to persuade Pentheus?
+      - Unnatural change of opinion, lack of gradual persuasion, too abrupt of a shift
+      - Was Pentheus really defeated by argumentation?
+  - Repetition of mortals seeing what they shouldn't
+    - Actaeon, Semele, and Pentheus => all end up dead
+    - Failure to respect the divine
+- Chorus
+  - Chorus vs. Antigone
+    - The chorus claims that death teaches a lesson about restraint
+      - The people who actually learned the lesson can't do anything about it
+      - What are we restraining ourselves from?
+        - Overcuriousity?
+        - Is persuasion bad?
+    - The chorus as a collective version of Antigone
+  - Law vs. morality
 
 
 
