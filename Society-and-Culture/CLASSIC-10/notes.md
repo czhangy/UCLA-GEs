@@ -1398,9 +1398,46 @@
 
 
 
-## Lecture 19: The Peloponnesian War as Tragedy
+## Lecture 19: The Peloponnesian War
 
-- 
+- The Peloponnesian War (431 - 404 BCE)
+  - Delian League (Athens and its allies) vs. Peloponnesian League (Sparta and its allies)
+  - Source for the war: Thucydides' *History*
+  - Ends in Athenian defeat by Sparta
+    - Rule of the Spartan Oligarchs at Athens
+- Thucydides (c. 460 - 400) and the *History*
+  - Sober, cold, rational work contrasts with the cosmopolitan nature of Herodotus
+  - Calls the war a kinesis (movement, disturbance of energy, etc.)
+  - Refers to **to anthropinon** (the human thing)
+    - Continuation of Herodotus and "the workings of humans"
+  - Will not find **to mythodes** (the mythical/story-like/delightful thing)
+    - Advancement of historical writing
+    - Writing is often brutal and grievous
+  - Proem to *History of the Peloponnesian War*
+    - Thucydides, an Athenian, recorded the war between the Peloponnesians and the Athenians, writing how they waged it against each other and beginning his work as soon as the war broke out in expectation that it would be  a major one and notable beyond all previous wars, basing this assumption on the fact that both sides came to it flourishing in overall preparedness and on seeing that the rest of the Hellenes were aligning themselves with one or the other, some immediate and others at least intending to. This was certainly the greatest disturbance...
+    - Claim that this war is the most importance event ever written about
+  - Method and Style
+    - Truth and accuracy => "... the search for truth strains the patience of most people, who would rather believe the first things that come to hand."
+    - Autopsy scrutinized => "And as for the real action of the war, I did not think it right to set down either what I head from people I happened to meet or what I merely believed to be true. Even for the events at which I was present myself, I tracked down detailed information from other sources as far as I could."
+    - Speeches => "I have made each speaker say what I thought the situation demanded, keeping as near as possible to the general sense of what was actually said."
+  - The professed legacy of the *History*
+    - "This history may not be the most delightful to hear, since there is no mythology in it. But those who want to look into the truth of what was done in the past - which, given the human condition, will recur in the future, either in the same fashion or nearly so - those readers will find this *History* valuable enough..."
+  - On the causes of the war
+    - "The truest cause [**prophasis**], but least publicized, I consider to be the fact that the Athenians becoming great and alarming the Spartans, forced them into war"
+      - Prophasis => truest cause/pretext, oxymoronic
+    - During the Greco-Persian War, the Spartans had developed a great land force, while the Athenians had developed a great naval force
+    - Spartans claimed land from Attica, but often had to retreat to fight the helots at home
+      - Pericles has walls constructed around the city, bringing people from Attica into the city itself
+- The Funeral Oration of Pericles
+  - "As a didactic speech, the funeral oration does not so much console as explain and exalt"
+- The Plague at Athens
+  - "No one could remember a disease that was so great or so destructive of human life breaking out anywhere before. Doctors, not knowing what to do, were unable to cope with it at first, and no other human knowledge was any use either... Prayers in temples, questions to oracles - all practices of that kind turned out tot be useless also, and in the end people fave them up, defeated by the evil of the disease"
+    - Actually stopped belief in the divine
+  - Nomoi (customs) and Phusis (nature)
+  - Reinforcement of his own methods
+    - "Now, let each man, doctor or layman, speak about it according to his understanding, what its origin is likely to have been and whatever causes of so great a change he thinks are sufficiently powerful to bring about disturbance. I will say what it was like in its course and describe here..."
+  -  Visible and Invisible?
+  - Nature and Beyond Nature
 
 
 
