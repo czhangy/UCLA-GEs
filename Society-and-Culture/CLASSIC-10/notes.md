@@ -1441,9 +1441,103 @@
 
 
 
-## Lecture 20: Pericles’ Funeral Oration
+## Lecture 20: The Peloponnesian War II
 
-- 
+- Trgaic Patterning?
+
+  - Melian Dialogue: Athens threatens and invades the neutral place of Melos
+  - etc.
+
+- Peripeteia ("reversal")
+
+  - "Reversal is a change of the opposite direction of events... in accord, as we insist, with probability or necessity"
+
+- The Melian Dialogue (416 BCE)
+
+  - Melos didn't firmly ally itself with either Athens or Sparta
+  - Why did Athens find interest in subduing this neutral territory?
+    - Accruing more power, glory, etc.?
+  - Athens launches ships to Melos, demanding their surrender
+    - Text shows a dialogue between Athens and Melos, showing why Melos refuses to surrender
+    - Men are slaughtered, women and children are enslaved
+  - Told in dramatic form, without narration, presenting only the speakers as through actors on a stage
+  - Form of dialogue reminds us of tragedy, and the tense back-and-forth exchanges between central characters such as those between Antigone and Creon (stichomythia)
+  - There is also a correspondence between the moral starkness of the dialogue's content and the radically pared-down form
+  - Thucydides the narrator disappears, heightening the intensity of the exchange by isolating the 2 groups in a debate over life or death
+  - Likely a scenario in which Thucydides tries to capture the "gist" of exchange
+  - Example:
+    - Athenians: "We would like to rule over you without trouble, and preserve you for our mutual advantage"
+    - Melians: "But how could it be as much to our advantage to serve, as it is yours to rule?"
+  - Realpolitik
+    - Political realism, shorn of any appeals to ethics, loyalties, etc.
+    - Emphasis on political "realism" or pragmatism rather than justice or moral principles
+    - "in the human sphere judgements about justice are relevant only between those with an equal power to enforce it"
+  - Athenian Advantage
+    - "Nature always compels gods (we believe) and men (we are certain) to rule over anyone they can control. We did not make this law and we were not the first to follow it; but we will take it as we found it and leave it to posterity forever, because we know that you would do the same if you had our power"
+      - Accuracy? => Thucydides does not present a flattering portrait of Athens
+      - Utility? => Dangers of empire
+
+- The Sicilian Expedition (415 - 413 BCE)
+
+  - Greatest example of Athens' overreach
+
+    - Would eventually doom Athens to fail throughout the rest of the war
+
+  - Largest military action in Athenian history at the time
+
+  - Athenian desire to move on Sicily for riches and expansion of empire
+
+  - Nicias vs. Alcibiades: should we fight or not?
+
+    - Nicias
+      - Emphasizes that the Athenians have enemies both in the mainland and in Sicily => 2 wars at the same time
+      - Claims that Alcibiades can profit off of the expedition
+    - Alcibiades
+      - More charismatic, convinces the Athenian demos
+
+  - The Mutilation of the Herms
+
+    - Herms often mark space as sacred or belonging to the city
+      - Good luck, safe passage, protection, etc.
+      - Representation of male power with a sense of anonymity and ubiquity
+    - Heads of herms chopped off one night => terrible omen for the people of Athens
+
+    - Alcibiades exiled for this act, but the expedition is still passed
+      - People in charge of the expedition are now in charge of it
+
+  - Hope and Desire
+
+    - "The difficulty of equipping the expedition did not wipe out the Athenians' desire to make it; rather, it inflamed them all the more... Now everyone alike fell in love with the enterprise: old men hoped to subdue the place they went to... The young men were longing to see and study a far-off country and were confident they would be brought back safely... The result of this vehement desire of the majority was that anyone who did not favor the expedition kept quiet out of fear that if he held up his hand in opposition he would be thought to harbor ill will against the city"
+    - Highlighting of the dangers of groupthink
+
+  -  The Superlative Spectacle of War
+
+    - Disproportionate amount of power for the issue at hand
+    - Not so much an army being directed against its enemies, but a display of power and wealth
+    - Reminiscent of Herodotus' depiction of the Persians
+
+  - Ends with disaster
+
+    - Athenian's refused to believe the totality of their defeat
+    - Disjoint anger at the orators who promoted the expedition
+
+  - No attempt from Thucydides to portray the event in any sort of patriotic way
+
+    - "the most glorious victory fro the winners, and the worst calamity for the losers"
+
+- Four Statements about Thucydides' Account
+
+  - Accuracy is not the same as the representation of accuracy
+    - Speeches could be considered accurate by ancient audiences, even if we might think otherwise
+  - No telling "romanticized" stories and presenting an "unpleasant" work does not mean excluding stories of strong emotion, especially those that convey the greatness of Athenian failure in the war
+    - Accounts of emotion relate to representations in Greek tragedy
+  - Certain notions of objectivity (such as presenting opposed speeches) differ from modern-day notions of objectivity (accuracy of numbers, fact-checking, etc.)
+  - Thucydides can issue universalizing statements about power (as in the Melian Dialogue) and then show them working out (or failing to work out) within his work, making good on his promise of writing a useful text: readers can "apply" his text to the text
+
+- Dionysius of Halicarnassus (1st century BCE) on Thucydides
+
+  - "Thucydides writes a single war, one that is neither noble nor fortunate: indeed, a war which ought not to have occurred, and, short of that, one that ought to have been committed to silence and oblivion and ignored by successive generations"
+  - How to think of your own history as a subordinate of another power?
 
 
 
