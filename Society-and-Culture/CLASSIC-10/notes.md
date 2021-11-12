@@ -3428,7 +3428,155 @@
 
 
 
-## Reading 11:
+## Reading 11: The Peloponnesian War
+
+- Warfare and the Greeks
+  - Growth of Athenian power made possible by the unexpected victory of the Persian Wars
+    - Period of growth comes to an end as a result of a protracted, disastrous war between the Athenians and Spartans, the Peloponnesian War (431 - 404 BCE)
+
+  - One of many causes of the war was the changing nature of warfare itself
+    - Undeniably a recurring, ubiquitous feature of Greek life, but conducted under certain rules
+      - Campaigning was seasonal, from April to September
+      - Fighting consisted of skirmishing, where the land of the enemy was pillaged and raided
+      - Group fighting was rare and when it did happen, fighting occurred until one side broke and retreated, leaving the winners to strip the dead
+        - Rarely did mass slaughter occur, leaving casualties relatively low
+
+      - Waged by armies levied by the aristocratic leaders of the state
+        - Promised land and treasure as incentives for their followers
+        - Armies weren't necessarily state armies
+
+      - Most wars resulted as escalations of border disputes, even international ones
+
+  - The Hoplite Revolution
+    - In the 6th century BCE, the one-on-one battles from Homeric times were giving way to hoplite engagements
+      - Hoplites were soldiers armed head to foot in bronze and iron, named after the hoplon (shield) they carried
+      - Fought in a massed formation: the phalanx, which gradually evolved to be the preferred formation for infantry warfare
+
+    - Encouraged an egalitarian ethos and a sense of dependence on other men of similar status
+    - Tactical innovations may be exaggerated, as they may have been more of an evolution of preexisting strategies
+    - Possibly the largest impact of hoplite warfare was its effects on democracy
+      - Difference between 800 BCE Greece and 500 BCE Greece was that the scattered, varied, aristocratically ruled communities had become states/political entities where people recognized affiliations that transcended family and clan
+      - New armies fighting side by side, yet unrelated by blood contributes to the solidification of a group identity
+      - People became invested in their states
+      - Right to participate in orderly decision-making was a condition of their military service
+        - Hoplites made citizens
+
+  - In the 5th century, warfare continued to evolve
+    - Athens used war as an extension of policy and a means to assert Athenian hegemony
+    - More public money was spent on military campaigns than all other activities combined
+  - Athenian Bellicosity
+    - Thucydides characterizes Athenians as restlessly energetic and recklessly daring
+    - Recent studies show that states transitioning to democracy start wars more often than established democracies or authoritarian governments
+      - Also show that democracies tend to win wars and avoid fighting one another
+      - Paint picture of an Athenian democracy whose increased confidence led them to have an increased inclination to wage war
+
+    - Kleisthenic reforms fashioned Athens into a state that was prepared to muster and deploy large numbers of men for military engagement
+    - Athenians tolerated surprisingly high casualty rates
+    - The Persian Wars realigned the Athenian military force to focus on their naval power
+      - Builds on an reinforces democracy
+      - Shift effectively represents the favoring of a more democratic form of warfare
+      - The egalitarianism of the middle-class hoplite phalanx in competition with the lower-class brotherhood of the trireme
+
+  - Athenian Expansion, Spartan Resistance
+    - By the late 430s BCE, the aggressive navy was projecting Athenian power across the Aegean
+      - Relentless growth paired with forced exaction of tribute and ruthless suppression of rebellion scared and alienated many of the island states
+      - Contributes to a land-based coalition of states in the Peloponnese to counter the Athenian force
+
+    - Two sides were opposites
+      - Spartans were Dorian, speaking a distinctively different Greek from the Ionian Greek of the Athenians
+      - Spartans exercised hegemony over land, relying on their Spartiate warriors, while the Athenians projected power overseas
+      - Spartans restricted full citizenship to the Spartiate elite, while Athenians extended their democracy in the Assembly
+      - Spartans showed no interest in enlarging their territory beyond Lakonia and Messenia, while Athenians seized territory abroad
+      - Spartans shunned coinage, while Athenians embraced it
+
+- The Cause of War
+  - War documented by Thucydides, who was exiled from Athens
+    - Realist with little time for the divine interventions and narrative flourishes that characterized Herodotus
+    - Analysis often depicts a bleak assessment of human nature and political power
+    - Claims "The truest cause, although never openly stated, was, in my opinion, this: the Athenians, by becoming powerful and inspiring fear in the Spartans, forced them into war"
+
+  - The Epidamnos Affair
+    - Civil war breaks out in 435 BCE at Epidamnos between oligarchs and democrats
+      - Oligarchs turned to Corcyra and democrats turned to Corinth
+
+    - Corcyraeans defeat a Corinthian fleet, forcing the Epidamnians to surrender
+      - Non-Corinthian prisoners slaughtered
+    - Corinthians respond by assembling a fleet, which causes the Corcyraeans to contact Athens for help
+      - Athenian assistance comes in the Battle of Sybota in 433 BCE, but the battle was inconclusive
+
+    - Athenian intervention drawn by prospect of an alliance with one of the largest Greek navies, not altruism
+    - Athenian involvement ominous for the Corinthians
+      - Represents an unwelcome intrusion into the Corinthian sphere of influence
+      - Regarded as a provocation in which Athens' strategic plans collided with Corinthian regional interests
+
+  - The Siege of Potidaia and the Megarian Decree
+    - Athenian relations with Corinth disintegrated
+    - Athenians singled out the city of Potidaia, an Athenian ally and colony of Corinth that maintained strong relations with its mother city
+      - Ordered the city to tear down its walls and send hostages to Athens
+      - Potidaians revolted, causing Athens to begin to siege the city
+      - Backup came to support the city from Corinth and the Peloponnese, although a promised Spartan invasion of Attica never happened
+
+    - Potidaians eventually surrendered due to starvation, but not before war was officially declared between Athens and Sparta
+      - Formal declaration results from a border dispute between Megara and Eleusis
+      - Athens imposes a trade embargo on Megara, known as the Megarian Decree
+        - Spartans send embassies to Athens to say war could be averted if the embargo was lifted, which Perikles convinced the demos to decline
+
+      -  Raises question of why did this small encroachment precipitate an economic war?
+
+    - Series of localized conflicts quickly engulfed the entirety of the Aegean, drawing the powers of the region into opposition
+
+- The Archidamian War
+  - To begin the war, Perikles instructs Athens to remain on the defensive, relying on the city's walls to keep them safe
+    - The fleet would be used to supply the city
+    - No more campaigns would be undertaken
+
+  - Perikles would die in 430 BCE to the plague that decimated Athens, changing the course of action
+  - Athens in Crisis
+    - Perikles' characterization of the mood of Athens pre-plague in the Funeral Oration followed by Thucydides' description of the plague
+      - Shining city on a hill brought back down to earth
+      - Plague likely some form of typhoid
+      - Physical damage of the plague not as bad as the social breakdown it caused
+
+    - Funeral Oration as a eulogy of the Athens that died with Perikles
+    - City turns to Kleon, who offers a more aggressive strategy
+      - Marks a new level of bellicosity and transformation of the Athenians
+
+    - Athenians caught up with surviving the annual Spartan invasions of their territory and constant rebellions in the Delian League
+      - Despite these concerns, Athens still managed to campaign in a variety of theaters of war, securing territory in strategic positions
+
+    - Focus on NW Greece, weakening Corinth's presence there
+      - Pressured Corinthian trade routes
+      - Established military presence on Corinthian borders
+
+    - Athenians found themselves operating on many fronts at the same time
+      - Led to high scrutiny in the aftermath of campaigns
+
+- Kleon and the Sphakteria Campaign
+  - Athenian general Demosthenes pulled into Pylos and established a base for Athenian forces in the western Peloponnese
+    - Spartans end up dispatching a force to dislodge them from this position, but end up stranded on Sphakteria
+    - Spartans sue for peace, but the Athenians refuse, blockading the soldiers in while Sparta attempted to protect them
+    - Siege drags on and Kleon begins getting blamed for killing the peace talks
+    - Kleon takes command of the siege and captures the soldiers, causing desperation in Sparta
+
+  - Demonstration that the Athenian control of the sea allows them to project their power to the far side of the Peloponnese
+  - Sparta rebounds, sending a commander named Brasidas to begin a systematic assault on the Athenian holdings in Thrace
+    - Success allowed Spartans to negotiate a one-year truce
+      - Athenians hoped the delay would stop allied states from defecting
+      - Spartans hoped the pause would given time for Athens to consider a longer peace treaty
+
+    - Peace ends, and in the ensuing battle over Amphipolis, Brasidas and Kleon are both killed
+      - Death of the two men most opposed to peace
+
+  - In 421 BCE, the two sides sign a 50 year treaty, known as the Peace of Nikias
+    - Terms include the return of contested territories
+      - Spartans refused to give up Amphipolis and the Athenians refuse to give up Pylos
+
+    - Athenians form an alliance with 3 anti-Sparta Peloponnesian states (Argos, Mantineia, and Elis), but the alliance is defeated in 418 BCE
+
+
+
+
+## Reading 12:
 
 - 
 
