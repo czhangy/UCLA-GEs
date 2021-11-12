@@ -3488,7 +3488,6 @@
       - Spartans restricted full citizenship to the Spartiate elite, while Athenians extended their democracy in the Assembly
       - Spartans showed no interest in enlarging their territory beyond Lakonia and Messenia, while Athenians seized territory abroad
       - Spartans shunned coinage, while Athenians embraced it
-
 - The Cause of War
   - War documented by Thucydides, who was exiled from Athens
     - Realist with little time for the divine interventions and narrative flourishes that characterized Herodotus
@@ -3524,7 +3523,6 @@
       -  Raises question of why did this small encroachment precipitate an economic war?
 
     - Series of localized conflicts quickly engulfed the entirety of the Aegean, drawing the powers of the region into opposition
-
 - The Archidamian War
   - To begin the war, Perikles instructs Athens to remain on the defensive, relying on the city's walls to keep them safe
     - The fleet would be used to supply the city
@@ -3550,28 +3548,86 @@
 
     - Athenians found themselves operating on many fronts at the same time
       - Led to high scrutiny in the aftermath of campaigns
-
 - Kleon and the Sphakteria Campaign
   - Athenian general Demosthenes pulled into Pylos and established a base for Athenian forces in the western Peloponnese
     - Spartans end up dispatching a force to dislodge them from this position, but end up stranded on Sphakteria
     - Spartans sue for peace, but the Athenians refuse, blockading the soldiers in while Sparta attempted to protect them
     - Siege drags on and Kleon begins getting blamed for killing the peace talks
     - Kleon takes command of the siege and captures the soldiers, causing desperation in Sparta
-
   - Demonstration that the Athenian control of the sea allows them to project their power to the far side of the Peloponnese
   - Sparta rebounds, sending a commander named Brasidas to begin a systematic assault on the Athenian holdings in Thrace
     - Success allowed Spartans to negotiate a one-year truce
       - Athenians hoped the delay would stop allied states from defecting
       - Spartans hoped the pause would given time for Athens to consider a longer peace treaty
-
+  
     - Peace ends, and in the ensuing battle over Amphipolis, Brasidas and Kleon are both killed
       - Death of the two men most opposed to peace
-
   - In 421 BCE, the two sides sign a 50 year treaty, known as the Peace of Nikias
     - Terms include the return of contested territories
       - Spartans refused to give up Amphipolis and the Athenians refuse to give up Pylos
-
     - Athenians form an alliance with 3 anti-Sparta Peloponnesian states (Argos, Mantineia, and Elis), but the alliance is defeated in 418 BCE
+  - Melos
+    - Island in the SW segment of the Cycladic Islands, colonized by Sparta
+    - Resisted incorporation by Athens and remained neutral until 416 BCE
+    - Athenians invade and lay siege to the city, offering no moral/ethical justification for their actions
+      - Thucydides' view that equality is not a natural right, power determines how states deal with one another
+      - Discussion of political reality in the dialogue => Melian Dialogue contrasts with the bloody outcome of the execution of all men and the enslavement of women and children after Melos' surrender
+    - Example of the understanding of international relations as purely an exercise in the application of power => Realpolitik
+      - Comparison of the Athenian empire with a tyranny
+      - Possibly a common sentiment among the Athenians
+    - Thucydides using his account of events to illustrate underlying truths regarding warfare
+      - Belief that war reveals the brutality lurking behind the veneer of civilization
+- The Sicilian Expedition
+  - Sicily is generally regarded as a wealthy island, with many cities being Corinthian colonies
+  - Envoys from Segesta come to Athens to persuade them to help fight against neighboring Selinous
+    - Athenians easily persuaded, convinced that there was great wealth on the island
+    - Combination of venal motives, deception, ambition, and miscalculation
+  - Nikias argued against the expedition
+  - Alkibiades argued for the expedition
+    - Managed to gain the favor of the Assembly
+    - Countered by Nikias exaggerating the cost of the expedition in an effort to dissuade them, but this just results in a massive invasion force being okayed
+  - Before departing, the herms in Athens were mutilated
+    - Alkibiades would be implicated, resulting in his defection to Sparta
+  - Sicilian cities failed to open their ports and Segesta had significantly less wealth than expected, leading to a campaign with no clear goal
+    - Far from home, with uncertain supplies, and commanded by a general who opposed the campaign
+    - Compared to the Syracusans who were well supplied, knew the land, had confidence, and superior cavalry
+  - Syracusans would eventually receive support from Sparta
+    - Nikias attempts to resign, but Athens instead sends more of their military force at the campaign
+  - In the meantime, Sparta would invade Attica, setting up a fort at Dekelea
+    - Disrupted the transportation of grain from NW Attica to Athens
+    - Forced the Athenians to give up some of their own territory
+    - Long term effects, but at the time, the Athenians were preoccupied with developments in Sicily
+  - Athenian forces at Sicily were growing increasingly desperate
+    - Demosthenes arrives with a relief force, leading to the Night Battle, where the Athenians routed the opposition in an attack on Epipolai
+  - Disagreements between Nikias and Demosthenes delay the Athenians, giving time for the Syracusans to gather their allies
+    - Emboldened, they attack the Athenian ships in the harbor
+    - Athenians are broken, and attempted to escape by land until their surrender
+    - Nikias and Demosthenes are executed, while surviving troops were imprisoned and non-Athenians sold into slavery
+- The Dekelean War
+  - After the end of the Sicilian expedition, Athens struggled on in the war over the next seven years
+  - Spartans continued harassment from the fort at Dekelea, forcing Athens to bring all of its grain in by sea
+    - Issues compounded by the Spartan's newfound focus on Athens' naval power in the Aegean, sending fleets to the Hellespont to interfere
+  - Persian king Darius II Ochos ascends to the throne, and is angered by Athens, resulting in a treaty with Sparta, where Sparta would serve as an instrument of Persian policy in exchange for Persian gold
+  - Democracy under Threat
+    - Oligarchic coup takes place in Athens itself
+      - Evoked the council and four tribes that existed prior to the Kleisthenic reforms
+      - Able to gain power by the climate of uncertainty in Athens
+      - Hope that an oligarchic power could gain the support of the Persian king and defeat Sparta
+      - Dealt with dissent through thuggery and assassination
+    - The Four Hundred would end its reign due to activity on Samos
+      - Athenian fleet and army would become embroiled in a civil war between oligarchs and democrats on the island
+      - These Athenians vowed to support the democracy in both Athens and Samos, rejecting communication with the Four Hundred
+        - Recalled Alkibiades, who stoked the democrats' hopes by saying he would bring the Persians onto their side in support
+      - Spartans sailed to Euboia, where they dispatched a fleet of Athenians, resulting in the Four Hundred being deposed at home and a constitution of the 5000 to be drawn up
+        - 5000 limited to those in the hoplite class
+    - Arrangement didn't last long, and full democracy was soon restored
+      - Precipitated by the victory of the Athenian fleet in 410 BCE at the Battle of Kyzikos => Athenian dominance in the Hellespont
+      - Spartans sue for peace as a result of the battle, but the Athenians rejected
+        - Athenians had internalized the view that victory in the Persian Wars entitled them to supremacy over the Greek world, as their empire was built up generation by generation
+        - After 2 generations of power and coercion, the Athenians may have been scared to be on the other side
+      - Athenians reasserted their control of the Hellespont, until a rash engagement forced Alkibiades into exile once again
+  - Spartans would realize that the key to defeating Athens was to control the Hellespont and starve them out
+    - Athenian response was defeated, resulting in the greatest upheaval to afflict the Greek world, the defeat of Athens
 
 
 
