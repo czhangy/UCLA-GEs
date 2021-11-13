@@ -1495,7 +1495,7 @@
     - Alcibiades
       - More charismatic, convinces the Athenian demos
 
-  - The Mutilation of the Herms
+  - eThe Mutilation of the Herms
 
     - Herms often mark space as sacred or belonging to the city
       - Good luck, safe passage, protection, etc.
@@ -1673,7 +1673,7 @@
     - Transcripts, textual evidence, etc.
 - Herodotus
   - Insertion of fiction to prove allegorical points
-  - Use of dialogue, novel-like narrative
+  - Use of dialogue, novel-like narrae
   - Mixture of the supernatural with reality
     - Dreams, prophecies, etc.
     - Supernatural taken as evidence
