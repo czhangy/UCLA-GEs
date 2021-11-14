@@ -1541,9 +1541,68 @@
 
 
 
-## Lecture 21: Defying Pericles: Women in Athens
+## Lecture 21: Women in Ancient Athens I
 
-- 
+- Topics
+  - Marriage
+  - Domestic labor
+  - Memorialization for the deceased
+  - Beliefs about women's bodies
+  - The physics and sociality of the domestic sphere
+  - Prostitution
+  - The figure of Aspasia
+- Thucydides on Pericles' view of women
+  - "If I also must say something about a wife's virtue to those of you who will now be widows, I will state it in a brief exhortation. Your reputation is glorious if you do not prove inferior to your own nature, if there is the least possible talk about you among men, whether in praise or blame."
+    - The best thing for women is to not be talked about
+- Medea's Great Speech from *Medea* by Euripides
+  - "Of all creatures that have breath and sensation, we women are the most unfortunate. When a woman comes into the new customs and practices of her husband's house, she must somehow divine, since she has not learned it at home, how she shall best deal with her husband. If after we have spent great efforts on these tasks out husbands live with us without resenting the marriage-yolk, our life is enviable. Otherwise, death is preferable. A man, whenever he is annoyed with the company of those in the house, goes elsewhere and thus rids his soul of boredom. But we must fix our gaze on one person only. Men say that we live a life free from danger at home while they fight with the spear. How wrong they are! I would rather stand three times with a shield in battle than give birth once."
+    - Reinforcement of the male perspective on women vs. a setting that women could empathize with
+- Engye: "marriage", both the betrothal and a contract
+  - "I give her to you for the cultivation of legitimate children"
+- Adultery and Divorce: Some Facts
+  - Woman was considered passive in cases of adultery: i.e. husband of a woman who had be sexually assaulted or who had committed adultery was legally obliged to divorce her
+  - A woman condemned of adultery could not participate in public ceremonies, wear jewelry, and was unlikely to remarry
+  - Penalty for sexual assault of a woman was less severe (a fine) than the penalty for seduction, which implied a relationship over time
+  - Dowry had to be returned upon divorce to the wife's father or legal guardian
+  - Interest on dowry if full repayment not possible
+- Grave Stele of Pausimache
+  - "It is fated all who live must die; and you, Pausimache, left behind piteous grief as a possession for your ancestors, your mother Phianippe and your father Pausinias. Here stands a memorial of your goodness (arete) and good sense (sophrosune) for passerby to see."
+- Male Anxieties about Women's Bodies
+  - "... in men, the nature of the genital organ is disobedient and willful, like an animal that is amenable to reason, and spurred on by its desires, it tries to dominate everything. And again in a woman, for the same reasons, the matrix of what is called the womb is a creature (zoon) within her that desires the procreation of children. Whenever it remains unfruitful long past the right time, it becomes irritated. Wandering all directions through the body and stopping up the airways, it interferes with breathing, causing extreme distress al sorts of other illnesses until and desire and love unite the two sexes"
+  - Marriage as a way of regulating female wontedness
+- Hipp. Treatise "On Diseases of Women"
+  - "These diseases are dangerous... and for the most part they are both acute and serious, and difficult to understand because of the fact that women are the ones who share these sicknesses... Sometimes diseases become incurable for women who do not learn why they are sick before the doctor has been correctly taught by the sick woman why she is sick. For women are ashamed to tell even if they know, and the suppose that it is a disgrace, because of their inexperience and lack of knowledge. At the same time the doctors also make mistakes by not learning the apparent cause through accurate questioning."
+- Education?
+  - Vase paintings of women holding book rolls
+    - More typical depictions of women show them operating in the domestic sphere
+  - Lack of other evidence that women were indeed educated
+    - If they were, it was likely on the behest of their husbands
+- Lysias (4th century BCE), third speech
+  - "He came there at night in a drunken state, broke down the doors, and entered te women's rooms: within were my sisters and nieces, whose lives were so well-ordered that they are ashamed to be seen even by their relatives."
+
+- Available "Professions"?
+  - Hetaira ("professional companion")
+    - Could make their own money
+    - Could be companions to married men
+    - Not necessarily just sex companions, were often educated enough to play music or engage in philosophical conversations with men
+    - Often foreign, not Athenian
+    - Plenty of images of hetaira engaging in symposia
+  - Porne ("prostitute")
+    - Lesser class, at the thete level
+    - Not thought of highly by men
+  - Wet nurses, weavers, grape-pickers
+    - After the Peloponnesian War, there was great poverty in Athens, resulting in a need for the women of households to contribute to the economy
+  - Garland-maker
+  - Demosthenes
+    - "We have courtesans for pleasure, concubines for the daily service of our bodies, and wives for the production of legitimate offspring."
+- Aspasia, concubine and common-law wife (pallake) of Perikles
+  - As a foreigner, she didn't fit into Perikles' citizenship law and therefore, they couldn't officially marry
+  - "This may be a fitting place to raise the query what great art or power this woman had, that she managed as she pleased the foremost men of the state, and afforded the philosophers occasion to discuss her in exalted terms and at great length... Aspasia, as some say, was held in high favor by Pericles because of her rare political wisdom. Socrates sometimes came to see her with his disciples, and his intimate friends brought their wives to hear her discourse, although she presided over a business that was anything but honest or even reputable since she kept a house of young courtesans."
+    - Tension between an image of a powerful and influential woman and the demoralization of her profession
+
+- Interpreting Ancient Prostitution
+  - "Often highly educated, it was their business to take part in all men's interests; they were their own mistresses"
+  - "So you brought up women and set them in various places to be used in common... One obol and in you jump. No prudery, no nonsense, no rejection. You get laid right away... and in any manner you wish. Once you've finished, you tell her to go to hellm she's a stranger to you now."
 
 
 
