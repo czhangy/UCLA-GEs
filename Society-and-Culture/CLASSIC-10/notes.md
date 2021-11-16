@@ -1606,9 +1606,99 @@
 
 
 
-## Lecture 22: Introducing Socrates
+## Lecture 22: Who's/Whose Socrates
 
-- 
+- What kind of role does Socrates create for himself within his society?
+- 2 occurrences: Aristophanes' *Clouds* and Plato's *Apology*
+- The Usual Source
+  - "It's said that Socrates dreamt he saw a young swan on its knees, which at that moment spread its wings and, crying out sweetly, flew away. The next day Plato was introduced to Socrates, who said that this was the swan from his dream"
+    - Example of animal imagery associated with Socrates
+    - Special charisma/personality that was so potent at getting people's attention
+      - How does Socrates use this charm to lure people into conversation, often imbued with irony?
+      - "How wonderful it would be if the foolish were filled with wisdom simply by touching the wise... I would consider it the greatest prize to have the chance to lie down next to you, Agathon. I would soon be overflowing with your wonderful wisdom. My own wisdom is of no account - a shadow in a dream - while yours is bright and radiant and has a splendid future."
+
+  - "Then, when Plato was about to compete in a contest with a tragedy, he heard Socrates speaking before the Theater of Dionysus, and he decided to set his own poetry on fire"
+    - There was something so powerful about Socrates that Plato gives up his own work
+
+  - Connection between touch, desire, and knowledge
+
+- Mr. Elusive
+  - "Everything about Socrates is exaggerated, buffo, a caricature; everything is at the same time concealed, ulterior, underground."
+  - Absurd quality about Socrates, resembling a figure from comedy more so than tragedy
+  - Question of how we approach the kinds of things Socrates wants us to think about
+
+- The Problem of "Biography"
+  - Socrates never produced any written work of his own
+  - Whatever we know or think we know about Socrates comes from other authors, namely:
+    - Aristophanes (5th century BCE)
+    - Plato and Xenophon (4th century BCE)
+    - Relatively contemporaneous, as compared to the likes of Plutarch and Solon
+
+- Basic Biography
+  - 470s [?] - 399 BCE
+  - Likely from a generally well-off family
+    - Son of a stonemason and midwife
+
+  - Served as a hoplite soldier in the Peloponnesian War
+  - Executed by the city of Athens in 399 BCE for "not believing in the city's gods and for corrupting the youth"
+    - Central topic of Plato's *Apology*
+
+- Socrates the... Philosophical Soldier
+  - "Socrates surpassed everyone else in bearing hardships... It was his endurance of winter that I most recall: he walked out in that weather, clad in just such a basic coat that he always wore, and he made his way more easily over the ice barefoot than the rest of us did in our shoes. The soldiers looked askance at him, thinking that he despised them."
+  - Depiction as a strange soldier relates to him being a philosopher, separate from physical concerns
+  - Causes people to believe he is acting superior than the rest
+    - Philosophers know things others don't/haven't thought about
+
+- True Beauty, More than Skin-Deep
+  - "Look at Socrates! Isn't he just like a statue of a satyr? You know the statue I mean; you'll find them in any shop in town. It's a satyr sitting, his flute or his pipes in his hands, and it's hollow. It's split right down the middle, and inside it's full of tiny status of the gods."
+  - Socrates is not an attractive person, but what happens if you open him up?
+  - Distinction between what you see and what is ultimately true
+  - True Beauty => the Forms [more next week]
+
+- Philosophy Makes Me Drunk
+  - "If I were to describe for you the extraordinary effect his words have always had on me (I can feel it this moment even as I'm speaking, you might actually suspect that I'm drunk!) Still, I swear to you, the moment he starts to speak, I am beside myself; my heart starts leaping in my chest, the tears come streaming down my face, even the frenzied Corybantes seem sane compared to me - and let me tell you, I am not alone"
+  - Strange aura as opposed to the cold, rational truth of philosophy
+
+- I'm a Monster!
+  - "I am still unable, as the Delphic inscription orders, to know myself; and it really seems to me ridiculous to look into other things before I have understood that: Am I beast more complicated and savage than Typhon, or am I a gentler, simpler animal with a share in divine and serene nature"
+  - Characterized by contradiction
+  - Self-reflection or external characterization?
+
+- I'm a Gadfly!
+  - A need to be a disruptive force in society
+
+- Atopos & Aporos
+  - A-topos - hard to place, unclassifiable, weird
+  - A-poros - without resource, without a way forward, perplexed
+    - Aporia - the intellectual condition of being perplexed, without a way forward
+
+  - Dialogues lead the interlocutor into a state of confusion
+    - Unlearning the things you think you know
+
+- I'm a Stingray!
+  - "As for me, if the stingray makes itself numb while it numbs others, I am like it. For I don't make others aporos while I myself am free of aporia, but above all else I myself am aporos and in this way I may others aporos, too. Even now I don't know what virtue is and yet you, perhaps, did know it before touching me but now are like one who doesn't know"
+
+- Alcibiades as Snake-Bitten by Socrates
+  - "And you know what people say about snakebite - that you'll only talk about it with your fellow victims: only they will understand the pain and forgive you for all the things it made you do. Well, something much more painful than a snake has bitten me in my most sensitive part - I mean my heart, or my soul, or whatever you want to call it, which has been struck and bitten by philosophy, whose grip on young and eager souls is much more vicious than a viper's and makes them to the most amazing things"
+
+- Does Socrates Exist Today?
+- Old Comedy
+  - Aristophanes' *Clouds*
+  - 423 BCE (and again, revised, 420 BCE)
+  - Classic example of "Old Comedy": lampoons a public figure for his being "different" from the norm; also focuses on domestic life
+  - Socrates in the *Clouds*
+    - Strepsiades and his son Pheidippides
+    - "The Thinkery" = "Pondertorium"
+    - Nous - "mind"
+    - Aether - "sky, atmosphere"
+    - Example (paraphrase): "I should be able to beat you up, Dad! Why? Because Zeus beat up his father!"
+
+- Some questions as you read *Clouds*
+  - What is the purpose of education?
+  - What "wisdom", if any, does Socrates teach?
+  - What societal values does the play implicitly or explicitly endorse?
+  - What would we think of Socrates if *Clouds* were our only evidence? Who is (Aristophanes') Socrates?
+
 
 
 
