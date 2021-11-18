@@ -1704,7 +1704,105 @@
 
 ## Lecture 23: Women in Athens II
 
-- 
+- Socrates on Women
+  - "There is no aspect of th administration of a state that should be reserved to a woman just because she is a woman or to a man just because he is a man. Natural gifts are found in both alike... The case is rather, I think, that one person has a natural disposition (phusei) of a physician and another not, and one may be naturally musical, and another not... Can we then deny that one woman may be warlike or athletic, and another not?"
+  - Claim that the sex of a person shouldn't determine their assigned role within the state, but contrasts with their natural disposition towards something, affixing them to their role in society
+  - Discussing an essentialist notion, dependent on their way of being
+    - Does admit to some flexibility to this way of being
+
+- Judith Butler - *Gender Trouble*
+  - "Gender proves to be performative - that is, constituting the identity it is purported to be. In this sense, gender is always a doing, thought not a doing by a subject who might be said to preexist the deed... gender identity is performatively constituted by the very 'expressions' that are said to be its results"
+  - Actions create identity, identity does not precede action => independent of sex
+
+- Cultural Performativity
+  - Herodotus: "Among the Egyptians, the women buy and sell, the men stay at home and weave... Women urinate standing, men sitting."
+  - Roles as being culturally determined, not sexually
+
+- Performative "Roles"
+  - *Goddesses, Whores, Wives, and Slaves* (Sarah Pomeroy, 1975)
+    - Book tried to think about women in the spotlight of Ancient Greece and Rome
+
+  - Priestesses
+    - Fundamental to Greek society and shaping peace with the gods
+
+  - The muse
+  - Unofficial advisors
+    - Ex: Aspasia
+
+  - Roles in the Greek male imagination
+    - Ex: Diotima?
+
+- Aspasia Revisited
+  - Concept of hetaira as "courtesan" has been questions, especially by scholar Rebecca Futo Kennedy
+    - Argument is that the term should be translated strictly as "companion", but not necessarily in a sexual sense
+    - Further suggestion that supposed sexual activity represents not reality, but rather a slur by men who disliked Pericles and/or the perceived power of Aspasia
+
+  - The view potentially leaves unresolved the question of why we should trust sources that state that Aspasia was influential and philosophically astute, but distrust those same sources when they associate her with being a "courtesan"
+    - How do we read through male-dominant sources?
+
+  - Aspasia... like Socrates?
+    - "Aspasia was put on trial for impiety, Hermippus the comic poet being her prosecutor. He alleged further against her that she received free-born women into a brothel for Pericles. And Diopeithes brought in a bill providing for the public impeachment on the charge that she did not believe in gods, or taught doctrines regarding the heavens... The people accepted with delight these slanders."
+
+  - Diotima
+    - Gives (through Socrates) climactic speech in Plato's *Symposium*
+    - Socrates gives up his speech to quote Diotima
+    - Diotima = Aspasia?
+    - Possible example of someone shifting between cultural roles
+
+- Priestess: An Area of Apparent Equality?
+  - "the equality of men and women as priests and priestesses in ancient Greece was nothing short of remarkable. In a world in which only men could hold civic office and enjoy full political rights, it would have been easy enough for cities to organize their priesthoods on the model of magistracies. But the power of gender in the analogy between sacred servant and deity was so strong that it warranted a category of female cult agents who functioned virtually as public-office holders."
+  - Women were important enough to be responsible for one of the most important aspects of Greek life
+
+
+- Aristophanes' *Lysistrata*
+  - Set during the Peloponnesian War
+  - Women tired of the war and go on a sex strike
+    - Athenian and Spartan women end the war
+  - Things restored to an order that was originally displaced
+  - Depiction of the women as the problem, not necessarily the war
+  - Performing Roles
+    - "We're going to occupy the Acropolis this very day, pretending to be up there for sacrifice."
+      - Plays to the idea of women's roles in religion
+    - "Anything you want from me. I'm even ready to walk through fire. But not give up what you said. There's nothing like it, Lysistrata."
+      - Stereotype being pushed forward, reiteration of classic cultural notions
+  - Women Rebuking Men
+    - "It's not crowbars you need, it's brains and sense"
+    - "But there shouldn't even be a war."
+      - Conflict between the women believing the war is the problem and the men believing the women are the problem
+  - The Wise (and Unheeded) Advisors
+    - "Too many times we'd hear in our homes about some bad decision you made on some great issue of state. Then, masking the pain in our hearts, we'd put on a smile and ask, 'How did the ekklesia go today?'"
+      - The gap between the external and internal
+      - Suppression due to expected roles
+      - Enacting of something beyond the bounds of traditional gender roles
+  - Essentialist Stereotypes
+    - "If Eros of the sweet soul and Cyprian Aphrodite imbue our thighs and breasts with desire, and infect men with sensuous rigidity and club-cock, then I believe all Greece will one day call us Disbanders of Battles."
+      - Reliance on stereotypes to end the war
+    - "At this moment, all around the market, in pottery ships and grocery stalls, men are walking around with weapons... By Zeus, a man's got to act like a man... But it's totally ridiculous to take a shield with Medusa on it just to buy sardines."
+  - Lysistrata's "Medea Moment"?
+    - "The quota we women bear is double. First, we delivered our sons to fill out the front lines in Sicily... Next, the best years of our lives were taxed away. We sleep alone. But it's not the matrons like us who matter. I mourn for the virgins... with nothing to do but grow old... A man, even an absolute antique, comes back from war and he's barely doddered into town before he married the truest nymphet. But a woman's season is brief; it slips, and she'll have no husband, but sit out her life groping at omens - and finding no men."
+      - Undercurrent of essentialism
+  - Cultural and Biological Binary Collapsed
+    - "I have a stake in our community. My contribution is men."
+  - Ritual, Release, and Containment
+    - "Everything has been wrapped up so nicely... Let's have husband stand by wife and wife by husband; then to celebrate our great good fortune let's dance for the gods... Let's sing a hymn... like maenads waving their wands and playing with Leda's daughter pre-eminent, their chorus leader pure and pretty."
+      - Odd that the "restoration of order" contains an undercurrent where the people act like maenads, which were problematic to society in the *Bacchae*
+- Aristophanes, *Women at the Thesmophoria* (411 BCE)
+  - The Thesmophoria was a festival held in honor of Demeter
+  - Women trying to plot against Euripides for his depiction of women
+  - "Why do we keep blaming Euripides if all he did was reveal two or three of our faults when we are guilty of thousands? I've done plenty of bad things. But the worst was when I had been married only three days and my husband was asleep. I had this friend - he was my lover when I was seven - and his passion for me had gotten the better of him. I heard him scratch at the door, and I snuck downstairs to meet him."
+- Cross-Gendered Anxiety
+  - "They [the school-boys in my day] were not permitted to entice older lovers with effeminate voices or seductive looks, or mince around pimping themselves to all and sundry!... It grieves me... to have to see these wimpy lads who can barely lift a shield, embarrassed at the sight of their own manly meat!"
+    - Argument about what has gone wrong with the world
+  - "My clothing always matches my thoughts. To be a poet a man must suit his fashions to the requirements of his plays. If he's writing a play about women, he must partake of women's ways."
+- Essentialism and/or Performance?
+  - "And have you not heard how refined Phrynichus was and how careful in his dress? For this reason his pieces were also beautiful, for the works of a poet are copied from himself."
+- What is (Greek) Self?
+  - Butler (1990) critiques the "metaphysics of substance"
+  - The self, the "I", as a "fictitious" unity
+    - We can recreate ourselves
+  - "I contain multitudes."
+- An Irresolvable Tension
+  - The notion that one has a fixed identity is seemingly troubled/perturbed by comic plays
 
 
 
