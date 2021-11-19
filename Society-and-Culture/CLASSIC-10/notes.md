@@ -2029,9 +2029,38 @@
 
 
 
-## Discussion 8:
+## Discussion 8: *Clouds*
 
-- 
+- Is Aristophanes funny? Why or why not?
+  - Aristophanes fully embraces the genre of Old Comedy in *Clouds* => lampooning of Socrates for being different from the norm
+  - Manipulation of language as a tool of ridicule
+    - Casual/crass
+    - Portrayal of anti-logic
+  - Philosophical viewpoints (lessons) do nothing for us
+  - Comic reversal as opposed to the tragic reversal
+  - Convergence of sexual realm and cultural realm
+    - Pederasty
+    - Grammar + sex = ?
+  - Socrates
+    - Target of ridicule for the play's audience
+    - Polar opposite of society/disruptive
+    - Outside of Athens
+    - Pedantic
+    - Destabilizing force
+    - Uniqueness as a compelling force
+      - Ripped away from the audience as the play goes on
+  - Sources of confusion
+    - The burning down of the Thinkery
+    - Diference in speech
+- What would our perceptions be if this were the only source on Socrates?
+  - Philosophy as a waste of time
+- Emphasis on maintenance of order
+  - Order broken by Strepsiades' debt
+  - Intergenerational conflict
+    - Hypocrisy?
+    - Old vs. young
+  - Superior argument vs. inferior argument
+    - Equation of Socrates with the inferior argument
 
 
 
