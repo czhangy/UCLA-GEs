@@ -3908,7 +3908,224 @@
 
 
 
-## Reading 12:
+## Reading 12: Panhellenism and the Rise of Philip
+
+- 4th century BCE was the age of philosophers, artists, and consitutional developments
+  - Experiments with common peace treaties to break the cycle of intercity warfare
+  - Peace with Persia
+  - Growing impulse towards federalism
+  - Renaissance of Athenian power abroad in a more humane and less coercive fashion
+
+- Greek developments eclipsed by the rise of Philip in Macedonia
+  - Combination of military genius, newfound wealth, canny diplomacy, and restless energy would help to bring all of Greece under his control by 338 BCE
+
+- Athens in Defeat
+  - Despite calls by its allies to enslave Athens, the Spartans refused
+    - Instead, they ordered the takedown of walls at Piraeus, the surrendering of their navy, the return of the exiled, and an alliance with Sparta
+    - Installation of decarchies (ruling oligarchies of 10 men) around the Aegean wherever pro-Athenian democracies were found
+      - Exception at Athens, where 30 men ruled the state due to its size (the Thirty)
+      - Democracy disbanded in April 404 BCE => failure of democracy?
+
+    - Employed a system of military garrisons and governors (harmosts) to guarantee compliance
+
+  - The Thirty and their henchmen set about terrorizing the city
+    - Seized property and imprisoned opponents
+    - Tore down inscribed laws and forced jurors into capitulation in a series of show trials
+    - Even turned on one another
+    - Estimate that the Thirty killed ~1,500 of 35,000 citizens
+    - In particular, targeted wealthy metics, knowing they were vulnerable
+      - Weren't citizens => couldn't undertake legal action
+      - Less likely to have familial and social networks of support
+
+  - The terrorism of the Thirty provoked a resistance movement from the Atheninas
+    - Led by the democrat Thrasyboulos in January 403 BCE
+    - Throughout the spring of 403 BCE, the movement would attract more men to the democratic cause
+    - With 1,000+ men, the movement marched on the Piraeus, engaging and defeating the forces of the Thirty
+    - The remaining members of the Thirty retreated to Eleusis, where they hired mercenaries
+      - The rest of the Athenian populace rose up against them
+
+    - A potentially bloody confrontation was avoided by the arrival of Spartan king Pausanias and his army, who negotiated an agreement between the opposing sides
+      - Democracy restored in Athens
+      - The remaining members of the Thirty were allowed to resettle at Eleusis
+      - Democracy had proven its resiliance
+
+  - Part of the agreement was the Athenian decision to declare an amnesty ("non-remembering")
+    - Instance of the generosity and good sense of the Athenian democrats
+    - Athenians dealing with a turbulent and traumatic period in their history
+    - Provided a step towards the healing of wounds
+    - Forget/ignore the criminal actions done while the Thirty were in power
+    - Couldn't assuage the anger of the Athenians completely => culminates in the trial and execution of Socrates
+
+- Sokrates
+  - Portrayals of Sokrates come in a wide variety of forms, from the intellectual gadfly described by Plato to the comic caricature in Aristophanes' *Clouds*
+  - 5th century BCE brings intellectual life that leads to questioning of the traditional understanding of the world
+    - Xenophanes and Protagoras challenge traditional religion
+    - Other thinkers build on the natural science and ethical inquiries of the Ionian philosophers in the 6th and 5th centuries BCE
+    - Challenging of convention is seen as dangerous
+      - Anaxagoras speculates that nous (intellect/mind) caused elements to move and that the sun was a hot stone that reflected light from the moon => charged with impiety
+      - Ninos conducted initiations into cults not yet sanctioned by the state => executed
+      - A man cut down some of Athena's sacred olive trees => prosecuted
+      - Protagoras has anthropocentric views => banished
+
+    - Social turbulence doesn't stop the rise of philosophers like Prodikos, Gorgias, and Hippias, who offered lectures on linguistics, ethics, and eristics
+      - Known as sophists, and looked upon with suspicion
+
+  - The Philosophy of Sokrates
+    - Taught that all virtues (bravery, loyalty, temperance, and justice) were the same thing: goodness
+      - Known as the Unity of all Virtues
+      - No man knowingly does wrong => purpose of philosophy was to educate man on what is good, replacing ignorance
+
+    - Famous for a technique called elenchos, a form of cross-examination
+      - Troubling for Athenian society
+      - Demonstration of Sokrates' greater intelligence, but showing up others' inadequacies troubled them
+
+    - Official charges brought against Sokrates in 399 BCE by Meletos and Anytos
+      - Indictment championed conventional religion and resorted to innuendo in respect to his teaching
+        - Overreaction to Sokrates' habit of referring to his daimonion (little spirit), which was an inner voice that he carried in constant interior dialogue
+
+      - Blamed for corruption of the young
+        - Fear that the city was exposed to and infected by philosophy and sophistry
+
+      - Classified as a thinker whose philosophy was seen as a threat
+      - Later evidence shows he was held accountable for the Thirty
+        - Guilt by association with Kritias
+        - Sokrates becomes the public face of the Thirty in the Athenians' eyes
+
+    - Facing death, Sokrates continued to teach an uncompromised view of philosophy
+      - With just this evidence, we would think of Sokrates' reputation as an intellectual martyr prepared to die rather than waver in his adherence to the truth
+      - Need to bait the Athenians during the trial is off-putting
+
+    - Sokrates is often viewed through a Platonic lens
+      - Contrast with the comic view of ancient times
+
+    - Sokrates' sacrifice may have also saved the Athenians
+      - Provided a scapegoat to an Athenian population during their return to democracy and the rule of law
+      - Death brought an end to the threat of civil war by symbolically removing the last connection to the Thirty
+
+- The Spartan Hegemony
+  - Sparta squandered their opportunity to exploit their victory in the Peloponnesian War
+    - Lysander's system of decarchies proved to be unpopular
+      - Despite declaration of Lysander as divine, a trend that would continue under Philip and Alexander
+
+    - In part due to the demands of foreign policy
+      - More attention focused on events in Asia Minor
+        - New Persian king Artaxerxes II faced a rebellion led by his brother, Cyrus the Younger
+        - Lysander offered support to Cyrus, allowing him to raise an army of Greeks, which were eventually defeated
+        - Action marked the beginning of a new period of Spartan aggression in the western satrapies of Asia Minor
+        - Next Spartan king Agesilaus II followed Lysander's lead, marching into Persian territory in 396 BCE
+          - Artaxerxes responded by dispatching an envoy to stir discontent in Greece against Sparta, negotiating an alliance between Thebes, Athens, Argos, and Corinth to fight the Spartans
+          - Threaten the Spartans in the Peloponnese => force them out of Asia Minor
+          - Leads to the Corinthian War
+
+      - Corinthian War
+        - Marks a return of Persia to involvement in Greek affairs after ~75 years of peaceful coexistence
+          - Response justified, as the Spartans were supporting pretenders, providing mercenaries, and dispatching state-sanctioned expeditions into Persian territory
+          - Spartan justifications unsound, although pursuit of wealth exposed internal conflicts
+          - Shows Persia that the Greeks could be bought, introducing Persian gold/strategic interests as dominant factors in Greek international relations
+
+        - Ends when the Great King decides that peace was more beneficial to his agenda than war
+          - Terms of peace reveal the new role of the Great King as a power broker among the squabbling Greek states
+          - Referred to as the King's Peace or the Peace of Antalkidas
+          - Underscores the limitations of the city-state systems
+            - Alliances were frequently short-lived and rarely effective
+            - Doomed to a continuous cycle of warfare? Was the polis a dead-end?
+
+    - Following the King's Peace, the Spartans engaged in high-handed behavior
+      - Compelled the people of Mantineia to destroy their walls, disbanding the city entirely
+        - People forced to disperse to small villages
+        - Imposing a pattern of dispersed settlement that the Spartans favored in Lakonia
+        - Designed to keep their potentially powerful northern neighbor weak
+
+      - Phlius compelled to take back exiles
+        - Tactic often employed by hegemonial states to swing the balance of power within subordinate states in their favor
+
+      - Spartan expedition occupied the Kadmeia, the citadel of Thebes
+      - Clear that they had returned to the favor of the Persian king
+        - Sparta could assert their control within Greece, as long as Persian interests were unaffected
+
+  - Athenian Diplomacy
+    - Athenians responded to Sparta's aggressive policies by rebuilding their network of alliances
+      - Looking back on the complaints of the Delian League that had resulted in revolt
+
+    - Contrast between the reckless aggression of Spartan policy and the cautious diplomacy of the Athenians
+      - Direct inversion of 5th century practices
+      - Spartans planned to attack the Piraeus, which the Athenians saw as an act of war => Athenians free to open their alliance to all
+        - Did so in the Decree of Aristoteles
+
+    - Debate surrounds this second Athenian confederacy
+      - Was it a kinder, gentler Delian League?
+      - Was it simply the 5th century naval empire, but packaged to be more ally-friendly?
+      - Guarantees written into its charter shows that Athens had learned from the mistakes of the Delian League
+        - No garrisons, no tribute, no political interference
+        - Allies given a collective voice to balance the decision-making power of the Athenians
+
+      - Far less economically exploitative than the Delian League
+
+  - End of the Spartan Hegemony
+    - New Athenian coalition reveals that the emergence of one state as a hegemonial power leads to the formation of a counter-balancing coalition
+    - Athenian naval victories give them free operation in the waters off western Greece
+      - Enrolls many new allies in the Athenian confederacy
+
+    - Repeated attempts to secure peace to avoid the cycle of warfare
+      - Grim succession of such treaties shows that a common peace (koine eirene) was never a guarantee of lasting peace
+      - Relentless repetition shows that the Greeks were trying to find a political solution to this issue
+
+    - Talks of peace in 371 BCE
+      - Thebes asserted they were signing on behalf of all of Boiotia, insisting it was a federal state
+      - Some believed one state signing on behalf of others was a rejection of their autonomy, insisting that Thebes signed for themselves alone
+      - Talks collapsed, leading to the Spartans marching on Boiotia, where they were soundly defeated, ending the Spartan hegemony
+
+- Regionalism and Panhellenism
+  - The defeat of Sparta saw Thebes arise as the state best situated to assert hegemony within Greece
+    - Ascent to power was short-lived
+    - Projected power beyond central Greece from 371 - 362 BCE
+    - Boiotian armies invaded the Peloponnese 3 times
+      - Ravaged parts of Lakonia
+      - Took Sparta's port at Gythion
+      - Liberated the neighboring communities of Sparta (perioikoi), restricting Sparta's manpower
+      - Weakened the Spartans materially and symbolically
+      - Liberated the Messenian helots and oversaw the founding of the city of Messene
+      - Convinced the towns of Tegea and Mantineia in Arkadia to form the city of Megalopolis
+        - City would serve as the center of the new Arkadian League, designed to unify and strengthen the region
+        - Towns prepared to cooperate due to their issues with Spartan aggression
+
+  - Federations weren't a new development in the Greek world
+    - Political and religious koina were established as early as the Archaic period
+    - 4th century BCE saw a resurgence of federalism in ancient Greece
+    - Epaminondas (Theban leader) favored the Boiotian model
+      - A single city exercised leadership over a much larger region
+      - Satellite towns remained self-governing while participating in federal institutions
+      - Decade of Theban control reasserted federalism as a viable model for Greek politics
+      - Favored by small cities as a way of maintaining their identity while gaining strength in numbers
+
+    - Tenacity of federalism should be kept in mind when judging the limits of the polis
+      - The city-state represents the hold of separatism/centrifugality
+        - Each city guarded its own territory, identity, and history
+
+      - There is also a centripetal tendency in Greek affairs
+        - Fashioning of common institutions and regional connections that resulted in strong ethnic identities
+        - Process of panregional unification would continue under the pressures of political woes
+
+      - Aitolian and Achaian Leagues were evidence of federalism's hold
+
+  - 40 years after the Peloponnesian War, the Greeks had fought themselves to a standstill
+    - Neither Athens, Sparta, nor Thebes was capable of establishing dominance
+    - Events following the war highlighted Athens' weaknesses
+      - The largest states of Athens' Confederacy went to revolt, resulting in a succession of disasters for the Athenians
+      - By 355 BCE, Athens had lost the majority of its important allies and the city's power/finances were dramatically reduced
+
+    - Regional federations were taking their place alongside the poleis in the game of territorial politics
+    - Unification on a broader scale was inconceivable
+    - The Olympics was the closest thing the Greeks had to a panhellenic institution, but even that reinforced regional rivalries
+    - The system of city-states and federations was broken
+
+- Philip of Macedon
+  - 
+
+
+
+
+## Reading 13:
 
 - 
 
