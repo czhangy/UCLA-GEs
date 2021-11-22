@@ -4041,10 +4041,8 @@
   - Peace with Persia
   - Growing impulse towards federalism
   - Renaissance of Athenian power abroad in a more humane and less coercive fashion
-
 - Greek developments eclipsed by the rise of Philip in Macedonia
   - Combination of military genius, newfound wealth, canny diplomacy, and restless energy would help to bring all of Greece under his control by 338 BCE
-
 - Athens in Defeat
   - Despite calls by its allies to enslave Athens, the Spartans refused
     - Instead, they ordered the takedown of walls at Piraeus, the surrendering of their navy, the return of the exiled, and an alliance with Sparta
@@ -4081,7 +4079,6 @@
     - Provided a step towards the healing of wounds
     - Forget/ignore the criminal actions done while the Thirty were in power
     - Couldn't assuage the anger of the Athenians completely => culminates in the trial and execution of Socrates
-
 - Sokrates
   - Portrayals of Sokrates come in a wide variety of forms, from the intellectual gadfly described by Plato to the comic caricature in Aristophanes' *Clouds*
   - 5th century BCE brings intellectual life that leads to questioning of the traditional understanding of the world
@@ -4127,7 +4124,6 @@
     - Sokrates' sacrifice may have also saved the Athenians
       - Provided a scapegoat to an Athenian population during their return to democracy and the rule of law
       - Death brought an end to the threat of civil war by symbolically removing the last connection to the Thirty
-
 - The Spartan Hegemony
   - Sparta squandered their opportunity to exploit their victory in the Peloponnesian War
     - Lysander's system of decarchies proved to be unpopular
@@ -4200,7 +4196,6 @@
       - Thebes asserted they were signing on behalf of all of Boiotia, insisting it was a federal state
       - Some believed one state signing on behalf of others was a rejection of their autonomy, insisting that Thebes signed for themselves alone
       - Talks collapsed, leading to the Spartans marching on Boiotia, where they were soundly defeated, ending the Spartan hegemony
-
 - Regionalism and Panhellenism
   - The defeat of Sparta saw Thebes arise as the state best situated to assert hegemony within Greece
     - Ascent to power was short-lived
@@ -4244,14 +4239,107 @@
     - Unification on a broader scale was inconceivable
     - The Olympics was the closest thing the Greeks had to a panhellenic institution, but even that reinforced regional rivalries
     - The system of city-states and federations was broken
-
 - Philip of Macedon
-  - 
+  - Philip
+    - Born in 382 BCE to Amyntas III
+    - During his teenage years, Philip was a hostage of the Illyrians and then the Thebans
+      - Demonstrates the political weakness of Macedon into the 360s
+      - Time in Thebes exposed him to the tactics of Theban generals
+    - His brother, Alexander III, was assassinated, leaving the throne to another brother, Perdikkas, who died in battle in 360 BCE => leads to Philip's rise to the throne
+  - At the time Philip rose to the throne, Macedon wasn't even considered fully Greek
+    - Thucydides spoke of northern Greece as old-fashioned
+    - Macedonians wanted to be considered Greek, but many disputed this claim
+    - Greeks represent a high-status culture that Macedonians aspired to
+  - In the 4th century, Macedonian culture began importing aspects of Greek culture
+    - North still seen as a relic of Homer's world, despite connections between all areas of Greece
+      - Chieftains strengthened their dynasties by marrying each others daughters
+      - Kings cultivated a feasting culture that resembled the world of epic => seen as semi-barbaric
+    - Rejection of the quiet, quasi-philosophical symposia associated with Plato's circle and assertion of a conscious link to the world of Homer
+  - Philip's reign would leave Macedon as the most powerful Greek state, but would do no good in persuading the rest of Greece of their civility
+  - Marriage and War
+    - Key to Philip's success was a unique blend of canny diplomacy, tactical audacity, and an ability to exploit the weaknesses of his adversaries
+    - Early years of his reign had two immediate problems
+      - The existence of the pretender, Argaios
+        - Supported by the Athenians
+        - Eventually killed in battle
+      - Need to secure the borders of his realm and protect it from raiding by neighboring tribes
+        - Philip would marry Olympias, linking him to the Molossians to the far west
+        - Philip would marry another princess, Phila, linking him to Elymiotis
+        - Philip would marry Audata, ending fighting with the Illyrians to the northwest
+        - Treated wives as diplomatic pawns, creating stability within the kingdom
+    - Looked eastwards, putting Macedon in contact with the Athenians at Amphipolis in Thrace
+      - Philip captured Amphipolis, offering the Athenians a trade in exchange for Pydna, was was close to the Macedonian heartland
+      - Pydna was betrayed and offered to Philip, yet Philip maintained a hold on Amphipolis
+        - Exploiting the fact that Athens had neither the means nor inclination to put large expeditionary forces into the field
+        - Gave the Macedonians a port on the Thermaic Gulf and a base to move on Mount Pangaion
+      - First step towards territorial expansion
+      - Would later move on Mount Pangaion to take control of the gold and silver mines, renaming it Philippi
+    - Training of army was where Philip proved most innovative
+      - Struck upon the most significant change in hoplite warfare in 300 years, leaving behind the heavy armor, spears, and shields in place of lighter bucklers and body armor, as well as pikes
+      - Phalanx presented an impenetrable front to the enemy
+      - Paired with skirmishers and cavalry to protect the flanks
+      - Outmatched nearly everything at the time
+  - The Third Sacred War
+    - Final annexation of Thessaly and the beginning of Philip's southern campaigns in 354 BCE
+      - Returned to Thessaly to help the Aleuadai with the rivalry between the ruling families of Larissa and Pherai
+        - Larrissaians allied with Philip, while the Pherai turned towards Phokis in the south
+        - Brings Philip into a broader conflict known as the Third Sacred War
+    - Fought over control of Delphi
+      - Seized by the Phokians in 356 BCE
+        - Plundered Delphi and melted down dedications
+      - Amphiktyonic states declared war on the Phokians
+      - The Phokians raised a mercenary army and campaigned against the Boiotians to the east and Thessaly to the northwest
+      - Philip destroyed the Phokian army in the Battle of the Crocus Field after a couple setbacks
+    - Philip was elected as ruler of Thessaly
+      - Gave him control of territory from Macedon to Themopylae
+      - Also gave him a vote on the Amphiktyonic Council
+      - Supplied him with the pretext he needed to march south
+    - Philip took advantage of his victory, portraying himself as the instrument of Apollo's vengeance
+    - Before marching south, he strengthened his position in the northern Aegean
+      - Extended control east through Thrace to the Hellespont
+        - Athenians took these events with increasing alarm
+        - Demosthenes took every opportunity to inveigh against Philip, claiming his goal was to conquer all of Greece
+      - Expansion seemed unstoppable
+      - Philip learned that the merest suggestion of peace would bring the Athenians to the negotiating table
+    - Philip then began moving south
+      - Athenians attempted to begin negotiations to prevent him from marching any further
+      - Eventually obtained a treaty called the Peace of Philokrates
+        - Was worthless
+      - Philip negotiated with a mercenary garrison that held Thermopylae
+        - Convinced them to abandon their position and hand Philip the most symbolic fort in Greece
+- The Road to Chaironeia
+  - The Third Sacred War had ended and Philip dominated central Greece
+  - Athenians began to turn on each other for allowing Philip to gain control of central Greece
+  - Philip shifted north and west to allow Athenian passions to die down
+  - Eventually, Philip declared war on Athens
+    - Seized a grain fleet waiting to enter the Bosporos and sail to Athens
+    - A Fourth Sacred War gave Philip an excuse to bring his army south
+    - He was elected leader of the Amphiktyonic forces
+    - Advanced unopposed to Elateia
+      - Shows that Philip had no interest in settling the issues of the Fourth Sacred War
+      - Had moved past any natural choke point between his army and Thebes or Athens
+
+  - Athens would join forces with Thebes against the common threat of Philip
+    - Routed by Philip's army near the village of Chaironeia
+
+  - Philip's victory would ripple into a much bigger stage
+    - Alexander would take Greek culture across central Asia
+
+- Worth noting the accomplishments of the Greeks in the years from Salamis to Chaironeia
+  - Political culture based on the notion of participation by all adult male citizens
+    - Despite the hostility of conservative thinkers and aristocrats
+
+  - Production of brilliant dramas in the form of tragedies and comedies
+  - The allure of a society that spends more on public architecture than private mansions
+  - Advance of science through observation
+  - Valuing of beauty as socially beneficial
+  - Belief that the unexamined life is not worth living
 
 
 
 
-## Reading 13:
+
+## Reading 13: Alexander the Great and the Hellenistic Age
 
 - 
 
