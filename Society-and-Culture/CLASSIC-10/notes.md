@@ -1806,9 +1806,135 @@
 
 
 
-## Lecture 24: The Role(s) of Metics at Athens
+## Lecture 24: Metics and Some Aspects of Athenian Law
 
-- 
+- Metics: Some Basic Facts
+  - Metoikein => Metic => "Living with,": Resident non-citizens
+  - Under Solon, permitted to live permanently as resident non-citizens in Athens
+  - Not allowed to vote or hold office
+    - Could not own property
+    - Children also maintained this status
+
+  - Craftspersons: woodworkers, swordsmiths, shield-builders, furniture-makers, ceramicists
+  - Hetairai were often metics who had come to Athens to make money => Aspasia was a metic
+  - Often wealthy
+
+- Pericles' Citizenship Law (451 BCE)
+  - Only children born of TWO Athenians could be citizens
+  - The definition of citizenship become more Atheno-centric
+  - Still maintained a diverse set of people and skills that expanded the image of Athens
+
+- Lysias (4th century BCE)
+  - The most prolific speechwriter prior to Demosthenes
+  - Wrote for ordinary citizens and for wealthier people
+  - Himself a metic, and later a citizen
+  - Speeches help generate the idea of oratory as a literary genre in its own right
+  - Apparently published and circulated his speeches as means of advertising his talent
+  - Described in Plato's *Phaedrus* as "the cleverest writer of his day"
+  - *On the Murder of Eratosthenes*
+    - Lysias writes the speech on behalf of Euphiletus, who killed killed Eratosthenes for committing adultery with his (Euphiletus') wife, who is not named in court
+      - The real conflict is over hubris
+
+    - Held before the homicide court
+    - "Artlessness which is the product of art" (Dionysius, *Lysias* 8)
+    - Real? "Mr. Beloved" vs. "Mr. Strong Love"
+    - Law of Justifiable Homicide
+      - Provided immunity to:
+        - An athlete who had unintentionally killed a fellow competitor in an athletic contest
+        - A soldier who killed someone through "friendly fire"
+        - A doctor whose patient died under his care
+        - Someone who killed in self-defense if attacked, especially by a thief who used force or attacked at night
+        - Someone who tried to overthrow the democracy
+
+    - Problems with Application of Justifiable Homicide Law in *On the Murder of Eratosthenes*
+      - Conflict between ancient law that had permitted a cuckolded man to kill the adulterer and more contemporary custom in 5th and 4th century Athens, in which such instance were resolved by other means (e.g., monetary compensation and/or by some kind of physical humiliation)
+      - Thus, Euphiletus is essentially charged with intentional murder rather than justifiable homicide (which would be similar to our notion of murder in self-defense)
+      - Also charged with entrapment, i.e., orchestrating the situation in which Eratosthenes (the adulterer) would be caught in the act with his own (i.e., Euphiletus') wife and thus allow for the possible murder
+
+    - Doesn't make a legal argument, instead making an argument for Euphiletus' character/ethos
+    - To exonerate Euphiletus
+      - Crucial fact that Euphiletus must demonstrate to absolve himself is that he unintentionally/without premeditation or contrivance caught his wife and Eratosthenes in the act itself (in flagrante delicto, "in blazing crime")
+
+    - Lysias' Depiction of Euphiletus' Ethos
+      - "I would greatly appreciate it, men of the jury, for you to judge me in this trial as you would judge yourselves if you had suffered what I had... This view would be shared by not only you but also by all of Greece. This is the only defense for which democracy and oligarchy both grant the same compensation to the weakest against the strongest so that the lowliest enjoys the rights of the highest. Hence, all men consider this outrage (hubris) to be the most terrible."
+      - Depiction of self as the victim, not the aggressor
+      - Appeals to a sense of universality
+      - Using the strong word of hubris, associated with the Persians, tyrants, etc.
+
+    - Private Wife, Public Spectacle
+      - "When my child was born, then I trusted her and entrusted her with all my possessions, since I thought that this was the best marriage. At first, she was the best of all wives... But when my mother died, here death was the cause of all my troubles. My wife followed in her funeral procession and was seen by this man who in time corrupted her. By watching for the slave girl, who went to the agora (marketplace), and handing her messages, he cause my wife's downfall."
+
+    - In the middle of the night...
+      - "My wife closed the bedroom door on her way out, and pretending to be playing around, she locked it. I thought nothing of this and did not suspect her and I fell asleep. When it was almost morning she came and opened the door. I asked her why the front house doors had made noises during the night, and she told me that the lamp beside our child had gone out and she fetched a light from the neighbors. I didn't say anything and I believed that this is what happened. But it occurred to me, men, that she had put makeup on even though it had not yet been thirty days since her brother had passed away. Nevertheless, I said nothing and left in silence."
+      - Once again playing self as the victim
+
+    - In *flagrante delicto*
+      - "We [slaves and neighbors] forced the door open and those of use who entered first saw Eratosthenes lying beside my wife while those entering afterwards saw him standing naked on the bed. I struck him and threw him down... he begged and beseeched me not to kill him but to accept money, and I said, 'It is not I who kill you but the law of the city, which you violated and considered of less importance than your own pleasures.'"
+      - Logos: doing this in the name of the city's law
+      - Ethos: enforcing the law, doing the right thing for the city
+
+    - Combining Logos, Ethos, and Pathos
+      - "I do not consider this to be my own private vengeance; it was on behalf of the entire city."
+      - By the time the "legal argument" comes, the jury has already been presented a positive image of Euphiletus' character
+
+- Political Changes at Athens after the Peloponnesian War
+  - The surrender of Athens (404 BCE)
+  - Decarchies (groups of 10 Spartan rulers)
+    - Set up throughout the Athenian empire
+
+  - The Thirty Tyrants at Athens
+    - Led by Kritias, who was a student of Socrates
+
+  - Confiscations, banishments, and mass executions
+    - Ruthless against those who opposed the new government
+    - Breaking down of the work of those who had built up the democracy over generations
+
+  - The Restoration (403 BCE), after the death of ~1,500 people (Thrasyboulos)
+  - Amnesty or get out!
+
+- Athens in Defeat
+  - "It was at night when the Paralos [the state ship] reached Athens with tidings of disaster, and a sound of wailing from Piraeus [the port] through the long walls to the city, one man passing news to another. And during that night no one slept, all mourning, not for the lost alone, but far for more themselves, thinking that they would suffer such treatment as they had visited upon the people of Melos, after reducing them by siege, and upon the Histaians and Skionian and Toronians and Aiginetans and many other Greek peoples."
+  - Sense of the turning of tides, Athens being treated as they treated others
+
+- Lysias, *Against Eratosthenes* [a different one]
+  - Speech delivered on Lysias' own behalf
+  - Eratosthenes - Member of the Thirty Tyrants
+    - Lysias accuses him of the murder of his [Lysias'] brother, Polemarchus
+    - Tyrants interested in the metics because of their wealth
+
+  - Unique perspective on the life of a metic during the turbulent years of change at Athens following the Peloponnesian War
+  - Also interesting because it offers a view of a victim of the Thirty
+  - Exploitation of the Metics
+    - "When the Thirty came to power, they said they had to purge the city of criminals and make the rest of the citizens law-abiding.... Some of the Thirty pointed to the metics, how they were hostile to the rule of the Thirty. By appearing to punish them, they had a perfect pretense for making money... They thought nothing of killing people and everything of getting our money."
+    - Taking advantage of the already disadvantaged
+
+  - Sudden Arrests
+    - "They seized me while I was entertaining my guests... They went to my workshop and took an inventory of my slaves. I asked my arrester if he would be willing to let me go if I gave him some money, and he said yes, but it would have to be a lot."
+
+  - Hemlock
+    - "The Thirty gave their customary order to my brother to drink hemlock, without explaining why he was to be executed."
+
+  - Depicts a grim period in which many Athenians became the targets of the Spartan oligarchs
+  - Raids on Metics
+    - "They took seven hundred of our shields; a load of silver and gold; bronze, ornaments, furniture, and women's clothing, and 120 slaves. They were so insatiable and shameless in their greed as to reveal their real character: the gold earrings that my brother's wife happened to be wearing, these Melobius [one of the allies of the Thirty] snatched from her ears as soon as he entered the home. They were not moved to show us pity for the tiniest piece of our property. We did not deserve this from the city after we had produced choruses, often paid war taxes, lived in a decent manner, made no one an adversary, and ransomed many Athenians from the enemy. Yet they thought that such was what we deserved despite the fact that we conducted ourselves so much better as metics than they did as citizens!"
+    - One of the clearest depictions of the impact of metics on Athenian society
+
+  - The Metic Speaking to the Citizenry
+    - "They seized citizens by force from the agora and some from temples, and they killed them. Others they dragged from their children, their parents, and their wives, and they forced them to kill themselves, and they did not allow the customary burial, thinking that their regime was mightier than the vengeance of the gods... Because of the character of these me, neither temples nor altars, which are a sanctuary even for criminals, would have helped you, although you were victims. Those of your children who were in Athens would have been subjected to outrage (hubris) at the hands of these men."
+    - Attempt to appeal to Athenians in the restoration of the democracy
+    - Appeal to the values held prior to the loss to Sparta
+      - Those popularized by Pericles
+
+    - Playing up of the barbarousness of the oligarchs
+
+- Law against Hubris (?)
+  - "If someone commits hubris [outrage] against another, whether it be a child or woman or man, whether free or slave... let whoever wishes of those Athenians who are permitted lodge a public suit and bring it to the court within thirty days of indictment..."
+
+- How to Argue
+  - Lysias' speeches take legal principles and put them into action
+  - Week 9 Monday => Plato
+  - Week 9 Wednesday => Aristotle
+
 
 
 
