@@ -1857,25 +1857,25 @@
 
     - Lysias' Depiction of Euphiletus' Ethos
       - "I would greatly appreciate it, men of the jury, for you to judge me in this trial as you would judge yourselves if you had suffered what I had... This view would be shared by not only you but also by all of Greece. This is the only defense for which democracy and oligarchy both grant the same compensation to the weakest against the strongest so that the lowliest enjoys the rights of the highest. Hence, all men consider this outrage (hubris) to be the most terrible."
-      - Depiction of self as the victim, not the aggressor
-      - Appeals to a sense of universality
-      - Using the strong word of hubris, associated with the Persians, tyrants, etc.
+        - Depiction of self as the victim, not the aggressor
+        - Appeals to a sense of universality
+        - Using the strong word of hubris, associated with the Persians, tyrants, etc.
 
     - Private Wife, Public Spectacle
       - "When my child was born, then I trusted her and entrusted her with all my possessions, since I thought that this was the best marriage. At first, she was the best of all wives... But when my mother died, here death was the cause of all my troubles. My wife followed in her funeral procession and was seen by this man who in time corrupted her. By watching for the slave girl, who went to the agora (marketplace), and handing her messages, he cause my wife's downfall."
 
     - In the middle of the night...
       - "My wife closed the bedroom door on her way out, and pretending to be playing around, she locked it. I thought nothing of this and did not suspect her and I fell asleep. When it was almost morning she came and opened the door. I asked her why the front house doors had made noises during the night, and she told me that the lamp beside our child had gone out and she fetched a light from the neighbors. I didn't say anything and I believed that this is what happened. But it occurred to me, men, that she had put makeup on even though it had not yet been thirty days since her brother had passed away. Nevertheless, I said nothing and left in silence."
-      - Once again playing self as the victim
+        - Once again playing self as the victim
 
     - In *flagrante delicto*
       - "We [slaves and neighbors] forced the door open and those of use who entered first saw Eratosthenes lying beside my wife while those entering afterwards saw him standing naked on the bed. I struck him and threw him down... he begged and beseeched me not to kill him but to accept money, and I said, 'It is not I who kill you but the law of the city, which you violated and considered of less importance than your own pleasures.'"
-      - Logos: doing this in the name of the city's law
-      - Ethos: enforcing the law, doing the right thing for the city
+        - Logos: doing this in the name of the city's law
+        - Ethos: enforcing the law, doing the right thing for the city
 
     - Combining Logos, Ethos, and Pathos
       - "I do not consider this to be my own private vengeance; it was on behalf of the entire city."
-      - By the time the "legal argument" comes, the jury has already been presented a positive image of Euphiletus' character
+        - By the time the "legal argument" comes, the jury has already been presented a positive image of Euphiletus' character
 
 - Political Changes at Athens after the Peloponnesian War
   - The surrender of Athens (404 BCE)
@@ -1894,7 +1894,7 @@
 
 - Athens in Defeat
   - "It was at night when the Paralos [the state ship] reached Athens with tidings of disaster, and a sound of wailing from Piraeus [the port] through the long walls to the city, one man passing news to another. And during that night no one slept, all mourning, not for the lost alone, but far for more themselves, thinking that they would suffer such treatment as they had visited upon the people of Melos, after reducing them by siege, and upon the Histaians and Skionian and Toronians and Aiginetans and many other Greek peoples."
-  - Sense of the turning of tides, Athens being treated as they treated others
+    - Sense of the turning of tides, Athens being treated as they treated others
 
 - Lysias, *Against Eratosthenes* [a different one]
   - Speech delivered on Lysias' own behalf
@@ -1906,7 +1906,7 @@
   - Also interesting because it offers a view of a victim of the Thirty
   - Exploitation of the Metics
     - "When the Thirty came to power, they said they had to purge the city of criminals and make the rest of the citizens law-abiding.... Some of the Thirty pointed to the metics, how they were hostile to the rule of the Thirty. By appearing to punish them, they had a perfect pretense for making money... They thought nothing of killing people and everything of getting our money."
-    - Taking advantage of the already disadvantaged
+      - Taking advantage of the already disadvantaged
 
   - Sudden Arrests
     - "They seized me while I was entertaining my guests... They went to my workshop and took an inventory of my slaves. I asked my arrester if he would be willing to let me go if I gave him some money, and he said yes, but it would have to be a lot."
@@ -1917,16 +1917,15 @@
   - Depicts a grim period in which many Athenians became the targets of the Spartan oligarchs
   - Raids on Metics
     - "They took seven hundred of our shields; a load of silver and gold; bronze, ornaments, furniture, and women's clothing, and 120 slaves. They were so insatiable and shameless in their greed as to reveal their real character: the gold earrings that my brother's wife happened to be wearing, these Melobius [one of the allies of the Thirty] snatched from her ears as soon as he entered the home. They were not moved to show us pity for the tiniest piece of our property. We did not deserve this from the city after we had produced choruses, often paid war taxes, lived in a decent manner, made no one an adversary, and ransomed many Athenians from the enemy. Yet they thought that such was what we deserved despite the fact that we conducted ourselves so much better as metics than they did as citizens!"
-    - One of the clearest depictions of the impact of metics on Athenian society
+      - One of the clearest depictions of the impact of metics on Athenian society
 
   - The Metic Speaking to the Citizenry
     - "They seized citizens by force from the agora and some from temples, and they killed them. Others they dragged from their children, their parents, and their wives, and they forced them to kill themselves, and they did not allow the customary burial, thinking that their regime was mightier than the vengeance of the gods... Because of the character of these me, neither temples nor altars, which are a sanctuary even for criminals, would have helped you, although you were victims. Those of your children who were in Athens would have been subjected to outrage (hubris) at the hands of these men."
-    - Attempt to appeal to Athenians in the restoration of the democracy
-    - Appeal to the values held prior to the loss to Sparta
+      - Attempt to appeal to Athenians in the restoration of the democracy
+      - Appeal to the values held prior to the loss to Sparta
       - Those popularized by Pericles
-
-    - Playing up of the barbarousness of the oligarchs
-
+      - Playing up of the barbarousness of the oligarchs
+  
 - Law against Hubris (?)
   - "If someone commits hubris [outrage] against another, whether it be a child or woman or man, whether free or slave... let whoever wishes of those Athenians who are permitted lodge a public suit and bring it to the court within thirty days of indictment..."
 
@@ -1938,31 +1937,178 @@
 
 
 
-## Lecture 25: Socrates II
+## Lecture 25: Socrates - and Plato
+
+- Alfred North Whitehead (1861 - 1947)
+  - "The safest general characterization of the European philosophical tradition is that it consists of a series of footnotes to Plato."
+
+- Bertrand Russell (1872 - 1970)
+  - "It has always been correct to praise Plato, but not to understand him."
+
+
+- Plato (428 - 348 BCE)
+
+  - Author of numerous dialogues that "star" Socrates
+  - Examples: *Euthyphro*, *Critias*, *Republic*, *Symposium*, *Phaedrus*, *Apology*, *Crito*, *Phaedo*
+  - The Academy
+
+- The Problem of Representation
+
+  - "All that is said by any of us can only be imitation and representation"
+  - Questioning of what we are really seeing or believing
+  - The Meta-Problem: Plato's Representation of Socrates
+    - Reality
+    - [Representation in Dialogue]
+    - [[Socrates/Speaking]]
+    - [[[Plato/Writing]]]
+
+- Where does philosophy begin?
+
+  - "Wonder is the feeling of a philosopher, and philosophy begins to wonder."
+  - The realization that you are in a state of wonder
+  - Idea is that you ultimately gain wisdom
+
+- Dialogue (as Banal)
+
+  - Socrates: "Why have you come at this hour, Crito? Isn't it still early?"
+    Crito: "It is indeed."
+    Socrates: "About what time?"
+    Crito: "Just before dawn."
+    Socrates: "I'm surprised the prison warden was willing to let you in."
+    Crito: "He knows me by now, Socrates."
+    - Cannot assume simplicity is meaningless in Plato
+  - Banality => Profundity
+    - Socrates: "Not everyone knows how to tend to [therapeuein] dogs, but dog trainers do."
+      Euthyphro: "That's right."
+      Socrates: "Because dog training is expertise in tending to dogs."
+      Euthyphro: "Yes."
+      Socrates: "And cattle breeding is expertise in tending to cattle."
+      Euthyphro: "Of course."
+      Socrates: "Well, but piety or holiness is tending to the gods? That's what you're saying?"
+      Euthyphro: "It is."
+      Socrates: "But doesn't all tending accomplish the same end? I mean something like some good or benefit for what's being tended to - as you see that horses, tended to by horse trainers, are benefitted and made better. Or don't you agree that they are?"
+      Euthyphro: "Yes, I do."
+      Socrates: "And so dogs, of course, are benefitted by dog training and cattle by cattle breeding, and similarly for all others. Or do you think that tending aims to harm what's being tended?"
+      Euthyphro: "No, by Zeus, I don't."
+      Socrates: "Then if piety is tending to the gods, does it benefit the gods and make the gods better? Would you concede that whenever you do something pious, you're making some god better?"
+      Euthyphro: "No, by Zeus, I wouldn't."
+      Socrates: "No, I didn't think that was what you meant - far from it. But it is why I asked what you did mean by tending to the gods, because I didn't think you meant that sort of tending."
+      Euthyphro: "And you were right Socrates, since that's not the sort I meant."
+      Socrates: "All right. But then what sort of tending to the gods would the pious tending be?"
+
+- The Allegory of the Cave
+
+  - Socrates: "From the beginning people like this have never managed, whether on their own or with the help by others, to see anything besides the shadows that are projected on the wall opposite them by the glow of the fire."
+    Glaucon: "How could it be otherwise, since they are forced to keep their heads immobile for their entire lives?"
+    Socrates: "And what do they see of the things that are being carried along [behind them]? Do they not see simply these [namely, the shadows]?"
+    Glaucon: "Certainly."
+    Socrates: "Now if they were able to say something about what they saw and to talk it over, do you not think that they would regard that which they saw on the wall as true beings?"
+    Glaucon: "They would have to."
+    - Only through philosophy can one liberate themselves from the cave
+    - Prisoners mistaking what they think they know for reality
+  - The Soul's Ascent to Truth
+    - "The visible realm should be likened to the prison dwelling, and the light of the fire inside to the power of the sun. And if you interpret the upward journey and the study of things above as the upward journey of the soul to the intelligible realm, you'll grasp what I hope to convey... In the knowable realm, the form of the good is the last thing to be seen, and it is reached only with difficulty... It isn't surprising that the ones who get to this point are unwilling to occupy themselves with human affairs."
+      - Not something you think is good, but the true form of the good
+      - This journey is a difficult process
+      - If those who see the good aren't willing to engage in human affairs, is Socrates actually teaching something valuable
+        - Aristophanes' *Clouds*
+
+- Lovers (of Philosophy) in their Right Minds?
+
+  - "From the outlandish mix of these two feelings - pain and joy - comes anguish and helpless raving: in its madness the lover's soul cannot sleep at night or stay put by day; it rushes, yearning, wherever it expects to see the person who has that beauty... It forgets mother and brothers and friends entirely and doesn't care at all if it loses its wealth through neglect. And as for proper and decorous behavior, in which it used to take price, the soul despises the whole business."
+    - Discusses the effects of love
+    - Possibly troubles readers, do these teachings lead you out of your mind?
+
+- The Soul
+
+  - "We will liken the soul to the composite nature of a pair of winged horses and a charioteer. Now the horses and charioteers of the gods are all good and of good descent, but those of other beings are mixed; and first the charioteer of the human soul drives a pair, and secondly one of the horses is noble but the other quite the opposite in breed and character. Therefore in our case the driving is necessarily difficult and troublesome."
+    - Claims that gods are entirely good, and therefore their horses are pure
+    - For humans, the idea of the soul is mixed
+
+- The Soul Has Wings
+
+  - "When a soul is perfect and fully winged, it mounts upward and governs the whole world; but the soul which has lost its wings is borne along until it gets hold of something solid, when it settles down, taking upon itself an earthly body, which seems to be self-moving, because of the power of the soul within it; and the whole, compounded of soul and body, is called a living being, and is further designated as mortal."
+    - The soul that is not whole/perfect falls until it takes hold of the physical and becomes an earthly body
+    - The human needs philosophy to ascend and complete the soul
+
+- Written Beauty => The Character of the Writer
+
+  - "Lack of gracefulness, bad rhythm, and disharmony are related to bad speaking and bad character, but their opposites are related to and copies of the opposite, a temperate and good character."
+    - Relationship between how something is written vs. the character of the writer
+    - Telling us the nature of his own soul?
+
+- Reality and Writing
+
+  - "When anyone reports to us that he has met a person who knows all the crafts and everything else that people severally know, and that there is nothing that he does not know more exactly than anyone else, our tacit rejoinder must be that he is a simple fellow, who apparently has met some magician or sleight-of-hand man and imitator and has been deceived by him into the belief that he is all-wise, because of his own inability to put to the proof and distinguish knowledge, ignorance, and imitation."
+
+    - What is the relationship between knowledge and writing?
+
+  - "Some people tell us that these poets know all the arts and all things human pertaining to virtue and vice, and all things divine. For the good poet, if he is to poetize things rightly, must, they argue, create with knowledge or else be unable to create. So we must consider whether these critics have not fallen in with such imitators and been deceived by them, so that looking upon their works they cannot perceive that these are three removes from reality, and easy to produce without knowledge of the truth. For it is phantoms, not realities, that they produce."
+
+    - Readers read a written account of what the poet perceives is the form
+
+    - Creation of a new kind of system by which you turn to philosophy, not literature to discover truth
+
+- What is Love?
+
+  - All desire is to be reunited with the missing half
+  - Desire and longing is a return to wholeness
+  - Notions that are ultimately privileged in the *Symposium*
+    - Diotima's Speech (spoken through Socrates)
+      - "A person must remark how the beauty attached to this or that body is related to that which is attached to any other... It is gross folly not to regard as one and the same the beauty belonging to all; and so, having grasped this truth, he must make himself a lover of all beautiful bodies... But his next advance will be to set a higher value on the beauty of souls than on that of the body..."
+        - You first become attracted to somebody
+        - Take note that your whole notion of beauty is expanded outwards to all bodies
+        - Once this realization is made, you are a lover of all beautiful bodies => the one to the many
+        - Not just the bodily beauty you are responding to, but the beauty recognized by the soul
+    - True Beauty
+      - "Turning rather towards the main ocean of the beautiful he may by contemplation of this bring forth in all their splendor many fair fruits of discourse and meditation in a plenteous crop of philosophy; until with the strength and increase there acquired he sees a certain single knowledge connected with a beauty, which has yet to be told."
+        - When one turns towards the transcendent form of the beautiful, the contemplation of it generates philosophy, a love of beauty and wisdom
+    - Diotima says Love =
+      - "First off, Love's always poor - hardly tender and beautiful, as the many think that he is. No - he's hard and rough and barefoot and homeless, always makes his bed uncovered on the ground, sleeping on doorsteps and in the road in the open air, and, true to the nature of his mother, always living in lack. But, like his father, he schemes after what's beautiful and good - courageous, fervent, bold, a wonderful hunter, a constant weaver of plans, desiring understanding and resourceful in the search for it, a lover of wisdom all his life, a wonderful sorcerer, alchemist, wise man."
+        - Sounds like a description of Socrates => not necessarily beautiful, but who is in search of the good
+        - Alcibiades' later contributions seem to confirm this connection to Socrates
+        - Is Socrates the person that embodies love?
+
+- Plato's *Apology of Socrates*
+
+  - Apologia - "speech in one's own defense"
+  - 399 BCE: defense against charges of impiety and corrupting the youth
+  - Socrates argues that he has wisdom insofar as he knows that he knows nothing
+    - How can he teach things that corrupt people if this were the case?
+  - The role of the daimonion
+    - Little god that lives in his head that tells him what to do
+
+- The *Apology*: Questions to Consider
+
+  - Does Socrates ever truly rebut the charges agains him? Consider the role of irony and humor
+  - Describe how Socrates shifts the conversation from human particulars to philosophical universals
+  - What "wisdom" does Socrates offer in this speech?
+  - What is the relationship between Socrates' life and his ideas? In what ways is his life like a Form? "True philosophers make dying their profession."
+  - What are the argumentative benefits and disadvantages of the gadfly image?
+  - How is the image of Socrates here like and unlike that presented by Aristophanes?
+  - Why do you think the Athenians voted to condemn Socrates?
+
+
+
+## Lecture 26: 
 
 - 
 
 
 
-## Lecture 26: Aristotle
+## Lecture 27: 
 
 - 
 
 
 
-## Lecture 27: Alexander, Student of Aristotle
+## Lecture 28: 
 
 - 
 
 
 
-## Lecture 28: Greece “Under” Rome
-
-- 
-
-
-
-## Lecture 29: The “Coolness” of Classics
+## Lecture 29: 
 
 - 
 
