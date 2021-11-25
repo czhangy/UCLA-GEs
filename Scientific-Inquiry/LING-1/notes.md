@@ -1,0 +1,1308 @@
+# LING 1 - Fall '20 - Silvestri
+
+
+
+[TOC]
+
+## **Lecture 1: Introduction**
+
+- Linguistics is the scientific study of language
+  - We make observations about what people say
+  - We form hypotheses and test them against data to revise them
+  - We develop a theory matching the results
+- Language is an instinct that we act on in daily life
+  - Just like our visual system is a subconscious process
+  - Many facets of language operate subconsciously
+  - Conscious knowledge doesn't take away these processes effects
+    - You can't force yourself to not understand language if you understand it
+- Language is a kind of tool
+  - A tool for communication used to express meaning encoded into sounds/hand shapes
+  - Listeners decode speech into meaning
+- Language is a kind of knowledge
+  - What do you know when you know a language?
+    - You have a system of knowledge - grammar - that gives us building blocks that we can use to create more complex structures
+    - We know how to use this system
+  - This is a type of unconscious knowledge
+    - Expletive infixation → rules that we inherently follow without even knowing them
+  - Phonetics - we understand the inventory of our language
+    - McGurk Effect shows that we intuitively know the mouth shape of a particular sound
+    - Mismatch between what we hear and what we see → changing perceptions
+    - Doesn't matter if we consciously know what sound we're hearing
+  - Phonology - understanding the possible sound patterns in our language
+    - Tested with Jean-Burko Gleeson's Wug Test - forms plurals of nonsense nouns → shows we don't have a known list of plurals, we intuitively have a rule system to form plurals
+  - Morphology - we know a variety of words in our language
+    - We know potential words and we can form complex words from less complex ones
+      - Differ → different → different
+    - We have a lexicon - our mental dictionary of words we know
+      - We likely have words that are not in any written dictionary
+    - We know there are constraints to how a word can be built
+  - Syntax - we know how to build phrases and sentences
+  - Semantics - we know how to assign meanings to words in sentences
+  - Reading and writing are not part of knowledge of linguistics
+    - For most of human history, reading and writing were not available
+    - Focus on spoken language
+  - Native speakers may not know the history of words in their language → doesn't play a role in the knowledge of language
+  - Being a fully competent native speaker of a language is independent of educational level
+    - Being more or less educated has no effect
+- Distinguish between linguistic competence and linguistic performance
+  - Linguistic competence : what you know in your mind, what you can do, systematic knowledge of building blocks
+  - Linguistic performance : what you actually do, what actually comes out of your mouth, subject to physical limitations
+    - Performance errors like slips of the tongue
+- Can we find a set of properties that all human languages share?
+- Features of language
+  - Arbitrariness - the relationship between a form and meaning in a word is arbitrary
+    - Pseudo-exceptions: onomatopoeic words → still have some differences between language
+  - Creativity - speakers use a finite set of building blocks to create and understand an infinitude of novel sentences
+    - Sentences cannot simply be memorized or learned by imitation
+    - Especially evident in children
+    - Emphasized by Noam Chomsky
+    - There's no limit to how long a sentence can be
+- The set of universal properties possessed by all human languages - Universal Grammar
+  - Can be thought of as a set of laws for human language
+  - All languages have a lexicon, phonetic system, phonology, morphology, syntactic structure, and semantics
+  - True for spoken and signed languages
+  - All languages have ways of forming questions, negating a sentence, have means to indicate action, possess a set of discrete sounds
+- Development of grammar
+  - All children
+    - Acquire the language of their environment
+    - Acquire language spontaneously
+    - Exhibit linguistic creativity
+    - Pass through similar stages as they build their own grammar
+      - Babbling → babbling to specific language sounds → single-word utterances → two-word utterances → overgeneralizations → most fully acquire by 5
+    - Suggests there's a strong biological component to language development → supports UG
+- Two types of grammar
+  - Descriptive grammar - linguist's description or model of the mental grammar
+    - What speaker's rules actually are
+  - Prescriptive grammar - rules of grammar used by teachers, for example
+    - What the speaker's rules should be
+    - Can you understand people when they break these rules?
+    - Ex) Double negatives in English, stranded/dangling prepositions
+
+## **Lecture 2: Intro to Linguistics**
+
+- The language instinct
+  - We humans, all of us, are all capable of intuitions about language
+- Lingua - Latin for language and tongue
+  - Linguistics and language both come from this root word
+- Linguistics is the science of the human faculty of language
+- Ferdinand de Saussure (1853-1917) → when it comes to language, we need to study human beings that speak it
+- One human cognitive faculty → many languages spoken in the world
+- Case study: Italy and its linguistic landscape
+  - Italian is not the language of Italy → Italo-Romance varieties → called dialects
+- Diglossia - speaker is able to speak 2 systems based on different social situations, functionally-determined language choice
+  - Occurs in situations of long standing societal multilingualism
+  - 2+ languages: high and low, used by virtually everyone in the society
+    - High language: in formal domains
+      - Used to talk to strangers, bosses, teachers, etc.
+      - Largely school-learned
+- Understanding the tension between language diversity and identity is one of the most fruitful research agenda of modern linguistic theory
+- Grammar is knowledge of a language's sound system, its words (meanings and forms), and its sentences
+  - Such knowledge is usually unconscious
+  - The other component of language is called a lexicon
+- Why study language?
+  - The questions that we try to ask and answer when we study language contribute to answer the ultimate questions about human beings
+
+## **Lecture 3: Language and Dialect**
+
+- Language variations/dialect differences
+  - Is the way that any one person or group of people speak better than anyone else's?
+- What is a dialect?
+  - Popular: a dialect is a type of pseudo-language spoken by uneducated people
+  - Popular: a type of speech that's different from your own
+  - Popular: a dialect is a corrupt form of the language it's derived from
+  - Popular: dialect are perceived as lacking grammar
+  - A dialect refers to any variety of language spoken by a group of speakers
+    - Everyone speaks a dialect
+    - There's no such thing as a god or bad dialect
+    - A language is a collection of dialects, one of which has been adopted as the standard variety, which people think of as "the language"
+      - Assigned for a variety of social/historical reasons
+- Characteristics of a Standard Language
+  - The dialect of the ruling or most influential class is adopted as the standard
+  - Literacy → acquires a written form
+  - Standardization → a grammar that provides the rules of the language
+  - Has an authoritative dictionary
+  - Spelling/writing is fixed → out of competing forms, a single one is adopted as correct
+  - A correct pronunciation
+  - Public life → taught in school, used in an official setting
+- Language Variations
+  - One dialect is often considered a prestige dialect
+  - Often associated with positive attributes: education, sophistication, intelligence
+  - Others are substandard
+  - Associated with the reverse: ignorance, lack of education, laziness
+- Understanding Variation
+  - Language is used differently in different contexts
+  - Varies according to geography, social class, political ideology, age, gender, sexual orientation, situation, time
+- Geographic Variation
+  - If variation is based on geography, we focus on geographic variations
+    - Soda vs. pop vs. coke
+  - American dialect vs. British dialect
+- AAVE - African American Vernacular English
+  - Sociolinguistic focus on AAVE after Civil Rights Movement for integration in schools
+  - Be-deletion → occurs when SAE can use contractions
+- Social Variation
+  - Eckert Study
+    - Studied a high school in Detroit, focusing on jocks vs. burnouts
+      - Jocks - middle-class, intent to leave after graduation
+      - Burnouts - working-class background, local friends, intent to stay
+    - Strong correlation between social status and negative concord
+      - Jock girls < jock boys < burnout girls < burnout boys < "burned out" burnout girls
+  - Class-based h-deletion in Norwich
+    - Social class up, h-deletion down
+  - Variation in use of standard 3rd singular present `-s` in verbs
+    - Social class up, `-s` drop down
+- Notions of Correctness
+  - Standard language form is thought of as the correct form → speakers have higher prestige
+  - Educational System - teaches correct and incorrect grammar
+  - Government - only standard form is used in official gov't business
+  - Social class - linguistic properties are often correlated with socio-economic status
+- Stigmatization
+  - Double negation
+  - Regularized verb forms
+  - Different subject-verb agreement patterns
+  - Ain't
+- English Dialect Case Study - Singlish
+  - Singapore is a highly ethnically diverse country
+  - Lots of native speakers
+  - Singapore is highly multilingual → get to see what kind of English arose as a result of this
+    - 4 official languages: Malay, Mandarin,Tamil, and English
+    - English is the de facto language of gov't
+    - English promoted as a neutral language
+  - Strongly stigmatized → "English corrupted by Singaporeans"
+    - Speak Good English movement
+  - Discourse particles
+    - Spoken indication of speaker's attitude
+    - "Lah" - reassurance, impatience
+    - "What" - marks obviousness or a contradiction
+    - "Meh" - indicates surprise or skepticism
+- Register Variation
+  - Level of formality
+  - Case study - "like" - not a marker of a particular dialect, used colloquially across multiple dialects
+    - Critics concerned with the supposed deterioration of the English language
+    - Use is meaningless, thought of as indicative of a limited vocabulary → wrong
+      - Used as a quotative complementizer
+      - Used as signal approximation/an approximative adverb
+      - Used as a discourse marker → signals relationship between sentences
+        - Could be exemplification, illustration, explanation, etc.
+      - Used as a focus marker → indicates that what follows is important
+    - Often associated with young people - "Valley Girl" → also false
+    - Multiple uses of like have been around for a century
+- Linguistic Profiling - using the characteristics of a person's speech to identify them as a member of a particular group
+  - Purnell, Idsardi, and Baugh - can you connect the way a person speaks and discrimination
+    - Baugh found discrimination in landlord appointments when switching between SAE, AAVE, and Chicano English
+    - The "hello" was clipped out of the introduction, the listener was able to identify the correct dialect 70% of the time
+- Sign Languages
+  - Diversity often goes unrecognized
+  - 2-3 in 1000 babies born deaf, 2 million profoundly deaf people, 90% born to hearing parents, 100,000+ ASL users in US
+  - Myth 1: Sign language is universal
+    - There are many different sign languages (~300)
+    - Mutually unintelligible
+    - Different sign languages use different signs
+    - There can be dialects of sign language
+  - Myth 2: Sign language is iconic/just gestures
+    - Some signs are iconic
+    - Most signs are unguessable and are not iconic
+    - If iconic, most signs would be similar across variations of sign language
+      - Abstract concepts would be impossible to sign
+  - Myth 3: Sign languages are encodings of spoken languages
+    - Probably fostered by the existence of fingerspelling
+      - Manual representation of the letters of a language, oftentimes if there is no sign for the word
+  - Myth 4: Signed languages are just strings of hand motions
+    - "Signed languages don't have grammar" → false
+      - If this were true, you could sign whatever you want
+      - 5 basic parameters: shape of the hand, place of articulation, movement, palm orientation, facial expression
+    - Each signed language has a restricted set of hand shapes that can be used
+
+## **Lecture 4: Variation in Language**
+
+- About Languages
+  - We all have high-level grammatical insights without even being aware of it
+  - These grammatical insights are described by linguists
+  - Linguistics is the scientific field that scientifically studies language
+  - Language is a cognitive faculty and can be expressed by speakers in multimodal dimensions
+    - Sign languages - SLs provides some of the best evidence of a universal language device
+  - We live in a multilingual world
+    - Bilingualism/Multilingualism
+    - Language diversity
+    - Diglossia - same speaker using 2 languages in 2 distinct social occasions, one formal and the other informal
+- Space/Place
+  - Regional differences are something everybody acknowledges
+  - There are differences at any level of language use
+    - Ex) American vs. British English
+  - Why do regional/local differences develop?
+    - Different places/varieties established by people from different places, backgrounds, varieties
+    - Barriers to interaction let each variety develop in its own way (or avoid changes that happen elsewhere)
+    - Different varieties are in contact with different other languages or varieties
+    - This is easier to understand by looking at an actual example:
+      - Sardinian varieties are different from the rest of Italo-Romance varieties
+        - Geographical barrier - island
+      - Extreme south Italy varieties are different from the rest of the dialects spoken in the Peninsula
+        - Long-standing contact with Greek-speaking people - Magna Graecia
+- Time/Age
+  - Languages vary in time
+    - The same language shows remarkable differences based on the time of attestation
+  - The way the speakers speak changes in a lifetime
+  - What does it mean if two people speak differently?
+    - Two different possibilities
+      - Age grading
+        - There are stable ways of talking based on our age
+          - When today's younger people age, they'll adopt older generation way of speaking
+        - These changes across the lifespan could be due to different changes in life (entering the workforce, etc.)
+      - Apparent time hypothesis
+        - People born in 1930 reflect a 1930s way of talking, people born in 1990 reflect a 1990s way
+          - This assumes that the way we speak is more or less steady the same throughout our lives
+        - Comparing generations lets us see change as it happens
+        - What does this mean for linguistics? We can study change while it happens
+- Variation and Change
+  - Languages do not change quickly
+    - We all use both old and new forms together for a while
+    - Some of us use the old form, some use the new
+  - So change over time is reflected in variation at any single time point
+    - Not all variation is part of a change
+    - Some variation is stable, sticks around for centuries
+- Language Variation: Sign Languages
+  - SLs
+    - Fully developed human languages
+    - Languages of deaf communities
+    - Express meaning and convey grammatical features through a visual-gestural system (body, hands, facial gestures)
+  - Universality confirmed!
+    - Despite the different modality in which meaning and grammar are expressed, SLs confirm that language is a biological ability and a cognitive faculty acquire by all human beings
+  - ASL varies from place to place
+    - Two-handed vs. One-handed variants of the ASL cow based on southern region vs. other regions of the US
+  - Change in time in BSL
+
+## **Discussion 1: Dialects**
+
+- Linguistic Variation
+  - People speak differently from each other
+  - Basic question: Is one person's way of speaking better than everyone else's
+    - If yes, how is this determined?
+    - If no, why not?
+  - Habitual/Invariant Be: African American Language
+    - Used to describe an action that occurs regularly over time
+      - Adverbs: often, usually, always
+    - Does not give any indication of whether they are currently in the process of doing that thing
+    - Cannot mean that something has just happened once
+  - All dialects are equally rule-governed and equally correct, but one dialect is considered a prestige dialect while others are considered (by non-linguists) to be substandard
+    - Prestige dialects are associated with positive attributes (education level, sophistication, etc.)
+    - Other dialects are considered the opposite
+- Popular Notions of Dialect
+  - A dialect is a pseudo-language spoken by uneducated or country people
+- What is a dialect?
+  - A dialect refers to any variety of a language that is shared by a group of speakers
+  - Everyone speaks a dialect
+- Thinking about Variation
+  - We have seen in the lectures that the dialects of AAVE and Singlish have grammar structures just like SAE
+- Summary
+  - Negative attitudes about non-standard speech are pervasive
+  - We have seen these negative attitudes have no linguistic basis
+  - Native speakers may be unaware of the grammar rules of non-standard speech
+
+## **Lecture 5: The Brain and Language**
+
+- Where is language processed in the brain?
+  - Are all aspects of language processed in the same part of the brain?
+  - What happens to language when this part gets damaged?
+- Physical structure of the brain
+  - 2 hemispheres
+  - 2 cells: neurons and glia
+    - Neurons have a soma (body), dendrites (electrical impulses bring info through these), axon (electrical impulses go out of the cell)
+  - Outer shell is called the cortex
+    - Cortex composed of billions of neural cell bodies
+    - Sometimes called gray matter
+  - Corpus callosum
+    - Bundle of axons/white matter that connects the 2 hemispheres and allows them to communicate
+  - Contralateral control
+    - Stimuli from one side of the body is sent to the opposite side of the brain
+      - Presentation of the stimulus in the right visual field of both eyes is processed through the left hemisphere, crosses the corpus callosum, and is communicated to the right hemisphere
+    - Plays an important role in our understanding of language/its location in the brain
+- Early ideas on the brain → phrenology
+  - Developed parts of the brain are bigger and create bumps in your skull
+  - Pseudoscience
+  - Introduced the idea of locality in the brain
+    - Left hemisphere
+      - Written and spoken language
+      - Dichotic listening
+        - Simultaneously play 2 distinct sounds → subjects only report hearing one sound → almost always the right ear
+        - This sound is the sound presented to the left hemisphere → suggests strong left hemisphere preference
+      - Split brain patients
+        - Patients with severed corpus callosum → hemispheres cannot communicate with each other
+        - Words/images flashed into the left/right visual field
+        - Correct reporting of what is seen in the right visual field
+        - Cannot report what is seen in the left visual field → could still draw what they saw → linguistic response unavailable
+        - Very strong evidence that language is lateralized to the left hemisphere
+      - Wada Test
+        - Anesthetizes one hemisphere of the patient's brain
+        - Ask patient to identify an object in their left hand
+          - No response when left hemisphere is anesthetized
+            - Could still identify the object
+          - Linguistic responses possible when the right hemisphere is anesthetized
+      - Brain imaging techniques
+        - We can look at healthy brains to see what's going on
+        - FMRI - Function Magnetic Resonance Imaging
+          - A giant electromagnet
+          - Can measure changes in magnetic properties in the brain
+          - Activated neurons use more oxygenated blood → magnetic properties different between oxygenated and deoxygenated
+            - Have the patient perform certain tasks to see which areas of the brain respond
+            - Measure the patient's base signal and their signal when they're performing the task
+- Language Areas in Left Hemisphere
+  - Broca's Area
+    - Observed Tan's brain → lesion in the local area, connected to linguistic disability
+    - Damage to this part is called Broca's Aphasia
+      - Speech is broken and halted - telegraphic speech
+      - Words make some sense, but structure is incorrect → semantics are ok, syntax is not
+      - "Agrammatic aphasia"
+      - Good comprehension of simple sentences, poor comprehension of complex sentences
+      - Writing ability
+        - Few words, but they make sense
+  - Wernicke's Area
+    - Observed language deficits that didn't involve Broca's Area
+    - Identified damage association in the temporal lobe
+    - Damage to this part is called Wernicke's Aphasia
+      - Speech is fluent, but doesn't make much sense
+      - Grammar is not usually affected
+      - Problems with word choice and meaning → semantics off, syntax is ok
+      - Comprehension severely impaired
+      - "Semantic aphasia"
+      - Writing ability
+        - A lot of words, but they don't make sense
+  - Aphasia
+    - A disruption of linguistic ability due to brain damage
+    - Language isn't just housed in a simple box in the brain
+      - It's localized to specific areas in the left hemisphere
+- Sign Languages
+  - Neuroimaging sign languages
+    - Looked at hearing English speakers, hearing BSL signers, and deaf BSL signers
+      - English speakers saw Broca's and Wernicke's lighting up
+      - Hearing BSL signers saw Broca's and Wernicke's lighting up
+      - Deaf BSL signers saw Broca's and Wernicke's lighting up
+        - All groups pattern more or less the same for both hemispheres
+  - Even though spoken languages and signed languages use different modalities, they're both processed as language in the brain
+- Are language abilities related to general intelligence?
+  - People often associate language ability with intelligence
+    - If this is true, what should we find?
+      - Low IQ → poor language ability
+      - High IQ → high language ability
+  - Specific Language Impairment (SLI)
+    - Affects ~7-8% of kindergarten age children
+    - Deals with very specific types of difficulty in grammar
+      - Functional words, tense, plurality, etc.
+    - May start speaking late and be hard to understand
+    - Thee children have normal IQ and have equal cognitive ability in other areas
+      - Only linguistic ability is affected
+    - Doesn't agree with hypothesis, expected correlation doesn't hold
+  - Williams Syndrome
+    - If language is separate, we should find high language skills but low IQ cases
+    - Overall IQ: 40-90
+    - Limited spatial and motor skills
+    - Extremely social and friendly
+    - High level of vocabulary and grammar
+    - Better than average facial recognition
+    - Often love music
+    - Result of deletion of one copy of approximately 20 contiguous genes on chromosome 7
+  - Linguistic savants
+    - People who have low general intelligence, but very high language intelligence
+    - Another case of dissociation between language ability and IQ
+
+## **Lecture 6: Biological Linguistics**
+
+- How do we know that language is a biologically-determined ability?
+- Language development and age/time
+  - Language involves a critical period of language acquisition
+    - A span of time after which complete acquisition is difficult or impossible
+    - "Window of opportunity"
+  - Critical period is widely documented, not only for our species
+- Types of critical period in other species: acquisition of songs by birds
+  - Young birds reared away from their species fail to acquire the song
+  - Even when returning to their original habitat
+  - If chaffinches isolated during 4th month, they do not acquire the birdsong of its species
+    - Hearing the song before or after: useless
+    - They need direct trigger during specific period
+- Types of critical period in other species: kittens
+  - Sight development in kittens
+    - One eye temporarily closed when young
+    - Fail to "wire up" their natural circuitry for that eye
+    - Do not make up for that deficit later
+- Types of critical period in other species: chickens
+  - Pecking behavior triggered by exposure to light during the first 2 weeks of life
+  - Chickens raised in the dark and fed with droppers for 2 weeks will not learn how to peck
+- Experiments on humans? No
+  - Humans cannot be directly tested the same way
+  - Cases of lunatic or criminal behavior by parents
+    - Well-studied case - Genie
+  - Accidental situations (illness) have occasionally created such situations
+    - Chelsea
+      - Profoundly deaf from birth
+      - Came from a loving home
+      - Initially misdiagnosed as being intellectually disabled
+      - Started learning language at age 32 when she was correctly diagnosed
+      - Developed a fairly good lexicon
+      - Syntax was broken
+      - Some functional items present, but totally unprincipled
+    - E. M.
+      - Profoundly deaf from birth
+      - No contact with the deaf community
+      - Hearing aids at 15 years
+      - Normal IQ, cognitively functional
+      - Severe deficiencies in verbal comprehension and production
+        - After 4 years trying to learn Spanish
+- Language is a biologically-based ability
+  - E. Lenneberg (1967)
+    - Hypothesized a critical period for language development
+    - Biologically-determined ability
+      - Language = walking upright
+    - Critical period - period of time when the brain is undergoing a process of lateralization
+      - Brain is divided into 2 parts
+  - Lennenberg's Hypothesis: based on studies of recovery after aphasia
+    - Children recover well, but adults do not
+  - Maturational constraint on language acquisition
+    - Issue of maturational changes in brain plasticity
+      - Time affects brain plasticity
+  - Different account: neural commitment hypothesis
+    - During language acquisition, brain adapts to the structure of L1(s)
+    - Language exposure tunes the system to select the useful input
+    - Neurons become committed to encoding linguistically relevant properties of L1
+    - Neurons cannot be recommitted upon L2 exposure
+- What is an L2?
+  - Natural language acquired after the L1
+    - When the critical age of L1 acquisition is closed
+  - L1 vs. L2 = acquisition differences
+    - Not performance differences - L1 does not always correspond to the language in which an L2er is more proficient
+- Comparing L1 and L2 acquisition
+  - Is 2nd language acquisition in adults like first language acquisition in children
+  - L1 and L2 acquisition are generally different
+    - They start out differently
+    - Clear-cut distinction: native language or not?
+  - L1 and L2 acquisition are also comparable
+    - L2ers like L1ers are creative in the process of language acquisition
+    - L2ers construct grammars too
+  - Fundamental Differences hypothesis
+    - L1 and L2 adult acquisition - fundamentally different processes
+      - L1 acquisition
+        - A biologically-driven program specific to language
+        - Uniformity, absence of error, speed and ease of acquisition
+      - L2 acquisition
+        - Adults use general problem solving skills
+        - Learning process is goal-oriented, uses feedback and direct instruction
+  - The role of the learning context
+    - Positive influence of naturalistic exposure on L2 sociolinguistic development
+    - Effects of context of acquisition exerts a significant effect on multilinguals later pragmatic use of language
+    - Languages learned only in a formal context
+      - Use of L2 mostly in a formal context → lack of socio-pragmatic competence
+
+## **Discussion 2: The Brain**
+
+- Brain and Language
+  - Localization of language in the brain
+  - Aphasias
+  - Intelligence
+- Lateralization
+  - What evidence do we have to say that language is processed in the left hemisphere?
+- Dichotic Listening
+  - What happens in a dichotic listening experiment?
+    - Different sounds are played simultaneously to different ears
+    - People almost always report the sound played to the right ear
+  - Music is processed in the right hemisphere
+    - In the dichotic listening test, subjects report hearing music in the left ear
+- Wada Test
+  - One hemisphere of a patient's brain is temporarily put to sleep
+  - The patient is then asked to count numbers, identify objects, and answer questions
+  - Left brain asleep?
+    - Subject unable to produce language
+    - Can identify picture of object
+      - Left hemisphere is capable of subconscious language activity
+- Split Brain
+  - Corpus callosum severed - no communication between hemispheres
+  - Based on contralateral nature of brain organization
+- Two Types of Aphasia
+  - Broca's Aphasia
+    - Broken syntax
+    - Semantically coherent
+    - Relatively good comprehension, can understand simple sentences but not complex sentences
+  - Wernicke's Aphasia
+    - Patient can produce fluent sentences
+    - Utterance doesn't make sense in meaning
+    - Grammar usually not affected
+    - Problem w/ word voice
+    - Comprehension severely impaired
+    - Semantic aphasia
+- Sign Languages
+  - Sign languages activate the same brain centers as normal language
+  - Sign language uses visual-spatial cues
+    - Usually processed in right hemisphere
+    - Sign language processed in left hemisphere
+- Language and Intelligence
+  - People oftentimes associate language ability with general intelligence
+    - Specific Language Impairment (SLI)
+      - Very specific types of difficult with language, omission of function or grammatical words
+      - Fall in the typical IQ range, normal ability in all other areas like speech comprehension and hearing
+    - Williams Syndrome
+      - Average IQ: 55
+      - Limited spatial and motor skills
+      - Extremely social and friendly
+      - Typically have strong affinity for music
+      - May have exceptional sense of rhythm, be moved emotionally by music
+    - Linguistic Savants
+  - Language is not tied up with general intelligence
+    - Develops separately from other aspects of intelligence
+- Sapir-Whorf Hypothesis
+  - When we learn a new language, does our way of thinking change?
+  - Wilhelm von Humboldt argued that certain language types are more adequate for thought and civilization
+  - Whorf proposed a specific mechanism for how language influences thought
+    - Guide to the interpretation of experience
+    - Speaker interpretation → language-specific meanings
+    - Language suggests associations not entailed by experience
+  - Formulations
+
+## **Lecture 7: Phonetics**
+
+- Phonetics is how speech sounds are produced, transmitted, and perceived
+  - We're going to focus on their production
+- When you know the phonetics of your language, what do you know?
+  - The phonetic inventory - the set of sounds in the language
+    - SAE includes subsets of consonants and vowels
+    - Doesn't include other types of sounds
+  - What do you know when you know the phonetic inventory of a language?
+    - You know how to separate a continuous stream of speech into distinct words and a word into distinct sounds
+- Vocal tract
+  - Structures that work together to produce speech sounds
+  - The way we pronounce vowels and consonants is directly related to this structure
+  - Alveolar ridge
+  - Hard palate
+  - Soft palate/velum
+  - Uvula
+  - Pharynx
+  - Glottis
+- Spelling
+  - Why do we need to use articulators to define sounds?
+    - Why can't we rely on orthography/spelling?
+    - Spelling is full of inconsistencies when it comes to sounds
+  - Orthography
+    - Phonetics != spelling → same symbols make different sounds/same sounds made by different symbols/symbols that aren't pronounced
+  - International Phonetic Alphabet (IPA)
+    - Why use the IPA?
+      - Each symbol has a one to one correspondence with a sound
+      - It can be used to represent any human language
+      - IPA symbols enclosed in square brackets
+        - phone = `[fon]`
+    - Consonants vs. vowels
+      - Sounds of language fall into these 2 classes → different kinds of sound
+      - Consonants:
+        - Produced with some closure in the vocal tract that impedes the flow of air from the lungs
+        - Place of articulation - where is the consonant produced?
+          - Articulation - part of the mouth touches or interacts with another area of the vocal tract → 7 places of articulation
+            - Bilabials - `[p]`, `[b]`, `[m]` → sounds produced by bringing both lips together
+            - Labiodentals - `[f]`, `[v]` → bottom lip to the upper teeth
+            - Interdentals - thigh, thus → sounds produce by inserting the tip of the tongue between the upper teeth and the lower teeth
+            - Alveolars - `[t]`, `[d]`, `[n]`, `[s]`, `[z]`, `[l]`, `[r]` → sounds produced by raising the tip of the tongue to the alveolar ridge
+            - Palatals - mission, measure, cheap, judge, you → sound produced by raising the front part of the tongue to the hard palate
+            - Velars - `[k]`, `[g]`, `[n]` → sounds produced by raising the back of the tongue to the soft palate or velum
+            - Glottals - `[h]`, `[?]` → produced with the flow of air through the open glottis
+              - uh-oh - `[?]` → produced when air is stopped completely at the glottis - glottal stop
+            - Labio-velar - `[w]` → sounds produced by a combination of pursed lips and raising the back of the tongue to the velum
+        - Voicing - are the vocal folds vibrating (voiced) or not (voiceless-open glottis)
+          - Pie vs. Buy
+          - Tie vs. Die
+          - Cap vs. Gap
+          - Voiceless vs. Voiced
+            - Voiceless - vocal folds/cords are apart, air flows freely through the glottis - `[s]`
+            - Voiced - vocal folds/cords are together, air forces through, causing vibrations - `[z]`
+        - Manner of articulation - how is the consonant produced?
+          - Stops - there is a complete obstruction of airflow somewhere in the vocal tract
+            - Oral stops
+              - The velum is raised to block the nasal cavity so that when the stop is released, the air flows out through the mouth
+            - Nasal stops
+              - The velum is lowered to open the nasal cavity
+            - Aspiration - a brief puff of air that escapes after the stop is released and before the vocal cords begin vibrating
+              - `[p^h]`
+              - Voiceless oral stops are aspirated in word-initial position
+          - Fricatives - major, but not complete, obstruction in the vocal tract
+            - The opening through which the air escapes is small, so a turbulent noise is produced as a result
+            - `[f]`, `[v]`, `[theta]`, etc.
+            - The articulators are really close, so there is a lot of friction in a small space
+          - Affricates - made by briefly stopping airflow completely, then slightly releasing closure so that a fricative-like noise is made
+            - Stop quickly followed by a fricative
+          - Liquids - some minor obstruction of airflow, but air still passes through
+            - `[l]`, `[r]`
+            - `[l]` is a lateral liquid
+              - Air flows on the sides of the tongue
+            - `[r]` is a retroflex liquid
+              - Tongue is curled back behind the alveolar ridge
+          - Glides - very small obstruction of airflow, articulators move closer together, but not by much
+            - `[j]` - palatal glide
+            - `[w]` - labio-velar glide
+          - Trilled `[r]` - Indian English, not present in American English
+            - One articulator touches another in a very rapid-fire, repeating motion
+            - Dialects of the same language differ by their phonetic inventories
+            - Knowledge of your native language includes knowing what's in your phonetic inventory
+      - Vowels:
+        - Tongue position - front, center, or back?
+        - Tongue height - high, mid, or low?
+          - High - beet, bit, boot, book
+          - Mid - bait, bet, about, but, boat, bought
+          - Low - bat, cot
+        - Tenseness - is your tongue tense or lax?
+          - Tense - muscles tensed and mouth is relatively narrower, slightly higher and longer than lax vowels
+        - Lip rounding - are your lips rounded or not?
+          - 4 rounded vowels
+          - 8 unrounded
+          - Cot-caught merger → [upside-down c] and [a] merge
+          - By itself, lip rounding makes no distinctions between vowels
+        - Diphthong - combinations of two vowels
+          - At least 3 in English
+          - eye, boy, house → combine a vowel and a glide
+      - Natural Classes:
+        - Groups of sounds that can be identities by sharing particular features
+        - Helps us understand differences between dialects
+          - Ex) Canadian Raising → happens before voiceless consonants
+      - Transcription - rendering a word in IPA
+        - Can be more sounds in a word than there are letters
+        - Other times there are far fewer sounds than letters
+        - Letters and sounds have a disconnect
+      - Reverse Transcription - IPA → English
+      - Syllabic Sounds
+        - Every language has rules about which sounds can function as the center of a syllable
+        - Syllable nuclei in English - almost always vowels, but occasionally we allow liquids and nasals to act as the nucleus
+        - Marked with diacritics
+        - Can also be represented with a schwa + the letter
+- William Labov in NYC
+  - Systematic variation in `[r]` pronunciation based on social class, attention paid to speech, linguistic context of a variant
+  - NYE has a dropped `[r]` → word-final position and when the `[r]` sound precedes another constant
+  - Pronunciation of `[r]` is prestigious
+  - Dropping of `[r]` is perceived as nonstandard speech
+  - Went to 3 classes of stores and asked for sale on the fourth floor
+    - 2 kinds each → casual and careful articulation
+    - 2 environments of `[r]` sound
+      - Floor `[r]` pronounced 63%, 44%, 8% from high society → low
+        - Second attempt: 64%, 61%, 18% → marker of the speech of people lower on the socio-economic ladder
+  - Separate study looked at realization of `[r]` before a constant
+    - Looked at realization in casual speech, formal speech, reading style, word lists
+    - Follows results of shopping center study
+- Received Pronunciation (RP)
+  - Prestige dialect → `[r]`-less dialect
+  - Disconnect between social classes in British English and NYE
+  - Studied by Peter Trudgill in Reading, England
+    - Direct relationship found, direct opposite from NYE study
+  - Phonetic markers of social class are arbitrary
+    - Prestige or lack of prestige associated with particular phonetic markers is not random
+      - More marginalized speakers = more marginalized speech forms
+      - Can see how attitudes towards non-standard dialects are shaped
+- Phonology - how speech sounds are organized in different languages
+  - Phonology is the linguistic knowledge a speaker has of the sound patterns that are possible in a language
+    - Pan - alveolar nasal end `n`
+    - Pancake - velar nasal end `n` → `n` precedes velar nasal `c`
+    - Pan bread - bilabial nasal end `n` → precedes a bilabial stop `b`
+  - `[t^h jun]` vs. `[t^h un]`
+    - American English prohibits certain combinations of sounds in word initial
+    - position
+      - Yod is dropped when it follows word-initial alveolar sounds
+  - What is the organization of sounds in a given language?
+  - Which sounds are predictable and which are unpredictable based on the environment?
+  - What are the phonetic contexts which allows us to predict the appearance or disappearance of these qualities?
+- Sign Language
+  - To what extent are signed languages like spoken languages?
+  - Can we find phonetics in sign language?
+  - Differ in the handshapes that are permissible
+  - In spoken language the individual sounds in a word are meaningless
+    - Similar to how the individual handshapes in ASL are meaningless
+  - When we think about sounds in language, we can characterize them in terms of features
+    - We can do the same with handshapes
+      - Parameters (or primes) - discrete units of a sign
+        - Handshape
+        - Place of articulation
+        - Movement
+        - Palm orientation
+
+## **Lecture 8: Linguistic Change**
+
+- Case of Martha's Vineyard
+  - Island in the US East coast
+  - Shift in the phonetic position of the first elements of the diphthongs `/ai/` and `/au/`
+    - Studied the frequency and distribution of phonetic variants in:
+      - Several areas
+      - Different age groups
+      - Different occupational groups
+      - Different ethnic groups
+  - Island speech was characterized by the mild centralization of the first element of `/ai/` in words such as wife, night, right, etc.
+  - Little to no centralization of the first element of /au/ in house, out, about, etc.
+    - Centralization means a goes from low to mid schwa
+  - Demographics in the early 60s:
+    - Permanent pop. - 6000
+      - Consisted of Yankees (descendants of early settlers), Portuguese (more recent arrivals), and Native Americans + misc. group (15%)
+    - Big influx of visitors in summer - 40,000
+    - Eastern part of island - "Down Island"
+      - More densely populated and favored by visitors
+    - Western part of island - "Up Island"
+      - More original inhabitants and strictly rural
+    - Chilmark: center of once important fishing industry (~2.5% of ppl.)
+      - Chilmark fishermen antipathetic to the summer people
+      - Chilmark fisherman regarded by other islanders as independent, skillful, physically strong, courageous
+  - Labov's Study
+    - Face to face interviews with 69 informants
+      - Lexical questionnaire
+      - Questions about value judgements (to explore the social orientation of the speaker) and elicit as many diphthongs as possible
+    - Recordings of school pupils reading texts
+    - Recordings in very casual situations (bars, stores, etc.)
+  - Initial results:
+    - Plotted use of centralized vowel against various parameters
+      - Age, pop. group, occupation, location
+    - Summary:
+      - Centralization of diphthongs most prevalent in
+        - Age: 31-45
+        - Origin: Yankees, only by a little
+        - Occupation: Fisherman mostly, less in people working in tourism
+        - Location: Up Island residents, especially around Chilmark
+  - Explanation:
+    - Centralizing tendency was actually diminishing in the 1930s
+    - Remained in dialect of middle-aged rural fisherman
+    - With the advent of tourists, there was an unconscious change among those who most closely identified with the island
+    - Expression of strong resistance to the incursions of the summer people
+- Significance?
+  - Until Labov, dialect studies had focused on rural speakers and had ignored social factors
+  - Urban accents were thought to be too adverse and to heterogenous to study
+  - Labov's conclusion: social factors were in fact the most significant and important
+
+## **Discussion 3: Consonants and Vowels**
+
+- Consonants
+  - Place of articulation: where is the constant produced
+    - Bilabials - bringing both lips together
+    - Labiodentals - touching the bottom lip to the upper teeth
+    - Interdental - inserting the tip of the tongue between the teeth
+    - Alveolars - tongue raised in various ways to the alveolar ridge
+    - Palatals - raising the front part of the tongue to the palate
+    - Velars - raising the back of the tongue to the velum/soft palate
+    - Uvulars - raising the back of the tongue to the uvula
+      - Sounds do not ordinarily occur in English
+    - Glottals
+      - Glottal stop (uh-oh)
+  - Voicing: are the vocal folds vibrating
+    - Voiceless - vocal cords are apart so that air flows freely through the glottis
+    - Voicing - vocal cords ae together so that the glottis vibrates
+  - Manner of articulation: degree of constriction in the vocal tract
+    - Stops - consonants in which the airstream is completely blocked in the oral cavity for a short period of time and the velum is raised so that no air can escape from the nasal cavity
+    - Nasal stops - consonants in which the airstream is completely blocked in the oral cavity for a short period of time and the velum is lowered so that air can escape from the nasal cavity
+    - Fricative - airflow is so severely obstructed that it causes friction
+    - Affricates - these sounds are produced by a stop closure followed immediately by a gradual release in closure
+    - Liquid - there is some obstruction of the airstream in the mouth, but not enough to cause any real constriction or friction
+    - Glides - produced with little obstruction of the airstream
+- Vowels
+  - Tongue position - front, central, back
+  - Tenseness - tense, lax
+  - Tongue height - high, mid, low
+  - Roundness - rounded, unrounded
+
+## **Lecture 9: Morphology**
+
+- Morphology is the study of words - their structure, function, and distribution
+  - Goal is to understand how words are represented in the mind of the speaker
+- Knowledge of words
+  - What do we know when we know a word?
+    - The arbitrary sounds associated with a word
+    - The word's meaning
+    - The word's syntactic category
+      - Syntactic categories will be important when we talk about word and sentence formation
+  - What do we not know?
+    - We might not know how a word is written
+    - We may or may not know the etymology of the word
+  - Lexicon - our own personal store of words
+    - Every word we know has a lexical entry
+    - Our mental dictionary includes all the words we know and everything associated with those words
+    - Difference between physical dictionaries?
+      - Physical dictionary contains many words we don't know
+      - Printed dictionaries often don't contain words that speakers use
+- Looking inside words
+  - Morphemes - the smallest linguistic unit that has meaning
+    - A morpheme is not equivalent to a word
+    - All words consist of at least one morpheme
+    - Discreteness of language - each morpheme is a discrete unit of meaning, which we can manipulate
+    - We can combine morphemes to create words
+    - We can decompose words into their morphemes
+    - Property of all human knowledges
+    - Free vs. Bound
+      - Free morpheme - a morpheme that can stand alone as a free word
+        - 2 types:
+          - Content/lexical - most nouns, verbs, and adverbs → open class, we can add more to create new content words
+          - Functional - serve some grammatical purpose
+            - he, she, it, a, the, etc.
+            - Closed class, we can't usually create new words in them
+        - Lexical vs. Functional
+          - Broca's aphasia patients leave many functional morphemes out of their speech
+            - Leaves lexical morphemes alone
+            - Selective in impairment
+      - Bound morpheme - must be attached to a free morpheme
+        - `-ed`, `-ing`, `-s`, `pre-`, `re-`, `un-`
+        - 2 types:
+          - Inflectional - grammatical, they affect the grammar of the word they attach to
+            - Do not typically change the category of a word
+            - 8: `-s`, (3rd person singular present, plural, possessive), `-ed`, `-ing`, `-en`/`ed`, `-er`, `-est`
+            - Attach to a particular category of word → can attach to almost any word of the particular category
+            - Refine meaning, don't change the core meaning
+          - Derivational - help to derive new word categories
+            - Often change the part of speech
+            - Usually not as productive as inflectional morphemes
+    - We can transform words into something else all the time, but we know what's ok and what's not → allows us to create novel words
+    - Words have structure and morphemes are the building blocks → creative, yet structured
+    - Affixes combining
+      - Certain affixes attach to certain kinds of words
+    - Word trees:
+      - Runner → run `-er`
+      - Greasy → grease `-y`
+      - Create a roadmap of how to build a word
+      - Only combine in a particular order and only with specific categories of other morphemes
+      - Be careful of ambiguous words
+      - Unlockable
+  - Affixation
+    - One process which we use to build new words
+    - We can adapt the meaning of a word by piling more affixes onto it
+    - Affix - any morpheme that attaches to a root (bound morpheme)
+      - Suffix - affixes that attach after the root
+      - English causatives - `-en` → derivational suffix
+    - New bound morpheme? `-ass`
+      - Acts as an intensifier → bound morpheme
+  - Infixation
+    - Infix - an affix that attaches inside the root
+    - Expletive infixation
+    - Iz infixation
+    - Homeric infixation
+  - Circumfixation
+    - Circumfix - affixes that surround the root both initially and finally
+- Morphological Analysis
+  - Case Study: Kanuri
+    - Chadic language of Nigeria
+    - `n[schwa]m-` is the morpheme that derives nouns from adjectives
+  - The absence of an affix can be significant
+  - Null symbol identifies an unmarked morpheme
+  - The English plural morpheme
+    - `[s]`, `[z]`, `[Iz]` are allomorphs of the plural morpheme
+    - Wug Testing
+    - `[s]` - voiceless
+    - `[z]` - voiced
+    - `[Iz]` - sibilants
+- Inflection
+  - Inflection morphemes are purely grammatical - tense, number, gender, case, etc.
+  - Often very productive
+  - Typically come after derivational morphemes in a word
+  - Can perform a great number of things
+  - English doesn't make great use of this property - case marking
+- Word Formation
+  - Affixation, prefixation, suffixation, infixation, circumfixation
+  - Reduplication - forming new words by duplicating part or all of an existing word
+    - Contrastive Focus Reduplication
+      - "We're not living together-living together"
+      - Puts focus on the most prototypical, stereotypical example of something
+    - Singlish
+      - Makes extensive use of reduplication
+      - Allows for reduplication of nouns, adjectives and verbs
+      - Adds a closeness aspect to it
+      - Constrained by one syllable for proper names
+      - Adjectival reduplication
+        - Plain adjective and comparatives can be replicated
+        - Superlatives cannot be
+      - Verb reduplication
+        - Reduplicating once - to do something a little bit
+        - Replicating twice - continuous action
+
+## **Lecture 10: Morphological and Syntactic Variation**
+
+- Reduplication in Italo-Romance
+  - The case of the formation of superlatives
+  - At least 3 ways of expressing the superlative degree of an adjective
+    - One is a pure morphological derivation: `-issim-` suffix
+      - SID lacks this superlative formation method
+- Variation in Syntax: Comparing Latin American Spanish and Iberian Spanish
+  - Majority of Spanish speakers who exported Spanish in Latin American came from the Andalusia
+    - Many dialects of Latin American Spanish share a variety of features with Andalusian varieties
+  - Word and syllable final `/s/` > `[h]`
+    - Aspiration of /s/ when placed at the end of a syllable
+    - Iberian Spanish `[s]` is pronounced
+    - Latin American Spanish `[s]` → `[h]`
+    - Andalusian Spanish
+      - `/s/` can be deleted
+      - Possible morphological consequences
+  - Points of Difference
+    - Phonetics, morphology, syntax, lexis
+    - LAmSp weak pronouns can be reduplicated
+
+## **Discussion 4: Morphemes**
+
+- Types of morphemes
+  - Free: lexical and functional
+    - Lexical morphemes form an open class → we can coin new words from the available morphemes
+    - Functional morphemes form a closed class → we cannot coin or create new items from this class
+      - Prepositions
+      - Pronouns
+      - Conjunctions
+      - Determiners - a, an, the, etc.
+  - Bound: derivational and inflectional
+    - Derivational - can changes the syntactic category of the word they attach to
+    - Inflectional morphemes never change the category of the root word
+
+## **Lecture 11: Syntax**
+
+- Syntax is the study of how phases and sentences are constructed
+- There are a lot of similarities between word construction and sentence construction
+- 2 approaches
+  - Ordered linearly - no hierarchy
+  - Words have internal structure, grouped into constituents
+  - Words are not linear in a sentence
+- Constituents
+  - Words are grouped into units called constituents
+  - Sometimes more than one grouping is possible
+  - Infinitely extended length
+  - Word order is constrained
+    - Known when we know a language
+    - Basic word order varies greatly across languages
+      - English - subject - verb - object
+    - Matters in meaningless sentences
+      - Disassociate syntax and meaning - "colorless green ideas sleep furiously"
+  - Similar building blocks across languages
+    - Same syntactic categories - nouns and verbs, maybe adjectives, adverbs, conjunctions, articles, prepositions, etc.
+  - Determining constituency
+    - Even though we have not been taught, we have intuitions about what counts as a consistent or a unit of the syntax
+    - This kind of knowledge is part of native speakers' knowledge of language
+    - There are a number of linguistic tests that we can use to test whether or not a given string of words is a constituent
+      - Perform multiple tests - 1 failed test is not enough to give up
+      - Every sentence/word is a constituent
+- Syntactic categories
+  - Traditional approach is to determine syntactic categories by looking at meaning
+  - Behavioral approach
+    - A word is what it does
+    - Determine a word's syntactic category by how it behaves, not what it means
+  - Nouns - follows a definite article, indefinite article, numeral, which phrase, or a possessor
+    - The book, a book, six books, which book, Mary's book
+  - Verbs - a word that can combine with the tense suffixes
+    - Wiped, wipes
+  - Adjectives - an item that can appear in the position following seem/seems
+    - He seems happy
+    - If `-er` or `-est` can be added to the word, or the word can follow more or most
+      - Happier, happiest, more promising, the most promising
+- Constituency Tests
+  - Replacement test:
+    - There are 2 types of replacement
+      - Pronoun replacement test - many constituents can be replaced by pronouns
+        - The resulting sentence must be grammatical and have the same meaning
+        - I found the puppy at the park → I found him at the park
+          - The puppy is a constituent
+      - Do so/do too replacement test
+        - Can the string of words be replaced by do so or do too → verb phrases
+        - Must maintain the original meaning
+        - The old man found a dollar → The old man did so
+          - Found a dollar is a constituent
+  - Stand-alone test
+    - A chunk of words that can stand on its own as an answer to a question is a constituent
+  - Movement test
+    - When a group of words can be moved around within a sentence, it's a constituent by definition
+      - Fronting - moving a group of words to the beginning of a sentence → grammatical + same basic meaning = constituent
+      - Clefting - breaking up a sentence and feeding it into the formula: it is/was _____ that ______.
+- Constituency tests to trees
+  - All English sentences must contain (minimally) a noun and a verb
+    - Noun phrase and a verb phrase
+  - Phrase structure rules
+    - `S → NP VP`
+      - A sentence must contain a noun phrase and a verb phrase
+    - `NP → (DET) (Adj) N (PP)`
+      - Noun phrases have an optional determiner, optional adjective, mandatory noun, and optional prepositional phrase
+      - `NP`s are interchangeable in sentences, you can replace an `NP` with another `NP`
+      - Targeted by pronoun replacement
+    - `VP → V (NP) (PP) (Adv)`
+      - Verb phrases have a mandatory verb, optional noun phrase, optional prepositional phrase, and optional adverb
+      - `VP`s can be inserted into a sentence in a position which requires a verb
+      - Do so/do too targets `VP`s
+    - `PP → Prep (NP)`
+      - Prepositional phrases have a mandatory preposition and an optional noun phrase
+- Phrase structure trees
+  - Syntactic trees allow us to see/encode the constituency of a sentence directly
+  - When we use trees, we must do 2 things:
+    - Accurately represent word order
+    - Identify constituents
+  - Are like blueprints for a sentence
+    - Show us how sentences are built
+    - How they can be broken down into pieces
+  - Where do these trees/constituent structures come from?
+  - How do speakers correctly structure their utterances?
+  - Leading hypothesis: speakers appeal to unconscious/internalized phrase structure rules
+  - Part of knowledge of native language - you know phrase structure rules that enable you to make hierarchy constituent structures effortlessly
+  - Terminology:
+    - Node - a labeled branch point, where the syntactic category is labelled
+    - Domination - every higher node dominates all the categories beneath it
+    - Sisters - 2 categories that are directly under the same node
+    - Head - the lexical item which determines its syntactic category
+      - Head of a `NP` is always a noun, head of a `VP` is always a verb
+    - Complement - gives additional info about the head
+      - Will be a sister of the head
+      - Every category can have a complement
+      - The complement may be another phrase with another head inside of it
+- Crosslinguistic differences
+  - English - head precedes the complement, Japanese - complement precedes the head
+    - Japanese - phrase structure: `VP → NP V`
+- Structural ambiguity
+  - Sometimes the meaning of sentence is straightforward
+    - Sometimes may have multiple interpretations
+  - Lexical ambiguity
+    - A single word may have multiple meanings
+  - Word structure ambiguity
+  - Syntactic structure ambiguity
+- Habitual be in AAVE
+- Multiple modals in Southern US English
+- Syntactic processes
+  - Subject auxiliary inversion - inversion of subject and auxiliary verb positions
+    - Appears in AAVE → negative inversion
+    - Wh-questions - wh-words end up at the front of the sentence
+    - Conditional inversion - if...then clauses
+    - Varies based on the English dialect → use in different contexts
+
+## **Lecture 12: Language Acquisition**
+
+- How do children acquire their first language?
+  - Who's the teacher?
+    - Direct instruction doesn't work, much of the knowledge is subconscious
+    - Acquisition happens effortlessly
+  - What is the input data?
+    - Adults only utter grammatical sentences → positive evidence
+    - Ambient linguistic data available to children does not include ungrammatical sentences → negative evidence
+    - Only input available to children is positive evidence
+    - Children can distinguish between grammatical and ungrammatical
+  - How do children interpret novel data?
+    - Children are only exposed to a finite number of sentences
+    - However, they eventually acquire the ability to generate and understand an infinite number of sentences
+  - What errors do children make?
+    - They speak differently from adults
+    - Pattern of their errors seems to be selective or limited
+    - They would not make certain errors that would be overgeneralized from what they hear in adult speech
+    - Regular vs. irregular verbs
+      - Regular → `-ed`
+      - Irregular → no `-ed`
+      - Overgeneralized by children
+    - Auxiliary verbs
+      - Not overgeneralized with `-ed`
+  - 4 facts: no instruction is involved, no negative evidence, finite input leads to infinite productivity, non-adult-like errors → Logical Problem of Language Acquisition
+    - "Poverty of the Stimulus" → input from the child's linguistic environment doesn't seem to be enough to produce fluent speech
+- Theory of Imitation - children imitate the adults around them in certain situation
+  - Overgeneralizations tells us this theory is wrong
+  - Children make errors that adults don't make
+- Theory of Correction/Reinforcement - children learning is based on correction of bad sentences + positive reinforcement for correct speech
+  - There seems to be no systematic positive or negative reinforcement from adults
+    - Approval expressed after 45% of grammatical and ungrammatical sentences
+  - Theory bad
+  - Piedmont/Inuit/K'iche'/Mohawk
+- Theory of Innateness
+  - Model of innateness: developed with primary focus of addressing PoS
+  - Language knowledge is innately specified
+  - Richly structured
+  - Innate knowledge of a language is called UG, blueprint for language
+  - If language is innate, why do people come to acquire various different languages as their first languages?
+    - UG component (categories of linguistic expressions, structured sentences and phrases) + specific properties (nouns/verbs/subjects/objects representation in the language, sentence structure)
+    - UG is like the seed of a grammar of any language
+  - UG is like the OS of a computer, variations of language are software → must fit with the OS
+- What is acquired?
+  - Word order acquisition
+  - Phonetic and phonological acquisition
+- What is acquisition driven by?
+  - Example suggests language acquisition does not seem to be driven by imitation, correction, or reinforcement
+  - Children's knowledge of language is complex and shows subtle implicit knowledge of rules
+  - Since we are not overly taught these things, the claim is that this knowledge is hard-wired into the human genome
+  - UG therefore facilitates first language acquisition, which explains why children develop language so effortlessly, rapidly, and uniformly across species
+- Critical Period Hypothesis
+  - Chaffinches acquiring song
+  - Kittens and vertical/horizontal sight
+  - Goslings and moving objects
+  - Environmental input required during critical period for development
+  - Birth → onset of puberty
+  - Victor
+    - Language progress was generally poor after 5 years of training
+  - Genie
+    - Learned how to communicate a message, acquire vocabulary
+    - Could not use grammatical morphemes, use complex syntax structures
+    - Showed language processing in the right hemisphere
+    - Unclear if related to abuse
+  - Chelsea
+    - Deaf, misdiagnosed as mentally retarded until 31
+    - Raised in loving and supportive environment
+    - Developed a 2000+ word vocabulary
+    - Able to hold a job, read, and write
+    - Unable to acquire simple word order or complex syntax
+  - Acquisition of ASL
+    - Deaf children whose parents don;t sign
+    - Normal early childhood, except for lack of language input
+    - Early exposure are far superior in signing than later learners
+    - Compared 3 groups:
+      - Native signers
+      - Early learners
+      - Delayed learners
+      - Native → early → delayed
+      - All signers had been signing for 20 years
+- Second language acquisition
+  - Age of arrival is a better predictor of accent than number of years speaking
+- Childhood Aphasia
+  - Recovery is faster and much better
+  - Right hemisphere can step in and take over if needed
+  - 0-3 months - no effect
+  - 21-36 months - language accomplishments disappear, re-acquire all stages
+  - 3-10 years - aphasic symptoms, tendency for full recovery
+  - 11+ years - aphasic symptoms persist
+  - Lateralization tied to the critical period
+
+## **Lecture 13: Language Contact**
+
+- Language contact occurs when 2 or more languages or dialects come into extended contact with each other
+- Languages and speakers do not exist in isolation, but in social settings
+- When we talk about language contact, we're talking about human contact
+- Outcomes
+  - What happens when cultures with multiple different languages come into extended contact?
+  - Widespread bilingualism/codeswitching
+  - Selection of a lingua franca - any language used to enable communication between groups of people with differing native languages
+  - Language creations - pidgins and creoles
+  - Language shift/endangerment and language death
+  - Borrowing
+    - Extremely common and need not be the result of extended contact between languages
+    - Words, phonetics, morphology, syntax
+- Language contact occurs in situations where groups of speakers of different languages come into contact with one another through
+  - Geography
+  - Conquest/war
+  - Trade
+- Terminology
+  - Adstrates - languages in contact that equal prestige
+  - Superstrate - language of dominant group
+  - Lexifier language - the input language that provided most of the basic vocabulary or lexicon
+  - Substrate - language of the less dominant group
+    - Typically provides most of the phonological and grammatical features
+- Pidgins and creoles
+  - Speakers of mutually unintelligible languages are often brought together, perhaps through economic, political, or social factor
+  - In order to communicate, they need to overcome the lack of a common language
+  - Pidgin language - simplified language used in specific interactions such as business, trade, and service
+    - Found across the globe
+    - Has no native speakers
+    - Governed by convention, have established vocabulary and grammatical structures
+    - Have grammars that are simpler than the grammars of their source languages
+    - The vocabulary is usually highly restricted and contains few terms for abstract objects
+    - Pidgins are not mutually intelligible with their sources
+  - Creole languages - Once children begin to acquire a pidgin as a native language, it becomes a creole
+    - As children acquire a pidgin as an L1, they transform its minimal grammar into a thorough, complex grammar
+    - Not broken versions of another language → perception comes from presence of the lexifier language
+    - Essentially the result of colonization, arose because groups of speakers needed to communicate
+      - No group large enough to strongly push their own language
+  - Phonetics and phonology
+    - Simplified consonant clusters
+    - Stopping of fricative
+    - Pidgins and creoles tend to have sounds that are common across languages
+      - Cross-linguistically rare sounds are not found
+      - Pidgins are not tonal, even when the input languages are tonal
+    - Pidgins lack inflectional morphology
+      - Use of reduplication to indicate plural
+      - Not uncommon for creoles to lack inflectional morphology, but some do have it
+    - Pidgins may have flexible word order
+      - Creoles tend to have more fixed word order
+      - Basic word order tends to be subject-verb-object
+    - No complex sentences in pidgins
+      - Creoles have complex sentences since they have fully developed grammars
+    - Pidgins don't have definite or indefinite articles
+      - Many creoles lack articles, but some do have them
+    - Creoles have fully developed tense systems
+- Endangerment and death
+  - This occurs when people no longer speak a particular language
+    - Usually because they adopt another language
+  - Scale of language loss (ethnologue)
+    - 5% of the world's languages are spoken by 94% of people
+    - ~7% are almost extinct
+    - Unequal distribution → hotspots of linguistic diversity
+    - About 90% of the human languages are on the verge of being lost
+  - Language death - when the last speaker of a language dies
+  - Language shift - process by which a language community adopts another language
+    - Almost always precedes language death
+  - Based on study that there will be 50% language loss in the next 100 years
+  - Why do we care?
+    - We need diversity
+    - Human cultures are the result of this diversity
+    - Analogy to ecosystem diversity → the ecological system and its residents re valuable in and of themselves
+    - Language is an integral part to culture → loss of language is a loss to the culture in which the language is embedded
+    - Each language expresses a unique realization of the human experience
+    - Language expresses identity
+    - Languages are repositories of history
+      - Lexicon can give us a window into the past of the speakers of the language
+      - For many histories, they are recorded in only a spoken language
+    - As languages are lost, speakers lose access to part of their history
+    - Languages contribute to the sum total of human knowledge
+      - Each language is a repository of shared and accumulated knowledge of speakers over centuries
+      - Also counts as the potential loss of future knowledge
+    - Languages are interesting in themselves
+      - Incredibly complex manifestations of the human mind
+      - Loss of language → loss of chance to understand how the mind works
+  - Why do languages die?
+    - Factors which put people in physical danger
+      - Natural disasters leading to death/destruction of habitat
+      - Disease
+      - Economic exploitation
+      - Genocide/war/ethnic murder
+    - Factors which change the people's culture
+      - Cultural assimilation
+      - Military dominance
+      - Urbanization
+      - Media
+      - Bilingualism
+    - Stages of assimilation
+      - Pressure on people to speak dominant language
+      - Results in emerging bilingualism in children
+      - Younger generations gifts to the dominant language
+      - Results in shame at using the minority language
+      - Leads to self-conscious semilingualism
+      - Leads to dominant language monolingualism
+        - Can occur in a single generation
+        - Discovery of what has been lost
+      - Forced assimilation → native children forced to assimilate
+    - Language death is similar to language shift in that it's a gradual process
+    - Functions of one language are taken over in one domain after another by a different language
+    - Language death is manifested as a gradual loss of fluency by its speakers, competence gradually erodes over time
+    - Language shift is almost inevitable without active language maintenance
+    - Thinking that a language is no longer useful may result in language loss
+    - Rapid shift occurs when speakers are eager to fit in to society
+  - What can we do to prevent language death/shift?
+    - Understand factors that affect language shift in the first place
+      - Attitudes of the members of the dominant culture → accept the idea of linguistic diversity
+        - Applies to dialects of a language as well as minority languages
+      - Patterns of languages use: socio-economic factors
+        - The more domains a minority language is used it, the easier it is to maintain it
+      - Demographic factors
+        - Large enough community of speakers
+        - The community is able to isolate itself from the influences of the majority
+        - Improved roads, buses, TV, etc. are agents of language shift
+        - Intermarriage can accelerate language shift towards language of partner who speaks majority language, unless multilingualism is the norm in society
+      - Attitudes to the minority language from the speakers
+        - Pride and respect for the language
+        - Language shift is faster in communities where the ethnic language is not highly valued
+        - Symbol of the ethnic identity → less likely for language shift to occur
+        - Language is an important component of identity and culture, maintaining a group's identity and culture is important to them → they maintain their ethnic language to maintain their identity
+      - Speakers need to have a say in the educational system
+        - Show that the language can be used in education, such as the creation of bilingual educational materials
+        - Training of native speakers as teachers
+        - Creation of language materials that are easy to use
+        - Development of written literature, both traditional and new
+      - Speakers must have access to electronic technology
+        - Allows speakers of minority languages to be in contact with each other
+
+## **Lecture 14: Language Change Over Time**
+
+- Why are languages diverse?
+  - Divine intervention - Tower of Babylon
+  - Romance languages come from Roman Empire's spread over Europe
+    - Various regions get descendants of Latin
+  - Social use
+  - Maintenance of identity between social groups
+    - Notice diversity and act on it
+  - Separation from original community followed by innovation in future generations
+    - Builds on top of itself
+    - Analogous to Darwin's finches
+  - Movement
+- Learned vs. innate
+  - Requires hierarchical grouping
+  - Learn how language works by growing up in the community the language is prominent in
+  - Instinctually group sound into meaningful units
+  - Explains whether languages are similar or diverse
+- Can see progression from earliest examples of English to modern English
+- Early Middle English Vowel Shortening
+  - Long vowel becomes short when it was followed by either 2 consonants or 2 unstressed syllables
+- The Great English Vowel Shift - distinguished middle English from modern English
+  - Vowels move up
+- Languages are genetically related if their histories can be traced back to a single ancestor
+  - Comparative method - requires languages have systematic sound correspondences
+  - Mass comparison method - find resemblances across language
+    - Can statistically rule out missed correspondences or accidental matches if enough data is present
