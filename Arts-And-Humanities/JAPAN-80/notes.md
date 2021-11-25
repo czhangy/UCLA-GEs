@@ -1,0 +1,361 @@
+# JAPAN 80 - Winter '20 - Yamazaki
+
+
+
+[TOC]
+
+## **Discussion 1: Gunning, Davidson, and Wittgenstein**
+
+- Reading Points: Tom Gunning
+  - "Making Sense of Film"
+    - Unique qualities and use as historical evidence
+      - Objectivity and editing
+        - Can create stories of events that didn't happen in reality
+      - Film unlikely to capture key historical moments
+    - How to approach film as part of social/cultural history
+      - Record of daily life
+      - Who made the film and for what purpose
+        - Was it a government, religious association, etc.
+          - Think about the intended audience and purpose
+      - Who is the audience and what perspective does the film reflect?
+  - "Film Criticism"
+    - Domination of historical and theoretical methods
+    - Should not dismiss evaluative film criticism
+    - Where do our evaluative categories come from? How do they shape what we write about?
+    - Strength of film criticism = focus on the individual feature
+- Reading Points: Davidson and Wittgenstein
+  - Davidson:
+    - An "agent" exercises ability to act intentionally, but some actions invoke unintended actions
+    - We judge action as disclosing something about agent identity
+    - Action is a realization of freedom against the reality of the external environment
+  - Wittgenstein:
+    - Relationship between inner life and external behavior is more complicated than "action reveals intentional movement," or "external behavior exemplifies internal character"
+  - Action is not just intentional movement, but something more complex
+
+## **Lecture 1: Animation and Cinema**
+
+- Agent, symptom, and reflexive critique
+  - Not film as a reflection of society
+    - Not homogenous culture
+  - Film as an agent - what does it do?
+    - Promote new forms of life
+      - Heterosociality, autonomous subject, commodity culture
+    - Shifting understanding of identity, belonging - exploration not limited by reality
+      - Cultural nationalism
+      - Also dislocation, deterritorialization
+  - Film as a symptom
+    - Film as part of burgeoning capitalist mass culture
+    - History of cinema → history of modernization
+  - Film as reflexive critique
+    - Experience of cinema models "modernization without modernity"
+    - Not tradition vs. modernity but inescapable condition of life
+- Animation and Cinema - Colin Williamson
+  - Cinema *is* Animation
+    - Creation of sequential motion; the illusion of motion
+    - Animation of pictures
+  - Animation bestows animate-ness on an inanimate entity, "modern magic"
+    - Power of vivification
+  - Animation provides "a forum for achieving something like an intuitive or sensory understanding of the ‘effectiveness' of moving images and their uncanny metamorphoses" (Williamson on Eisenstein)
+- Revealing life vs. giving life
+
+## **Discussion 2: Paprika**
+
+- Things to consider:
+  - Cinematography
+  - Editing
+  - Mise en scène
+  - Sound
+    - Diegetic (sounds the characters can hear/with a source onscreen)
+    - Non-Diegetic
+  - Performance
+- Tips:
+  - Syllabus policy (-25% every hour)
+  - Address the prompt
+  - Cite quotes
+  - You do not need to cover everything
+  - No singular truth - only persuasive arguments
+  - Be careful:
+    - Do not essentialize
+    - Make generalizations unsupported by film evidence
+- Reading Points:
+  - "Our capacity to recognize agency in action (behavior that looks like intent) backfires in our experience of an artform like film"
+    - Relationship between animate and inanimate objects
+  - Animation and Cinema
+    - Convergence of performance magic and early animation practices
+      - Flip book (illusion) vs. blow book (shock)
+      - "What bearly animation archives is the bestowal of animate-ness on an inanimate entity, not the revelation of animate-ness where it is otherwise imperceptible"
+  - Stern:
+    - Uncanny as a sensation
+      - Seemingly novel, but always a return
+      - Frightening
+      - Involuntary
+      - Likely to experience in familiar situations
+      - Doubling, dividing, interchanging of self
+    - The cinematic body as one that is simultaneously moved and is moved
+- Discussion: Paprika
+  - Agency:
+    - Split between Paprika and Chiba
+      - Emphasized by feelings towards Tokita
+      - Physical split
+    - In the rescue scene:
+      - Chiba is inside Paprika, unconscious state = lack of agency
+  - Time: cycles of dreams
+    - Movie sequence in Kanagawa's dream
+  - Space: dreamspace → external or internal?
+    - Same space contrasts (reversal of roles)
+    - Multitude of selves, actions across multiple levels of consciousness
+
+## **Lecture 2: Narrative and Attractions**
+
+- Story (presumed and inferred events) combine with plot (added non-diegetic material), both presented by explicitly presented events
+- Narrative defined by space, time, cause and effect, and situation
+- Personhood and the constitution of self
+
+## **Lecture 3: Cinema of Attractions**
+
+- Tom Gunning
+  - 1906/1908
+  - The hegemony of narrative films in the history of cinema
+  - The spectator
+  - Exhibitionism
+  - Modes of exhibition
+  - Energy moves outward
+  - Temporality
+  - Anarchy
+- "Against Interpretation" - Susan Sontag
+  - Form v. Content
+  - Surface v. Depth
+  - Feeling/Sensory v. Meaning/Intellect
+  - Comfortable v. Nervous
+- Aesthetics
+  - (Fine) arts, imaginary, fictive, illusory
+  - The notion of "beautiful"
+  - Culture
+    - Creative genius, moral sensibility, refinement of "taste"
+  - Corporeal, "materiality" (the luminousness of the thing in itself)
+  - Discourse of the body
+  - Sensory experience of perception
+    - Touch, smell, hearing, etc.
+
+## **Discussion 3: Dead or Alive**
+
+- Reading Points: Gunning
+  - Early Cinema (pre-1906): "cinema of attractions"
+  - 1907-1913: narrativization of cinema (feature films)
+    - Eventual incorporation of attraction into narrative
+  - "Cinema of attractions"
+    - Display/exhibition
+    - Shock/surprise at the expense of a story
+    - Different relationship between the film and the viewer
+      - Narrative = suspense
+      - Attractions = surprise
+- Reading Points: Sontag
+  - Reduction of art to its content
+  - Act of interpretation as translation
+    - Alters the meaning of the original
+    - Conceals itself by professing to disclose "true meaning"
+  - Film as a medium that can resist interpretation
+    - Hard for us to grasp at things to translate
+  - Development of a vocabulary for forms that is descriptive (how or that something is) rather than prescriptive (what it means)
+- Reading Points: Bordwell
+  - 3 cinematic systems
+    - Narrative logic
+    - Temporal representation
+    - Spatial representation
+  - Hollywood cinema by model
+    - Dominated by narrative logic
+    - Character-centered causality
+    - Pre-packaged characters and actors
+    - Dual lines of action
+      - Heterosexual romance
+      - Goal (crime, politics, sports, business, etc.)
+- Dead or Alive
+  - Genre and the Yakuza film
+    - What genre is this?
+    - How does that structure our expectations?
+    - Does the film fulfill, deny, exceed those expectations?
+  - Role of excess
+  - Issues of gender, race, class
+  - Spectator relationship to film
+    - Group v. individual viewing
+    - Attraction v. repulsion
+    - Sequel?
+
+## **Discussion 4: Lastra**
+
+- Shot Analysis Assignment
+  - Provide Content
+    - Place of shot in film narrative/overall structure
+    - Whether shot is typical/atypical to those before/after it in film
+  - Thesis
+    - Why the element is significant
+    - May describe how said element is enhanced by others, but maintain emphasis on a single feature
+  - Big Picture
+    - Broader function/significance of this shot in relation to the sequence
+    - Broader function/significance of this shot in relation to the film
+    - How this shot relates to the theme of the course
+      - Action, cinema of attractions, narrative, etc.
+- Elements
+  - Lighting
+  - Framing
+  - Shot length
+  - Camera movement
+  - Camera Angle
+  - Focus
+  - POV
+  - Performance style
+  - Setting
+  - Music
+- Lastra Reading
+  - Development of sound design to immerse the reader
+    - Creation of a new reality
+  - Creates a full sensory experience
+  - Wagner
+  - Noise in daily life - desensitization to noise
+    - Requires continual increase of shock value
+
+## **Lecture 4: Realism and Cinematic Violence of Jidaigeki**
+
+- Jidaigeki:
+  - Early age: small production, with smaller budget without capitalization of film
+- Japanese Film Industry in the late 1910s:
+  - The impact of WWI on the global film market
+    - A blow to European companies across the globe
+    - A blow to the dominance of French and Italian films in Japan
+    - The rise of American cinema
+      - Comedies, Universal's "Bluebird" films
+    - Hollywood films began to take a prominent place in reformist literature after around 1916
+- Reformist Discourses in the late 1910s and 20s:
+  - Inept photography
+  - The lifeless and slow-moving drama
+  - Actors who are all sloppy and dull-witted
+  - The use of onnagata ("female impersonator")
+  - Cinema seen as an inherently silent medium that communicated through gesture → replace benshi (narrators) with intertiles -- poetic and artistically designed ones
+  - Good screenplays
+- Japanese Cinema before the 1920s:
+  - Kyugeki/Kyuha - old drama, kabuki style period drama
+  - Shinpa - new school, or modern drama
+  - The mixed-media rensageki - chain drama, a mixture of cinema and theater
+- Japanese Cinema after the 1920s:
+  - Jidaigeki - literally meaning period drama, films set in pre-Meiji Restoration
+  - Shinpa - set in post-Meiji Restoration
+  - Gendaigeki - the ever-changing present from the mid-1920s onwards
+
+## **Discussion 5: Lady Snowblood**
+
+- Linda Williams: "Film Bodies"
+  - Form, function, and system of seemingly gratuitous excess
+    - Pornography, horror, melodrama
+  - Types of bodily excess
+    - Bodily spectacle
+    - Ecstasy
+    - Bodily convulsion, inarticulate noises
+    - Female bodies
+  - Excess is not "gratuitous"
+    - Fluctuation of subject positions
+- Jean Ma: "Circuitous Action"
+  - Revenge as a theme predates the cinema
+  - Varieties of filmic vengeance
+  - Cultural expressions of vengeance v. legal and moral philosophy
+  - Vengeance as a crossway
+  - New Wave film movements (1950s, 1960s)
+  - Violent action as aesthetic regeneration
+  - Unique time of revenge (non-linear), reliance on backstory
+  - Explosion of Hong Kong martial arts films in 1970s
+  - New style wuxia pian
+  - Grammar of revenge
+  - "Eye for an eye"
+  - Mimicry that points to the high price of revenge
+  - Revenge gives rise to multiplication and deferral
+  - Satisfaction of revenge → not moral superiority, but ingenuity
+  - Post 1970s revenge films
+  - Jidaigeki, wuxia pian, westerns → vehicles for historical fantasy and myths of national identity
+  - Cross-pollination of genres → loss of conviction → left only with skeletal structure of vengeance
+  - Kill Bill as an intertextual phenomenon
+- Lady Snowblood
+  - Yuki Kashima (Lady Snowblood)
+  - Ryu Ashino (Gishiro Tsukamoto's son)
+  - Sayo Kashima (Lady Snowblood's mother)
+  - Kobue Kitahama (Takemura Banzo's daughter)
+  - Grammar of vengeance
+    - What logic does vengeance follow in Lady Snowblood?
+      - Total annihilation (Yuki) - personal connection, life spent for revenge (mother's), karmic balance
+      - Eye for an eye (Kobue)
+      - Rejection of family (Ryu)
+    - Are there multiple logics? Do certain characters represent, or enact, certain logics?
+  - Temporality of vengeance
+    - What temporalities are at work in Lady Snowblood?
+    - Consider the plot, logic of vengeance, audience time
+  - Action of vengeance and the body
+    - How does the body perform action in Lady Snowblood
+    - Whose body? Whose intent?
+  - Body and vengeance
+    - Yuki lands killing blow
+    - Ryu sacrifices self
+    - Ryu connected to both Yuki and his father
+
+## **Discussion 6: The Emperor's Naked Army**
+
+- The Emperor's Naked Army
+  - What is a documentary?
+    - Focus on a real-life event
+    - Commentary (narrator, director, experts, etc.)
+    - Archival clips
+    - Vulnerable to bias
+    - Fact-driven/appearance of objectivity
+    - Tells a story
+    - Lack of actors
+  - What is the difference between a documentary film and surveillance video footage?
+    - Documentaries are narrative based
+    - Consciousness of recording
+    - Documentaries provide context
+    - Documentaries → education, surveillance → evidence
+  - Two views on documentaries:
+    - Editor:
+      - Creating a story
+    - Director:
+      - Show the good and bad
+      - Coherence?
+
+## **Discussion 7: Mackinnon, Stoljar, and Allison**
+
+- Mackinnon: "Women, Self-Possession, and Sport"
+  - Liberal Feminism
+    - Most writing on women adopts this approach
+    - Gender differentiation - real biological natural differences between the sexes
+    - Society has created distorted, inaccurate, irrational, and arbitrary distinctions based on those differences
+    - Aspires to a genderless point of view to eliminate wrong/irrational distinctions
+    - Initiatives toward sex equality are limited to or constrained by real underlying differences
+  - Radical Feminism
+    - Sexism is a problem of gender hierarchy
+      - Objectification is not the result of stereotypes but of subordination of women
+    - Femininity has been defined as easily violated and physically weak
+- Stoljar: Feminist Perspectives on Autonomy
+  - Autonomy generally understood as self-government or self-direction
+    - Kant and Rewis: Rational beings unaffected by embeddedness in a culture, social class, etc.
+  - Potential Problems:
+    - Current understanding of autonomy as promoting masculinist ideas of personhood
+    - Individuals do not operate in a vacuum unaffected by social relationships
+    - Kant and Rewis assume an abstracted individual stripped of distorting influences
+  - Feminist attempts to rehabilitate autonomy → idea of relation autonomy
+  - Attempts to articulate conditions of autonomous choice to better understand gender oppression and related concepts (objectification)
+  - Denies that autonomy requires self-sufficiency
+    - Relationships of care and interdependence are valuably and morally significant
+  - Denies the atomistic personhood of Kant and Rewis
+    - People are socially and historically embedded and are shaped by factors such as race and class
+- Allison: Precarious Japan
+  - Precarity: refers to conditions of work that are precarious
+    - Employment that is uncertain, unpredictable and risky from the point of view of the worker
+    - Loss of social contract around work (income, job, identity, lifestyle)
+  - Not everyone is affected in the same way
+  - 1970s-1980s
+    - Super stable society, high economic growth, job security
+    - Collapsing of market/workplace/family/home
+  - Mid-1990s
+    - Turn to flexible employment, transformation of work/workplace
+    - Replaceable work/workers
+    - Social impermanence: relationships that instantaneously connect/disconnect/never start up
+  - Post 3/11
+    - Discrimination against Fukushima evacuees
+    - Spreading skepticism against government and social institutions
+    - Ikisuraasa ("pain of life")
