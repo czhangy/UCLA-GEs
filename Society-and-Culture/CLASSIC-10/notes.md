@@ -2090,9 +2090,160 @@
 
 
 
-## Lecture 26: 
+## Lecture 26: Miscellaneous Man: Aristotle
 
-- 
+- Mapping the Regions of Aristotle's Thought
+  - Ethics, politics, biology, physics, astronomy, metaphysics, logic, literary criticism
+
+- Aristotle Writes the Syllabus for CL 10
+  - Political life (*Constitution of Athens*, *Politics*)
+  - Epic, tragedy, comedy (*Poetics*)
+  - Philosophy of public speaking (*Rhetoric*)
+  - Sexuality and gender relations (*Nicomachaean Ethics*, *Problems*)
+
+- The One and the Many
+  - "Plato is the essential Buddha-seeker who appears again and again in each generation, moving onward and upward toward the 'one.' Aristotle is the eternal motorcycle mechanic who prefers the 'many.'"
+  - Plato is interested in the whole/ideal motorcycle
+  - Aristotle is interested in the parts that compose the motorcycle
+
+- Here and Now
+  - All natural movement oriented toward a "prime mover"
+  - A perfect being outside of space and time (but not a Platonic Form!)
+  - Not an anthropomorphized deity
+  - Conception of reality must account for change (which Platonic Forms disallow)
+  - Thomas Aquinas (1225 - 1274) adapted Aristotelian ideas to Christian theology
+
+- Aristotle (384 - 322 BCE)
+  - Son of a court physician in Macedonia
+  - Trained in physical observation from a young age => marine biologist
+  - "The craftsmanship of nature provides extraordinary pleasures to those who are able to recognize the causes in things and who have a natural inclination to philosophy."
+    - Belief that philosophy dispels wonder
+
+  - Key ideas:
+    - Kinesis (movement), metabole (change), telos (purpose/end)
+    - The first materialist
+
+  - Metic at Athens
+  - Tutor of Alexander the Great
+    - Association leads to charges of impiety in Athens as Macedon rose to power
+
+  - The Lyceum
+
+    - School founded by Aristotle in Athens
+
+    - Peripatoi ("colonnaded walkways")
+      - Association of thought with movement
+      - Peripatetics were the name given to the school's followers
+
+  - "How do you eat an elephant?"
+    - Breaking down into bites, by which the whole can be reconstructed
+
+  - Syllogism
+    - If `A` implies `B`;
+      And if `B` implies `C`;
+      Then `A` alone must imply `C`
+
+- "The Political Animal"
+  - "A person is by nature a political animal [politikon zoon]. He who is without a city, by reason of his own nature and not of some accident, is either a poor sort of being, or a being higher than man. He is like the man of whom Homer wrote in denunciation: 'Tribeless and lawless and hearthless is he.' The man who is such by nature at once plunges into a passion of war... Man is a political animal in a higher degree than bees or other gregarious animals. Nature, according to our theory, makes nothing in vain; and humans alone of the animals are furnished with the faculty of language."
+    - A person is, by nature, someone who wants to live in a city
+    - If you do not live in a city, you are less than what your nature tells you you ought to be
+      - This person is inclined to engage in war
+
+    - Nothing is without purpose
+
+  - "Language serves to declare what is advantageous and what is the reverse, and it is the peculiarity of humans, in comparison with other animals, that they alone possess a perception of goodness and wickedness, of the just and the unjust, and of other similar qualities; and it is association in these things [touton koinonia] that makes a family and a city. We may now proceed to add that the city is prior in order of nature to the family and the individual."
+    - Language distinguishes us as humans
+    - Other animals have no perception of justice
+    - Idea that the city comes first
+
+- Not just *the what* of Aristotle, but *the how*
+  - Classification
+    - Hierarchies, relations, analogies
+    - Men > women, Greeks > non-Greeks, non-slaves > slaves
+
+  - "By nature" (phusis)
+    - Deviations in nature: are they "natural" too?
+    - Ends (tele)
+
+  - DATA!
+  - Although many of his things are wrong, his methods are still valuable
+    - An archival aspect to his work
+
+- Category Differences
+  - Epic and Tragedy
+
+    - "What is improbable, from which amazement arises most, is more admissible in epic because [the audience] does not see the person in action. For the passage about the pursuit of Hector [in the *Iliad*] would obviously be laughable on the stage, with the Greeks standing still and not pursuing him, and Achilles forbidding them to do so, but it passes unnoticed in the epic."
+      - The How: Genre > Genos > "sort, kind, group" > genus
+
+  - Tragedy and Comedy Compared
+    - "Just as the function of tragedy is to arouse pity and terror through the representation of pitiable and terrifying actions, which come about through an error that is painful or destructive in some way, so too the function of comedy is to arouse pleasure and laughter through the representation of laughable actions, which also come about through an error [hamartia], though not a painful or destructive one. Each kind of poetry aims to purify the part of the soul concerned with these emotions."
+      - Both share an interest in some kind of error, followed by a purification/cleansing
+
+- Aristotle on Rhetoric and Truth
+  - Aristotle says that rhetoric is about persuasion instead of truth
+  - Therefore, rhetoric relies on knowing what an audience believes
+  - Speaker must know commonly held beliefs (koina) and those already widely accepted (endoxa), but to be persuasive, one need not be truthful
+  - But...
+    - "Humans have a natural disposition for the true and to a large extent hit on the truth; thus an ability to aim at commonly held opinions is a characteristic of one who also has a similar ability with regard to the truth."
+      - Syllogism
+        - A speaker must speak to the commonly held beliefs of her/his/their audience
+        - Humans in audience have a "natural disposition" toward truth
+        - Thus, a speaker aiming at the commonly held beliefs will often hit on the truth
+
+  - How to Persuade Someone (of the truth)?
+    - "Of the means of persuasion provided through speech there are three species: for some are in the character (ethos) of the speaker, and some in disposing the listener in some way, and some in the argument (logos) itself, by showing or seeming to show something... There is persuasion through the hearers when they are led to feel emotion (pathos) by the speech; for we do not give the same judgement when grieved or rejoicing."
+
+- Sexuality and Gender Relations
+  - Women have colder bodies than men
+  - Women provide matter for embryos, while men provide matter for the soul
+  - In the womb, embryos that stopped short of full growth owing to lack of heat became female
+    - "A female is, so to speak, a deformed male"
+
+  - Paraphrase of Bertrand Russell: Aristotle could not have claimed that women had fewer teeth than men if he had allowed his wife to open her mouth
+  - Aristotle on Sex in the *Problems*
+    - "Why do both those who have sex and the eunuchs, who do not engage in sex, alike deteriorate with respect to the sharpness of their eyes? Is it because in the one case owing to lust, and in the other owing to the mutilation, the upper parts become drier than they ought to be, and this is most noticeable in those parts for which the function is precise, and such is the organ of sight?"
+
+  - The bald are lustful?
+    - "Why are those whose eyelashes fall off lustful? Is it for the same reason the bald are lustful?... The reason is that the lustfulness cools down the upper parts of the body, which have little blood, such that this region does not concoct the nourishment; and as the hairs do not receive nourishment, they fall out."
+
+  - Aristotle on Sexual Inclinations
+    - "Why do some men enjoy submitting to sex, and some at the same time enjoy being active, whereas others do not? When one is moved by anything, the pneuma races there, and this residue flows to its natural region... Now the effeminate by nature are so constituted that little or no semen is excreted in the place where it is excreted in those whose conditions is according to nature."
+    - But: Aristotle's idea of "nature" is flexible
+      - "Those in whom (the semen collects) in the anus desire to be passive, while those in who it (collects) in both regions desire to be both active and passive; and in whichever of the two it (collects) more, they desire (the corresponding role) more. Now in some this condition even comes to be from habit. For people do whatever they happen to enjoy and they emit semen accordingly. So they desire to do that by which this comes to be, and the habit becomes more like a nature."
+
+- Friendship (philia)
+  - Relationship between friendship and virtue?
+    - How do our friends connect with the development of our soul
+
+  - Three types of philia:
+    - Utility
+      - Using someone for some end, asymmetrical
+
+    - Pleasure
+    - Virtue
+      - Friend that leads you on the path to improve as a moral being
+
+  - "Without friends no one would choose to live, though he had all other goods."
+  - "Those who wish good things to their friends for the sake of the latter are friends most of all."
+  - "A friend is one soul abiding in two bodies."
+
+- The Ideal State in Plato and Aristotle
+  - The state is an entity used to create moral and enlightened citizens
+
+- Legacy => Alexander the Great?
+  - Is Aristotle successful in instilling his notions in his students?
+
+- Aristotle's Legacy
+  - Analysis (breaking it down)
+  - Categories
+  - Ordering of knowledge
+  - A focus on the material world - how does the world work?
+  - How can we make sense of reality in terms of what is observable?
+  - Plato for the soul, Aristotle for the body
+
+- Time Passing
+  - "Now, we perceive movement and time together. For even when it is dark and we are not being affected through the body, if any movement takes place in the mind we at once suppose that some time has indeed elapsed... Hence time is either movement [kinesis] or something that belongs to movement."
+
 
 
 
