@@ -2247,9 +2247,99 @@
 
 
 
-## Lecture 27: 
+## Lecture 27: Alexander the Great
 
-- 
+- Greece in the Decades after the Peloponnesian War: Divided and Weak
+  - Various federations with much infighting
+  - Factionalism, strife, and lack of leadership
+
+- Macedon
+  - Greek or not Greek?
+    - Spoke Greek, but had different customs
+    - Heavily debated in ancient times
+
+  - Reputation for revelry
+  - But also archaeological evidence indicating that the place was not the cultural backwater that southern Greeks liked to think it was
+
+- Philip II of Macedon
+  - Sees that Greek territory is weak and ripe for expansion
+  - Creates multiple alliances through marriage to places surrounding Macedon
+  - Isokrates proposes that Philip conquers Greece and unites the nation in a war against Persia
+  - Demosthenes (384 - 322 BCE)
+    - "It seems to me, Athenians, as if some god, out of very shame for the conduct of our city, had inspired Philip with this activity... By always attempting something new, always grasping at more power, he may possible rouse even you, if you have not utterly abandoned hope. Personally, I am surprised that none of you, Athenians, is distressed and angry to find that at the beginning of the war our aim was to punish Philip, but at the end it is to escape injury at his hands."
+      - Contrast of initial activity with current passivity
+
+  - Sarissa spears
+    - Innovation allows Macedon to be incredibly potent as a military force
+
+  - Battle of Chaironeia - 338 BCE
+    - Philip II and his son Alexander (18 years old) defeat alliance of Athenians and Thebans
+    - All 300 men of the Theban Sacred Band perish, along with 1,000 Athenians
+    - Effectively the end of independent Greece
+    - Opposite of Salamis
+
+- Alexander the ___?
+  - Assumes the throne following Philip's assassination by killing off many of his rivals
+  - "When he was still a boy, his self-control manifested itself in the fact that, though violent and impetuous in other respects, he was unmoved by the pleasures of the body and indulged them very sparingly."
+    - Depicted as un-Macedonian
+
+  - "... running right up to the horse and taking hold of the rein, Alexander turned him toward the sun, having apparently guessed that Bucephalas was confused by his own shadow as it fell in front of him and darted about."
+  - Alexander the Philosopher?
+    - "Observing that his son's nature was uncompromising and that he resisted the use of force but was easily led by reasoned argument to do what was proper, Philip tried to persuade rather than command him... Philip sent for Aristotle, the most celebrated and reputable of the philosophers, and paid him a handsome and suitable fee... Philip gave Aristotle and Alexander the precinct of the temple of the nymphs near Mieza, where to this day they point out the stone seats and shaded walkways of Aristotle."
+      - Alexander as a proto-philosopher, even before Aristotle comes into his life
+
+  - Pothos - longing or desire
+    - "Alexander’s physical appearance was best represented by the statues of Lysippus, the only artist Alexander thought worthy to sculpt his likeness. And in fact the traits that many of successors and friends tried to imitate later on – the tilt of his neck, which inclined slightly to the left, and the moistness of his eyes – have been accurately observed by the artist..."
+      - Alexander crafting an image of himself that he wishes to be promulgated
+      - Characterizes his quest for more
+
+  - Alexander "Reads" Greek History?
+    - Idea of conquest of Persia as revenge for Persian invasions during the Greco-Persian Wars a century and a half prior
+    - "Liberating" Persians from the yoke of kingly rule (recall Aristotle’s belief in superiority of Greeks over others)
+    - A second Achilles, who travels east to fight in search of kleos
+    - But also someone who adapted himself to different places
+      - Awareness of cultural differences
+
+  - The Changeable Self?
+    - "It is said that Alexander was so affected by this [comment by Diogenes], and so admired the haughtiness and grandeur of the man who despised him, that when they were departing, and his attendants were laughing and making fun of the philosopher, Alexander said, 'Well, had I not been Alexander, I’d have been Diogenes.'"
+      - Interesting perception of Alexander's self-reflection
+
+  - The Fixed Self?
+    - "When Darius [Persian King] sent a letter to Alexander and his friends, requesting him to accept ten thousand talents in return for his captives, to keep all the territory east of the Euphrates, to marry one of his daughters, and to be his friend and ally, Alexander shared the letter’s contents with his companions. When Parmenio said, 'Well, if I were Alexander, I would accept these terms,' Alexander replied, 'And so would I, by Zeus, if I were Parmenio.'"
+
+  - Alexander and Foreign Philosophers
+    - "No less than the mercenaries, the wise men [in India, including Hindus, Jains, and early Buddhists] made trouble for Alexander by abusing any kings who allied themselves with him, and by encouraging free peoples to revolt – which was why he had many of these men hanged."
+      - If local culture is not to his benefit, he will take action to combat it
+
+  - Alexander's Omens
+    - "Some say the prophet [of Zeus Ammon in Egypt], wishing to hail him with the affectionate Greek greeting, 'O' paidion,' ["O, boy"] misspoke, owing to his barbarian accent, and pronounced the last word with an 's' instead of an 'n,' saying 'O pai Dios,' ["O, son of Zeus"] and that the slip delighted Alexander." => theios aner
+    - "Once Alexander had permitted himself to believe in divine influences, his mind grew so troubled and apprehensive that he regarded any odd or unusual occurrence, no matter how trivial, as a sign or portent."
+
+  - Alexander and Proskynesis
+    - "Moving into Parthian territory, Alexander found himself at leisure, and for the first time donned barbarian attire, either because he wanted to adapt himself to the local customs (in the belief that communion of race and custom is a great humanizer of men), or as an attempt to introduce the practice of ritual bowing (proskynêsis) to the Macedonians by gradually accustoming them to tolerate changes in his way of life and habits... And the sight pained the Macedonians. But since they admired all his other virtues, they supposed they should forgive some of the things he chose to do for the sake of his own pleasure and renown."
+
+  - Alexander as "Lord of Asia"
+    - "Your ancestors invaded Macedon and the rest of Greece and did us great harm, though we had done them no prior injury... As I have conquered in battle first your generals and satraps and now yourself and your own force, and am in possession of the country by the gift of heaven... you must regard me as Lord of Asia... And in future when you send to me, make your addresses to the king of Asia, and do not correspond as an equal, but tell me, as lord of your possessions, what you need."
+
+  - Cicero looking at Alexander looking at Achilles
+    - "The famous Alexander the Great is said to have had with him a great many writers of his own deeds. And even he, when he stood before the tomb of Achilles near Troy said, 'O fortunate young man, to have found Homer as proclaimer of your excellence.'"
+
+  - Battle of Gaugamela, 331 BCE
+    - The Alexander Mosaic (Pompeii, 100 BCE), showing the defeat of Darius at the Battle of Gaugamela
+      - Kairos ("critical moment", world-changing moment)
+
+- Fusion of Greek and Buddhist Cultures of Gandhâra
+  - Conversion of Greek successor king Menander to Buddhism (c. 140 BCE)
+  - Epicurean (Greek) and Buddhist interest in avoiding suffering or disturbance, being a state of ataraxia
+
+- The End of Alexander (323 BCE)
+  - "The Companions had many grievances throughout the expedition. There was the recurring annoyance of Alexander’s Persian dress... and the introduction of foreign cavalry into the squadrons of the Companions. They could not keep quiet any longer, but all shouted to Alexander to discharge them from service and take his father on the expedition (by this insult they meant Zeus Ammon)."
+    - His own men stop his series of conquests
+  
+- Alexander and the Longing for Glory
+  - "Alexander was by common report the most ambitious of men and the greatest lover of glory. He was anxious to leave his name the greatest among all the Greeks and barbarians and longed to be honored, not only by mankind the world over, but, if it were at all possible, by the birds of the air and the beasts of the mountains... But as to Diogenes [Cynic philosopher], when Alexander heard of the words which this man spoke and of the deeds which he did and how he bore his exile, though at times he despised the man for his poverty and shabbiness, as he himself was young and had been reared in royal luxury, yet often he would admire and envy the man for his courage and endurance, and especially for his great reputation, because all the Greeks knew and admired him for what he was."
+
+- Alexander's Death => The Dawn of the Hellenistic Age
 
 
 
