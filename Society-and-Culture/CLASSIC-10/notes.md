@@ -4638,7 +4638,237 @@
 
 ## Reading 13: Alexander the Great and the Hellenistic Age
 
-- 
+- Alexander's Rise
+  - After victory at Chaironeia, Philip went to Corinth to convene a general meeting of representatives of the Greek states to plan an invasion into Persia
+    - Idea that a common enemy could unite the Greeks
+    - Allows Philip repackage his hegemony as the captaincy of the new League of Corinth, a Hellenic alliance
+
+  - Philip would be assassinated, with Olympias and her son Alexander drawing some suspicion
+    - The longer Philip lived, the more likely it was that a different heir would be deemed more legitimate
+    - Alexander would ruthlessly assert his claim to the throne, executing his rivals and sacking Thebes for revolting
+
+- The Campaign in Asia
+  - Alexander would secure his control of Macedonia and receive a mandate to carry the war against the Persians into their territory
+    - Begins the 10-year campaign of conquest that would define his legacy
+    - Alexander was a brilliant tactician
+    - Persia was a large, unwieldy territorial empire that was lightly ruled
+      - Satraps guaranteed flow of tribute to the center, leaving defense in the hands of commanders equipped to deal with uprisings, not foreign invasions
+
+    - Superior tactics and technology made Persia an easy target for the Macedonians
+
+  - From the outset, Alexander strove to legitimize a campaign that was an instance of military adventurism cloaked in the mantle of a vendetta
+    - Propaganda war being fought parallel to the military campaigns position Alexander as a liberator or second Achilles
+      - Either appeals to the Greeks and their origins or as a successor of earlier dynasties, freeing subjects from Persian rule
+
+    - Need to make the campaign into something more than just conquest
+    - Punishing the Persians for the invasion of Greece became not enough, Alexander wanted to claim authority over Asia
+
+  - More than doubled Greek-controlled territory within a year
+    - Campaign was strategically sound and allowed him to test a policy of tolerance in areas where the Persians were seen as usurpers
+      - Facilitated by similarity and polytheistic natures of Mediterranean religions
+      - Contrast in how Alexander sought to reconfigure his leadership within the cultural context of each country
+
+    - Blend of human and divine nature => theios aner
+
+- To Persia and Beyond
+  - Alexander and King Darius clash in the Battle of Gaugamela, resulting in another victory for the Macedonians
+    - Defeat represents a kairos (critical moment) when the axis of the ancient world shifted
+    - The great world of the Persians was now the great world of Alexander
+
+  - Ruling the Achaemenid Empire
+    - Treatment of Babylon illustrates Alexander's approach to rulership
+      - Used shock and awe tactics to approach the city and force it into submission
+      - Proved sensible to the feeling of his new subjects
+        - Ordered the restoration of temples
+
+      - Appointed a member of the Achaemenid ruling class to govern the city
+        - Shows realization that ruling of the empire without them would be impossible
+        - Favoring them offered the chance for continuity and stability
+
+      - Military forces put in command of Greek officer
+        - Separation of administrative and military power reduces the chance of coordinated opposition
+        - Collection of tribute assigned to yet another Greek
+        - Allowed Persians and Greeks to share power
+
+    - Wherever possible, he favored a continuation of the existing bureaucratic arrangements of the Achaemenid empire
+      - Installed loyal subordinates, Greek or Persian
+
+    - Scale of conquest made dramatic change unavoidable
+      - Immense wealth flowed into Macedonia, producing economic repercussions like inflation and fluctuating exchange rates
+
+    - Darius eventually killed by another Persian, who was caught and killed by Alexander
+      - Allows him to fairly claim to be the legitimate and unchallenged ruler of the largest empire ever
+
+  - The Eastern Provinces
+    - Instead of returning to Persian capitals or Macedon, Alexander pushed further east
+      - Ancient sources attribute this to romantic tales of his marriage to Roxane and his desire to outdo Herakles by capturing the fort on the rock of Aornos
+      - Alexander may have been exploring the feasibility of marching further east
+        - Access to trade in the Silk Road
+        - Conquering of the Chinese side of the Pamir Mountains would have meant a massive investment of time and men
+
+    - Alexander set up garrisons on the western side of the mountains, designed to protect and tax the trade coming overland from Xinjiang
+      - These garrison towns would grow into thriving settlements over time
+      - Garrisoned veterans were unwilling settlers
+        - After Alexander's death, there were uprisings from those who wished to go home
+        - Greek political domination of the region was tenuous
+          - Especially true once Alexander's successor, Seleukos I, ceded the far eastern provinces to India
+      - Area would give rise to many fusions of Greek culture
+        - The Graeco-Buddhist art of Gandhara
+        - The legacy of Menander, who would convert to Buddhism and become a sage known as Milinda
+        - Evidence of fluid interplay between identities that Alexander cultivated in his conquered territories
+        - Emphasis on avoiding disturbance (ataraxia)
+
+  - India and the Limit of Empire
+    - Alexander began the transformation of the intermittent trade across the Silk Road into a coherent trade network of cities linked by caravan routes
+      - Policy of urbanization in Central Asia would prove a more long-lasting legacy than his territorial conquests
+
+    - Alexander campaigned in northwestern India
+      - Fashioned as confrontations between worthy and noble kings
+      - In reality, there was very little point/justification to these expeditions
+      - Upon defeating Porus, he called for a descent into the Indus Valley, but his men rebelled and refused, forcing him to turn back
+
+    - Alexander marched his men through the Gedrosian desert in southern Iran
+      - Risked lives for no strategic gain
+      - Shows Alexander's identity as a fighter and not a governor, relentlessly searching for new enemies to defeat
+
+- Death of Alexander and the Succession Crisis
+  - Irreconcilable tensions emerged in the army
+    - Persian subjects were used to performing proskynesis (bowing before superiors), which was offensive to Macedonians
+
+  - Attempted to breed a master-race of Greeks and Iranians
+    - Married 80 of the Companions to the highest-ranking Persian women
+      - Nearly all of them repudiated their Persian bride after Alexander's death
+
+    - Attempts to introduce Persian customs infuriated his men, resulting in mutiny
+
+  - Alexander died of mysterious causes in 323 BCE
+    - Reign marked by purges and executions that suggest a deep level of insecurity and paranoia
+    - Bond between Alexander and his army was fierce, but potential rivals were ruthlessly eliminated
+
+  - Over the next few years, meetings were held in which a series of arrangements were made that would shape the politics of the eastern Mediterranean
+    - Old satrapies of the Achaemenid empire were assigned to various Greek and Macedonian commanders
+    - Reality is that most of the satrapal territories had to reconquered if they were to be held by the successors (the Diadochoi)
+      - Required a constant refiguring of alliances and plunged the region into a series of wars
+
+    - Within years, most of the Diadochoi assumed the title of king
+
+- The Ptolemies
+  - Ptolemy deployed enormous skill in navigating the complexities of power and politics in the Hellenistic Age
+    - Insight that Egypt could be sealed off from much of the rest of the Mediterranean world => movement throughout the kingdom consisted of sailing the Nile, which could be easily controlled
+
+  - Reign over Egypt begins aggressively
+    - Connection with Alexander confers legitimacy
+      - Ptolemy kidnaps Alexander's corpse, bringing it back to Alexandria to be installed in a monumental funerary complex => eventually forms the Library of Alexandria
+        - This eventually emerges as the premier cultural institution of the Hellenistic Age
+
+  - Alexandria becomes a generator of Greek culture
+    - From the poetry of Apollonius to the scientific studies of Eratosthenes
+
+  - Greek Kings, Egyptian Kingdom
+    - Ptolemaic kingdom was also Egyptian, and therefore, a living continuation of a cultural tradition much older than the Greeks
+    - How was the dual nature of the kingdom reconciled?
+      - Strict control of the population and economy
+        - Economy was a planned economy, where royal estates and temple properties were worked by peasants who owed a debt of corvee labor to the crown
+        - Regular inundation of the Nile and close proximity of all productive land to the river made it possible to predict production, allowing the Ptolemies to set production targets and supervise the rural economy
+        - Introduction of new crops and reclaiming of new land
+        - Economy was a continuation and extension of the centralized economy of the pharaohs, serving to maximize revenue to the crown
+
+      - Powerful manipulation of Egyptian religion
+        - Ptolemies presented themselves to their Egyptian subjects as pharaohs
+        - Imagery implies that the Macedonians were simply the latest dynasty in a country that had been ruled by dynasties for millennia
+        - Traditional cults of the Egyptians were favored, winning the favor of the priestly caste who were needed to maintain stability
+
+- The Seleukids
+  - Seleukos Nikator awarded Babylon in the division of spoils, but was driven out in the wars of the Diadochoi
+    - Able to retake the city with the assistance of Ptolemy
+
+  - Once in control of Babylon, he annexed territory to Syria and the Upper Satrapies
+    - Ceded the farthest eastern provinces to India in exchange for war elephants
+    - Ruled an empire that bordered the Mediterranean
+    - Location of new cities suggests that the Hellenistic kings remained obsessed with the Mediterranean
+
+  - Territory shrank steadily over the next two centuries
+    - Usually seen as a mark of the kingdom's weakness in the face of Roman interference
+    - Could also be seen as an understanding that there was no need to control vast amounts of unproductive land when you could concentrate on key nodes within their flourishing trade network
+    - Key to wealth laid in controlling and taxing the flow of luxury goods
+
+  - Understood that maintaining the goodwill of the priestly families was crucial
+    - Restoration of temples was the most tangible expression of this policy of accommodation
+
+  - Vastly larger than Egypt
+    - Contained many different nationalities and languages
+    - Makes administering the empire with a view to extracting wealth in tribute and taxes more complicated
+    - Some regions remained virtually autonomous
+
+- Pergamon
+  - Philetairos founded a dynasty marked by an unusual degree of internal harmony
+  - Transformation of Pergamon from an insignificant fort into a cultural center that rivaled Alexandria
+  - Employed architecture in Pergamon to proclaim their legitimacy as the protectors and continuators of Greek culture
+    - Mirroring of Athens' Propylaia and Parthenon
+    - Connections with the great web of Greek mythology
+    - Followed traditional motifs in Greek architecture
+
+  - Faced threats from invading Gallic tribes in the middle of the third century BCE
+    - Attalos uses his victory to cast himself as a protector of Greek civilization and to adopt the title of king
+
+- The Coming of Rome
+  - Emergence of Rome as a Mediterranean power was the most significant development in the political history of the Hellenistic world
+  - According to tradition, the Romans had expelled their Etruscan kings and founded a republic in the same year that the Athenians expelled their tyrants and founded their democracy
+  - Romans had been open to cultural influence from the Etruscans to the north and the region of Magna Graecia to the south
+  - Pyrrhus of Epirus, attempting to emulate and outdo Alexander, chose to invade southern Italy and Sicily
+    - Invited by the people of Tarentum to join them in opposing Roman expansion into southern Italy
+    - Despite the Romans having more casualties, Pyrrhus was forced to withdraw from the Italian campaign and cross into Sicily to fight the Carthaginians
+    - Shows that Romans relentlessly sacrificed the lives of tens of thousands to defend their city
+
+  - In 272 BCE, Rome sacked Tarentum, signaling the extension of the Roman sphere of influence into southern Italy
+    - Began the Hellenization of Rome as goods, art, and people from the Greek world arrived in Rome
+
+  - By the end of the second century, Rome's expansion brought it into conflict with the other great imperial power in the western Mediterranean, Carthage
+    - Rome was victorious in the First Punic War
+      - Leads to the incorporation of Sicily, its first overseas province
+
+    - Rome's victory in the Second Punic War frees them to turn their attention to the eastern Mediterranean
+      - Here, they would face Philip V of Macedon and Antiochos III of Syria
+
+  - The Roman War Machine and Hellenistic Diplomacy
+    - Rome was in the process of being transformed into a war machine
+      - Policy was largely hammered out in the Senate, where Rome's foes were identified and alliances were made
+      - War policies and alliances endorsed by the popular assemblies
+        - Stacked in favor of the wealthy and influenced by Roman patronage
+        - War brought home treasure, providing incentive to the poor
+        - Nobility saw war as their personal testing ground and means to winning gloria and office
+        - Territories subject to Rome paid their tribute in manpower, not monetarily
+        - Men were increasingly loyal to their commanders, who brought them land and spoils from successful campaigns
+
+    - Hellenistic world developed a diplomatic language and military practice that made international politics a matter of continuous negotiation, gift-giving, alliance, marriage, invasion, and retreat
+      - Hellenistic and Roman authorities approached the Mediterranean world with fundamentally different aims and objectives
+        - Antiochos III marched into Greece to liberate the Greeks in an attempt to extend his territory
+        - In contrast, the Syrian War fought by the Romans against him was an opportunity to win glory by defeating a wealthy enemy
+
+    - Rome was resistant to the idea of direct rule of significant stretches of territory
+      - Continued trouble in defeated areas drew Rome back again and again, leading them to annex these regions
+      - All of Greece south of Macedon was eventually incorporated into the new province of Achaia
+
+    - Expansion of Rome further east witnessed a profound transformation of Rome
+      - Brought Greek philosophers and poets to Rome
+
+  - Expansion of the Roman Empire
+    - Greek east was becoming a persistent problem for Rome
+      - Diplomatic complexity of the region and the increasing demands of the Romans to make alliances made it impossible to fashion a policy of coherent engagement
+      - Opportunity for wealth and glory were an ever-present incentive for commanders to become involved in aggressive military campaigns
+
+    - Commanders were becoming increasingly influential at home and abroad, creating tension with Rome's republican nature
+    - Hellenistic east provided Roman commanders with an opportunity to compete for status, honor, and recognition on a massive scale
+      - The Senate proved incapable of mounting resistance, and actually worked to drive commanders into alliances with one another
+      - The dynastic rule of Hellenistic kings were ineffective in challenging the encroachment of Roman ambitions
+
+    - The Hellenistic world created by Alexander died in the Battle of Actium
+      - Romans under Octavian defeated the fleets of Marc Antony and Cleopatra
+      - The entire Mediterranean was brought under the sway of a single Roman imperium (empire) ruled by Octavian
+
+    - The Greek east would be incorporated into the provincial structure of the Roman empire
+      - Greek culture continued to flourish in the Greek-speaking cities of the eastern Mediterranean
+
 
 
 
