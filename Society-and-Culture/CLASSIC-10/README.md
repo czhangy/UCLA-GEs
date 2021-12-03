@@ -19,7 +19,7 @@
 |   Paper    | Score  |
 | :--------: | :----: |
 | Mini-Essay | 83/100 |
-|   Essay    |  ???   |
+|   Essay    | 91/100 |
 
 ## Exams
 
