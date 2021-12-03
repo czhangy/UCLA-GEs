@@ -2577,9 +2577,36 @@
 
 
 
-## Discussion 9:
+## Discussion 9: *Apology*
 
-- 
+- The Separation of Persuasion and Truth
+  - You can move somebody to some thought/action, but that doesn't require the use of the truth
+  - Put on display for the audience from the first sentence
+- Socrates as God's Gift
+  - Claims that his motivation to pursue philosophy is the oracle's depiction of him as the wisest man
+    - Throughout his pursuit to prove the oracle wrong, he tries to find a man more wise, but cannot
+    - Acts as his "belief" in the gods => they were right
+  - Use of the "Socratic method" (elenchos) throughout his legal trial
+    - Reversal of the trial onto the jury
+    - Pointing out of a lack of interest in the truth
+- Socrates' Argumentative Device
+  - Attempt to expose the weaknesses in others' arguments by detailing them as thoroughly as they can
+  - Re-contextualization of the argument in the form of analogy => logos
+  - Confidence => ethos
+  - Lack of pathos
+    - In Socrates' eyes, this device is perhaps unappealing
+    - A focus on logos as opposed to the weaker pathos => Aristotle
+      - Pre-Aristotelian depiction of the jury as being *not* predisposed to the truth
+    - No connection with virtue
+    - Works too well if it engages the audience, makes way for sophistry
+- Relationship to Greek Literature and Culture
+  - Reference to the depiction of Socrates in *Clouds*
+    - Emphasis that he knows nothing
+    - Pleading of ignorance to disprove this negative image
+    - Doesn't know anything => couldn't be corrupting the children on purpose
+  - Similarity of Antigone
+    - Dedication to some mission in the face of a disproving society
+  - Death as a manner of accessing prior figures in Greek antiquity
 
 
 
