@@ -2343,9 +2343,143 @@
 
 
 
-## Lecture 28: 
+## Lecture 28: "Greekness" in Post-Classical Greece
 
-- 
+- The Greek "Curse"?
+
+  - Reminiscing on a "better time" 
+
+- Two "Post-Classical" Eras
+
+  - Hellenistic Era (323 - 30 BCE)
+    - Hellenistic = "Greek-like"; "Greek-influenced"
+    - 146 BCE => Defeat of Greek forces at Corinth by Rome
+    - Greek culture spreading through the territory of Alexander's conquest
+    - Mainland Greece getting weaker
+
+  - Imperial Era
+    - Rule of Rome over Greece: 30 BCE - 5th century CE
+    - Self-conscious "Greekness"
+    - Looking backward toward the "glorious" past
+      - Obsession with Homer, Greco-Persian Wars, Periclean/Democratic Athens, etc.
+
+- The Hellenistic Diaspora
+
+  - Spreading of culture throughout Alexander's territory
+  - The Ptolemies and Seleukids
+    - Had to take over areas of the empire after Alexander's death
+    - Regions take on a fusion of Hellenistic culture
+    - The Library of Alexandria, Egypt (peak: 3rd - 2nd century BCE)
+      - The supreme cultural institution of the Hellenistic era
+
+- Characteristics of Hellenistic Poetry
+
+  - Density of reference
+  - Highly allusive; referential of the past
+  - Self-conscious of its own aesthetics
+  - Expressionistic, "avant-garde"
+  - Makes use of uncommon words and place-names from previous poetry
+    - Way of showing readers that Hellenistic poets had really "read" prior poets (especially Homer) down to the last word
+
+  - The Most Influential Poem in the World?
+    - "It is not mine to thunder; that belongs to Zeus... Tread a path which carriages do not trample; do not drive your chariot upon the common tracks of others, nor along a wide road, but on unworn paths, though your course be more narrow. For we sing among those who love the slender voice of the cicada... Let me be delicate, the winged one."
+      - An attempt to change the way poetry is written
+      - Becomes a cornerstone of Roman poetry
+
+  - Callimachus and "Footnote" Poetry
+    - "But I call thee Carneius; for such is the manner of my fathers. Sparta, O Carneius, was thy first foundation; and next Thera; but third the city of Cyrene. From Sparta the sixth generation of the sons of Oedipus brought thee to their colony of Thera; and from Thera lusty Aristoteles set thee by the Asbystian land."
+
+- Aphrodite of Cnidus
+
+  - While poetry became less readable, art become more expressive
+
+- (Pseudo-)Lucian, 2nd century CE, *Erotes*
+
+  - "We pressed on into the temple itself. The goddess stands in the center; her statue made of finest Parian marble. Her lips are slightly parted by a lofty smile. Nothing hides her beauty, which is entirely exposed, other than a furtive hand veiling her modesty. The art of the sculptor has succeeded so well that it seems the marble has shed its hardness to mold the grace of her limbs."
+    - Sense that artists are trying to break out of the stiffness of the Classical era
+    - Movement and life-like
+
+- Greek Accent(s)
+
+  - Stranger: "For goodness’ sake, ladies, put a sock in it! Those broad alphas are too much!"
+
+    Praxinoa: "Aargh! Where’s this bloke from? What’s it to you if that’s how we talk? Order your slaves, not us. You’re talking to a pair of Syracusans, thank you very much! We’re Corinthians, as a matter of fact, by descent. We talk Peloponnesian."
+
+  - Koine => the common language
+
+- Emotional Expressiveness
+
+  - "Drawing wide apart with both hands Eros [Cupid] shot at Medea; and speechless amazement seized her soul... Within her breast her heart panted fast through anguish, all remembrance left her, and her soul melted with the sweet pain. And as a poor woman heaps dry twigs round a blazing brand -- a daughter of toil, whose task is the spinning of wool, that she may kindle a blaze at night beneath her roof, when she has waked very early -- and the flame waxing wondrous great from the small brand consumes all the twigs together; so, coiling round her heart, burnt secretly Love the destroyer."
+    - Reworking of Homeric poetry in a Sapphic fashion
+    - Addition of focus on an individual's expression
+  - "The Old Drunkard"
+    - Image of an ordinary person
+    - Not something that would appear in a temple
+    - Exaggerated realism
+  - "The Boxer at Rest" (330 - 50 (?) BCE)
+    - Bronze
+
+- Pergamon
+
+  - Eventually rivals Rome for a period of time
+  - Founded as an independent kingdom after Alexander's death
+  - Stoa of Attalos at Athens
+    - Was a gift from Pergamon
+    - Huge shift in the balance of power with the spread of Hellenism => places in Greece's periphery have become the centers of wealth and power
+  - Altar of Zeus at Pergamon (in Berlin)
+    - Image of Greek victory over some evil force
+    - Order over chaos, civilization over barbarism => replaying the cultural themes of the Akropolis
+    - Connection to the past
+  - Bequeathed to Rome, not Greece
+    - Despite the obvious ties to Greek culture
+
+- Rome
+
+  - "Greece, once captured, captured its wild conqueror [i.e., Rome]"
+    - Greece fell to Rome, but it became the basis for Roman civilization
+    - Loss of political power in contrast with cultural wealth
+
+- The "Second Sophistic"
+
+  - Term used to describe the flourishing of highly stylized, polished literature by Greeks living under Roman rule
+  - Orators and public intellectuals with a strong command of the Greek language
+  - Educators and scholars
+  - Period of intense nostalgia for the past
+  - But also a period of literary innovation and exploration
+
+- Plutarch (46 - 120 CE) - a Bridge-Builder
+
+  - Bridges Greek and Roman cultures
+  - *The Parallel Lives*
+    - Example: Alexander the Great paired with Julius Caesar
+    - Synkrisis (comparison)
+    - Comparison between your own life and that of figures from the past
+    - Ethical treatises as much as "biographies"
+    - Neither Greeks nor Romans have a monopoly on virtue
+    - Idea of character as transcending culture
+  - *The Moralia* (Ethical Essays)
+    - Over sixty essays on philosophical, practical, political, and personal matters
+    - Inspiration to later essayists such as Montaigne
+    - Often cast as dialogues (think Plato)
+    - Known for their gentleness, tendency to steer a middle way between extremes
+    - Topics include: vegetarianism, the nature of the moon, the supposed bad character of Herodotus (!), how to educate young people, and how to deal with Roman overlords
+  - Plutarch, *Precepts of Statecraft* (Ch. 17)
+    - "When entering upon any office whatsoever, you must not only call to mind those considerations of which Pericles reminded himself when he assumed the cloak of a general: 'Take care, Pericles; you are ruling free men, you are ruling Greeks, Athenian citizens,' but you must also say to yourself: 'You who rule are a subject, ruling a State controlled by Romans, the agents of peace...' Do not have great pride or confidence in your office, since you see the boots of Roman soldiers just above your head. No, you should imitate the actors, who, while putting into the performance their own passion, character, and reputation, yet listen to the prompter and do not go beyond the degree of liberty in rhythms and meters permitted by those in authority over them."
+      - Note of ever-present nostalgia in comparing current leaders to Pericles
+      - Innovation on Pericles' thought => Greeks are no longer free
+      - Don't stir the water, remain at peace with Rome
+  - Plutarch, *Precepts of Statecraft* (Ch. 19)
+    - "However, the statesman, while making his native State readily obedient to its sovereigns, must not further humble it; nor, when the leg has been fettered, go on and subject the neck to the yoke, as some who do, by referring everything, great or small, to the sovereigns, bring the reproach of slavery upon their country... But the statesman should soothe the ordinary citizens by granting them equality and the powerful by concessions in return, thus keeping them within the bounds of the local government and solving their difficulties as if they were diseases, making for them, as it were, a sort of secret political medicine; he will prefer to be himself defeated among his fellow-citizens rather than to be successful by outraging and destroying the principles of justice in his own city and he will beg everyone else to do likewise, and will teach them how great an evil is contentiousness [philonikia]."
+      - Avoid infighting => more peace between Greeks means less interference from Rome
+      - Resolve our conflicts on our own
+      - Marking of a period of decline, where Greece submits to Rome?
+  - Plutarch on the Greco-Persian Wars
+    - "At Salamis and Plataea the fighters established, as though in stone, the freedom of Greece, and they handed it down to the rest of humankind."
+      - Lofty sentiment that no longer rings true
+      - Presence of Roman oppressors
+  - Plutarch, *On Tranquility of Mind* (Ch. 20)
+    - "I am delighted with Diogenes, who, when he saw his host in Sparta preparing much ado for a certain festival, said, "Does not a good person consider every day a festival?" and a very splendid one, to be sure, if we are sound of mind. For the universe is a most holy temple and most worthy of a god; into it humans are introduced through birth as spectators, not of hand-made or immovable images, but of those sensible representations of knowable things that the divine mind has revealed."
+      - Retreating from the reality that Greece was no longer the preeminent power
 
 
 
