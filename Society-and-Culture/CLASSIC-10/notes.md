@@ -2483,9 +2483,76 @@
 
 
 
-## Lecture 29: 
+## Lecture 29: The "Coolness" of Classics
 
-- 
+- "Certain Knowledge from Herodotus," by Lydia Davis
+  - "These are the facts about the fish in the Nile:       ."
+
+- Aristotle
+  - "So they [fishermen] join the chorus and repeat the same foolish tale that we find told by Herodotus the fable-teller, to the effect that fish conceive by swallowing the discharge of male fish."
+
+- Certainties - and/or Enigmas
+  - Homer's *Iliad*: war and unchecked emotion; but also the complexity and contradictions of ambition
+  - Homer's *Odyssey*: centrality of home and family; but also how deception factors into fidelity
+  - Herodotus' *Histories*: how people construct "the enemy," but the stories they *want* to believe about themselves and the patterns of history
+  - Thucydides' version of Pericles' Funeral Oration: the meaning(s) of the state
+  - Sophocles' *Antigone*: being an individual in a city when the state threatens the family
+  - Euripides' *Bacchae*: the power and fearsomeness of divinity
+  - Aristophanes' *Clouds*: the manipulations of "knowledge"; or the dangers of anti-intellectualism
+  - Plato's *Apology*: how to die well (answer: live well?)
+  - Plutarch's *Lives*: other people's exemplary lives - and their complexity
+
+- Why Discover Greeks? (9/24/21)
+  - "We discover the Greeks because the Greeks discover us."
+    - Self-interrogation, including questioning the familiarity and distance of antiquity
+
+  - "We discover the Greeks because no one will discover them the way we will."
+    - Privilege; and a responsibility!
+
+  - Polypragmon - busy, restless (applied to Athenians); all up in your business (Socrates); overly curious (Herodotus)
+    - What is the right way to be busy?
+
+  - Why Be Busy with the Greeks? (12/3/21)
+    - Because understanding Ancient Greece is *not easy*
+    - Because Ancient Greece is *strange*
+    - Because Ancient Greece is *cool*
+      - Coolness as Understanding the Wonderous
+        - "Wonder is the feeling of a philosopher, and philosophy begins in wonder."
+
+      - "Cool" <= from "kel-"
+        - (proto-Indo-European root): "To cover, to conceal"
+          - Cellar, occult, apocalypse
+
+- *Last Letters from Hav*, Jan Morris (1985)
+  - "In the city, he said, they [the Greeks] had been oppressed for so long that they had lost their national characteristics, and had become subdued and inhibited. Evasive, too, somebody said between mouthfuls. One would not know, seeing them in their poky shops and offices, that they were of a great seagoing race, a martial race – it was here after all that Achilles built his fortress, here that the Spartans created the Iron Dog!... The more I watched and listened to them, the less Greek those Greeks really seemed to be. There was something odd about them. Were they really Greeks at all?... Perhaps it was the ouzo."
+
+- Pausanias (2nd century CE) on "The Great City"
+  - "Megalopolis was founded by the Arcadians with the utmost enthusiasm amidst the highest hopes of the Greeks, but it has lost all its beauty and its old prosperity, being to-day for the most part in ruins. I am not in the least surprised... For Mycenae, the leader of the Greeks in the Trojan war, and Nineveh, where was the royal palace of the Assyrians, are utterly ruined and desolate... Delos, once the common market of Greece, has no Delian inhabitant, but only the men sent by the Athenians to guard the sanctuary... These places have been reduced by the gods to nothing."
+
+- "A noble simplicity and a quiet grandeur"
+- Theocritus *Idyll* 1 (3rd century BCE)
+  - "The lip of it is hanged about with curling ivy, ivy freaked with a cassidony which goes twisting and twining among the leaves in the pride of her saffron fruitage. And within this bordure there’s a woman, fashioned as a god might fashion her, lapped in a robe and snood about her head. And either side the woman a swain with fair and flowing locks, and they bandy words the one with the other. Yet her heart is not touched by aught they say; for now 'tis a laughing glance to this, and anon a handful of regard to that, and for all their eyes have been so long hollow for love of her, they spend their labor in vain."
+
+
+- Coolness (not "neatness")
+  - "In Bertolt Brecht's diaries he writes about such things as the essence of art, which he describes as 'simplicity, grandeur, and sensitivity, and art's form, coolness.'"
+- Socrates' Magnetic Coolness
+  - "In fact, I've never been anyone's teacher at any time. But if anyone, whether young or old, wanted to listen to me while I was talking and performing my own task, I never begrudged that to him."
+- Pleasure in the Cold Process of Examination
+  - "Why, then, you may ask, do some people enjoy spending so much time with me? You've heard the answer, men of Athens. I told you the whole truth: it's because they enjoy listening to people being examined who think they're wise but aren't. For it's not unpleasant. In my case, however, it's something, you may take it from me, I've been ordered to do by the god, in both oracles and dreams, and in every other way that divine providence ever ordered any man to do anything at all."
+- The Coolly Examined Life
+  - "Then I examined this person - there's no need for me to mention h8im by name; he was one of out politicians. And when I examined him and talked with him, men of Athens, my experience was something like this: I thought this man seemed wise to many people, and especially to himself, but wasn't. As a result, he came to dislike me... For my part, I thought to myself, 'I'm wiser than that person.' For it's likely that neither of us knows anything wise and good, but *he* thinks he knows something he doesn't know, whereas I, since I don't in fact know, don't think that I do. At any rate, it seems that I'm wiser than he in just this one small way: that what I don't know, I don't think I know."
+- Being Out of Place
+  - "How odd [lit., "out of place"] you are, Socrates!"
+  - "A divine and daimonic thing comes to me... It's something that began happening to me in childhood: a sort of voice comes, which, whenever it does come, always holds me back from what I'm about to do but never urges me forward. *It* is what opposes my engaging in politics - and to me, at least, its opposition seems entirely right. For you may be sure, men of Athens, that if I'd tried to engage in politics I'd have perished long ago and have benefitted you nor myself."
+- Socrates - and the Greeks - as "strangers"
+  - "Because the stranger is not bound by roots to the particular constituents and partisan dispositions of the group, he confronts all of these with a distinctly 'objective' attitude, an attitude that does not signify mere detachment and nonparticipation, but is a distinct structure composed of remoteness and nearness, indifference and involvement..."
+- Robert Lowell (1917 - 1977)
+  - "We will always have the Latin and Greek classics, and they'll never be absorbed. There's something very restful about that."
+- "Life in fragments no longer. Only connect." (E.M. Forster)
+  - "There is a painting of a man in Hades weaving a rope, who lets it out to a donkey at pasture, which eats up what he is weaving; in exactly the same way, most people succumb to blind, ungrateful oblivion, which consumes them and leaves no trace of any event, any moment of success, pleasant relaxation, interactions or delight. This oblivion prevents life from being a unity of past events woven with present ones: it divides yesterday from today, as if it were distinct, and likewise treats tomorrow as different from today, and it immediately consigns every occurrence to non-existence by never making use of memory."
+- Sophocles, *The Lover of Achilles*
+  - "Desire is an evil bound upon the day. Here's a comparison - not bad, I think: when ice gleams in the open air, children grab. Ice-crystal in the hands is at first a pleasure quite novel. But there comes a point - you can't put the melting mass down, you can't keep holding it. Desire is like that. Pulling the lover to act and not to act, again and again, pulling."
 
 
 
