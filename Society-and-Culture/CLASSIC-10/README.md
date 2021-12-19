@@ -26,4 +26,4 @@
 |  Exam   |   Score   |
 | :-----: | :-------: |
 | Midterm | 102.5/100 |
-|  Final  |    N/A    |
+|  Final  |     -     |
