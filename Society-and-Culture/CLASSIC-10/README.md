@@ -2,7 +2,7 @@
 
 # Kirkland - Fall '21
 
-## Overall: IP | Raw Percentage: IP
+## Overall: P | Raw Percentage: N/A
 
 ## Grading
 
@@ -26,4 +26,4 @@
 |  Exam   |   Score   |
 | :-----: | :-------: |
 | Midterm | 102.5/100 |
-|  Final  |    ???    |
+|  Final  |    N/A    |
