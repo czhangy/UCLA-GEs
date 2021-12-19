@@ -1,4 +1,4 @@
-# Charles Zhang - GPA: 3.92 - Computer Science
+# Charles Zhang - GEs
 
 ## Foundations of the Arts and Humanities
 
@@ -18,5 +18,5 @@
 | Subcategory         |   Course   |    Term    | Grade |
 | :------------------ | :--------: | :--------: | :---: |
 | Social Analysis     |  ANTHRO 4  | Winter '21 |   A   |
-| Historical Analysis | CLASSIC 10 |  Fall '21  |  IP   |
+| Historical Analysis | CLASSIC 10 |  Fall '21  |   P   |
 
